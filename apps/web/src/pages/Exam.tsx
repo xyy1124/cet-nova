@@ -120,7 +120,12 @@ export default function Exam() {
   );
 
   const isExam = attempt?.mode === "exam";
-  const examLimitMs = (exam?.totalDurationMin ?? 130) * 60000;
+  const listeningMin = exam?.sections.find((s) => s.id === "listening")?.durationMin ?? 0;
+  const limitMin =
+    pack?.hasListening === false
+      ? (exam?.totalDurationMin ?? 130) - listeningMin
+      : exam?.totalDurationMin ?? 130;
+  const examLimitMs = limitMin * 60000;
   const remaining = Math.max(0, examLimitMs - elapsed);
 
   useEffect(() => {
@@ -266,6 +271,11 @@ export default function Exam() {
       </nav>
 
       <div className="exam-body">
+        {pack.hasListening === false && (
+          <div className="exam-banner">
+            本卷卷面不含听力，仅可练习阅读、写作与翻译。
+          </div>
+        )}
         <div className="qn-strip">
           {sectionQuestions
             .filter((q) => q.paperNo !== null)

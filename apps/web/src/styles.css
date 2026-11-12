@@ -638,6 +638,16 @@ select {
   animation: page-in var(--dur-3) var(--ease-out);
 }
 
+.exam-banner {
+  margin-bottom: 14px;
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  background: var(--warn-soft);
+  color: var(--warn);
+  font-size: 13px;
+  border: 1px solid transparent;
+}
+
 .qn-strip {
   display: flex;
   gap: 6px;

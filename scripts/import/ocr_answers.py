@@ -51,11 +51,13 @@ def main() -> int:
     ap.add_argument("--audio-bytes", type=int, required=True)
     ap.add_argument("--amplitude-note", default="")
     ap.add_argument("--source-id", default="mineru-ocr")
+    ap.add_argument("--no-listening", action="store_true")
     args = ap.parse_args()
 
     text = Path(args.md).read_text(encoding="utf-8", errors="ignore")
     letters = extract(text)
-    miss = [n for n in range(1, 56) if n not in letters]
+    required = range(26, 56) if args.no_listening else range(1, 56)
+    miss = [n for n in required if n not in letters]
     if miss:
         print(json.dumps({"error": "missing", "missing": miss}), flush=True)
         return 2
@@ -72,7 +74,7 @@ def main() -> int:
                 "matchedBy": ["OCR 全文，答案标记 [答案]/[锁定答案]/[答案精析]"],
             }
         ],
-        "listening": {str(n): letters[n] for n in range(1, 26)},
+        "listening": {} if args.no_listening else {str(n): letters[n] for n in range(1, 26)},
         "cloze": {str(n): letters[n] for n in range(26, 36)},
         "matching": {str(n): letters[n] for n in range(36, 46)},
         "careful": {str(n): letters[n] for n in range(46, 56)},

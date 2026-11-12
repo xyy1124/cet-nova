@@ -265,6 +265,8 @@ export interface Pack {
   examId: string;
   sessionId: string;
   kind: "exam" | "demo";
+  /** false 表示这套卷子卷面就没有听力，只含阅读/写作/翻译 */
+  hasListening?: boolean;
   title: LocalizedText;
   builtAt: string;
   builder?: { tool: string; version: string };

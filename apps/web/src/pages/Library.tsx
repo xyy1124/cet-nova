@@ -83,7 +83,7 @@ export default function Library() {
       <div className="pack-list">
         {packs.map(({ pack, manifestPath, manifestPack }) => {
           const objective = pack.questions.filter((q) => q.type !== "free_text").length;
-          const audio = pack.assets.filter((a) => a.type === "audio").length;
+          const noListening = pack.hasListening === false;
           return (
             <article className="card pack-row" key={pack.packId}>
               <div>
@@ -100,8 +100,8 @@ export default function Library() {
                     {pack.examId.toUpperCase()} · {pack.sessionId}
                   </span>
                   <span className="badge">{objective} 道客观题</span>
-                  <span className={`badge ${audio > 0 ? "badge-ok" : ""}`}>
-                    {audio > 0 ? "含音频" : "无音频 · 原文模式"}
+                  <span className={`badge ${noListening ? "badge-warn" : "badge-ok"}`}>
+                    {noListening ? "无听力 · 仅阅读写译" : "含音频"}
                   </span>
                   <span className="badge">
                     {manifestPack.completeness.hasAnswerKey ? "答案已核" : "答案待核"}

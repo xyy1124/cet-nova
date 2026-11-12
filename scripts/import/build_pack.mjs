@@ -21,6 +21,7 @@ const VARIANT = key.variant ?? "v1";
 const PACK_ID = `cet6-${SESSION}-${VARIANT}`;
 const NOW = "2026-11-12T00:00:00Z";
 const LETTERS = ["A", "B", "C", "D"];
+const NO_LISTENING = process.argv.includes("--no-listening");
 const ANSWER_SOURCE = key.sources?.[0]?.id ?? "source";
 const SET_NO = Number(VARIANT.replace("v", "")) || 1;
 const [SESS_YEAR, SESS_MONTH] = SESSION.split("-");
@@ -78,24 +79,26 @@ function pushChoice({ no, part, materialId, stem, options, letter, evidenceNote 
 const listeningParts = (no) =>
   no <= 8 ? "listening.p1" : no <= 15 ? "listening.p2" : "listening.p3";
 
-materials.push({
-  materialId: `mat-${SESSION}-L`,
-  section: "listening",
-  part: "listening.p1",
-  sharedAcrossVariants: true,
-  audio: { assetId: `aud-${SESSION}-v1`, durationMs: 0 },
-});
+if (!NO_LISTENING) {
+  materials.push({
+    materialId: `mat-${SESSION}-L`,
+    section: "listening",
+    part: "listening.p1",
+    sharedAcrossVariants: true,
+    audio: { assetId: `aud-${SESSION}-v1`, durationMs: 0 },
+  });
 
-for (const section of parsed.listening) {
-  for (const q of section.questions) {
-    pushChoice({
-      no: q.no,
-      part: listeningParts(q.no),
-      materialId: `mat-${SESSION}-L`,
-      stem: q.stem,
-      options: q.options,
-      letter: key.listening[String(q.no)],
-    });
+  for (const section of parsed.listening) {
+    for (const q of section.questions) {
+      pushChoice({
+        no: q.no,
+        part: listeningParts(q.no),
+        materialId: `mat-${SESSION}-L`,
+        stem: q.stem,
+        options: q.options,
+        letter: key.listening[String(q.no)],
+      });
+    }
   }
 }
 
@@ -292,6 +295,7 @@ const pack = {
   examId: "cet6",
   sessionId: SESSION,
   kind: "exam",
+  hasListening: !NO_LISTENING,
   title: {
     zh: TITLE_ZH,
     en: TITLE_EN,
@@ -316,7 +320,7 @@ const pack = {
       note: `${s.title}（${s.covers}；匹配依据：${s.matchedBy[0]}）`,
     })),
   ],
-  assets: [
+  assets: NO_LISTENING ? [] : [
     {
       assetId: `aud-${SESSION}-${VARIANT}`,
       type: "audio",

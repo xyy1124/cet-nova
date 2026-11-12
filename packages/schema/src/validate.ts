@@ -91,6 +91,7 @@ export function validatePack(
     warnings.push({ code, severity: "warning", message, path });
 
   const isExam = pack.kind === "exam";
+  const hasListening = pack.hasListening !== false;
   const qById = new Map<string, Question>();
   const aByQ = new Map<string, Answer>();
   const mById = new Map(pack.materials.map((m) => [m.materialId, m]));
@@ -135,6 +136,7 @@ export function validatePack(
 
   // ---------- V02 题量 ----------
   for (const part of exam.parts) {
+    if (!hasListening && part.section === "listening") continue;
     const count = pack.questions.filter((q) => q.part === part.id).length;
     if (isExam && count !== part.count)
       err("V02", `${part.id} 题量 ${count}，应为 ${part.count}`);
@@ -337,7 +339,9 @@ export function validatePack(
   // ---------- V14 题号连续性 ----------
   if (isExam) {
     const nums = [...paperNos].sort((a, b) => a - b);
-    const expected = Array.from({ length: 56 }, (_, i) => i + 1);
+    const expected = hasListening
+      ? Array.from({ length: 56 }, (_, i) => i + 1)
+      : Array.from({ length: 31 }, (_, i) => i + 26);
     const missing = expected.filter((n) => !nums.includes(n));
     if (missing.length > 0) {
       const all = pack.questions.some((q) => q.paperNo === null);

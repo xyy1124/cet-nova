@@ -20,6 +20,38 @@
       }
     },
     {
+      "packId": "cet6-2025-06-v2",
+      "examId": "cet6",
+      "sessionId": "2025-06",
+      "kind": "exam",
+      "title": { "zh": "2025 年 6 月 六级真题（第 2 套 · 无听力）", "en": "CET-6 2025-06 set 2 (no listening)" },
+      "path": "sessions/2025-06-v2/pack.json",
+      "questionCount": 31,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": false,
+        "audioCompleteness": "none",
+        "note": "本卷卷面未含听力，仅阅读 30 题 + 写作 + 翻译"
+      }
+    },
+    {
+      "packId": "cet6-2025-06-v3",
+      "examId": "cet6",
+      "sessionId": "2025-06",
+      "kind": "exam",
+      "title": { "zh": "2025 年 6 月 六级真题（第 3 套 · 无听力）", "en": "CET-6 2025-06 set 3 (no listening)" },
+      "path": "sessions/2025-06-v3/pack.json",
+      "questionCount": 31,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": false,
+        "audioCompleteness": "none",
+        "note": "本卷卷面未含听力，仅阅读 30 题 + 写作 + 翻译"
+      }
+    },
+    {
       "packId": "cet6-2024-12-v1",
       "examId": "cet6",
       "sessionId": "2024-12",
