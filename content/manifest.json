@@ -4,6 +4,22 @@
   "exams": ["cet6"],
   "packs": [
     {
+      "packId": "cet6-2025-06-v1",
+      "examId": "cet6",
+      "sessionId": "2025-06",
+      "kind": "exam",
+      "title": { "zh": "2025 年 6 月 六级真题（第 1 套）", "en": "CET-6 2025-06 set 1" },
+      "path": "sessions/2025-06-v1/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "卷面与解析由 OCR 识别；音频 17.6 MB 外部来源；答案单一来源"
+      }
+    },
+    {
       "packId": "cet6-2024-12-v1",
       "examId": "cet6",
       "sessionId": "2024-12",

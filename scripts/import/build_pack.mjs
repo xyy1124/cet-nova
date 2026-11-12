@@ -23,6 +23,9 @@ const NOW = "2026-11-12T00:00:00Z";
 const LETTERS = ["A", "B", "C", "D"];
 const ANSWER_SOURCE = key.sources?.[0]?.id ?? "source";
 const SET_NO = Number(VARIANT.replace("v", "")) || 1;
+const [SESS_YEAR, SESS_MONTH] = SESSION.split("-");
+const TITLE_ZH = `${SESS_YEAR} 年 ${Number(SESS_MONTH)} 月 六级真题（第 ${SET_NO} 套）`;
+const TITLE_EN = `CET-6 ${SESSION} set ${SET_NO}`;
 
 const materials = [];
 const questions = [];
@@ -290,8 +293,8 @@ const pack = {
   sessionId: SESSION,
   kind: "exam",
   title: {
-    zh: `2024 年 12 月 六级真题（第 ${SET_NO} 套）`,
-    en: `CET-6 2024-12 set ${SET_NO}`,
+    zh: TITLE_ZH,
+    en: TITLE_EN,
   },
   builtAt: NOW,
   builder: { tool: "cetnova-import", version: "0.1.0" },

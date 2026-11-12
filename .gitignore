@@ -5,3 +5,11 @@ apps/web/public/content/
 .DS_Store
 work/
 raw/
+
+需要OCR/
+已经OCR/
+已有文本/
+源文件备份/
+__pycache__/
+*.pyc
+.venv/
