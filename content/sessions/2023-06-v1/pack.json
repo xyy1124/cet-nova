@@ -1,0 +1,3079 @@
+{
+  "schemaVersion": "1.0.0",
+  "packId": "cet6-2023-06-v1",
+  "examId": "cet6",
+  "sessionId": "2023-06",
+  "kind": "exam",
+  "hasListening": true,
+  "title": {
+    "zh": "2023 年 6 月 六级真题（第 1 套）",
+    "en": "CET-6 2023-06 set 1"
+  },
+  "builtAt": "2026-11-12T00:00:00Z",
+  "builder": {
+    "tool": "cetnova-import",
+    "version": "0.1.0"
+  },
+  "sources": [
+    {
+      "sourceId": "src-0609x-paper-v1",
+      "kind": "paper_pdf",
+      "host": "github.com/0609x/CET46-Resources",
+      "path": "六级真题/2024.12/真题PDF/2024.12六级真题第1套.pdf",
+      "retrievedAt": "2026-11-12T00:00:00Z",
+      "note": "卷面文本由 PyMuPDF 抽取，未改动用词"
+    },
+    {
+      "sourceId": "mineru-2023-06-v1",
+      "kind": "answer_key",
+      "host": "",
+      "path": "/E:/Zcode/%E9%97%AE%E9%A2%98/11-CET-Nova/%E5%B7%B2%E7%BB%8FOCR/2023.06-%E8%A7%A3%E6%9E%90-2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97%E8%AF%A6%E8%A7%A3.pdf-62330e8f-36cb-4678-93ec-370763499a21/full.md",
+      "retrievedAt": "2026-11-12T00:00:00Z",
+      "note": "2023.06 解析（MinerU OCR）（listening,cloze,matching,careful；匹配依据：OCR 全文，答案标记 [答案]/[锁定答案]/[答案精析]）"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "aud-2023-06-v1",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "durationMs": 0,
+      "distribution": {
+        "state": "external",
+        "url": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2023.06/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2023.06%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91.mp3",
+        "referrer": "https://github.com/0609x/CET46-Resources",
+        "note": "2023.06 听力音频；不随包分发，由用户从原始来源获取"
+      },
+      "integrity": {
+        "bytes": 20119016
+      },
+      "rights": {
+        "status": "third_party",
+        "note": "著作权归原权利人"
+      }
+    }
+  ],
+  "materials": [
+    {
+      "materialId": "mat-2023-06-L",
+      "section": "listening",
+      "part": "listening.p1",
+      "sharedAcrossVariants": true,
+      "audio": {
+        "assetId": "aud-2023-06-v1",
+        "durationMs": 0
+      }
+    },
+    {
+      "materialId": "mat-2023-06-R1",
+      "section": "reading",
+      "part": "reading.p1",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "",
+        "wordCount": 289,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "Scientists recently examined studies on dog intelligence and compared them with research into the minds of other intelligent animals. The researchers found that dogs are among the more intelligent carnivores (食肉动物), social hunters and domestic animals, but that their intelligence does not {{26}} other intelligent animals in any of those categories. Though a significant body of research has examined dog cognition {{27}}, the authors of this new study found little to warrant the {{28}} of work that has been devoted to the topic. Stephen Lea, lead author of the new study, argues that many researchers seem to have designed their studies to {{29}} how clever dogs are, rather than simply to study dogs' brains. Lea and a colleague examined more than 300 studies of dog cognition, comparing the studies' results with those from research into other animals. The researchers made specific comparisons between the different species in different categories of intelligence. These comparisons {{30}} that dogs are intelligent, but their intelligence is not as {{31}} as some researchers might have believed. In many areas, though, comparisons were not possible. For example, the researchers noted that both dogs and cats are known to be able to recognize and {{32}} human voices. But the investigators could not find any data to indicate which species can remember a greater number of {{33}} human voices, so it was impossible to compare the two on that front. However, not all researchers agree {{34}} with the findings of this study. Zachary Silver, an American researcher, believes the authors of the new study {{35}} the idea that an excessive amount of research has been devoted to dogs, as the field of dog cognition is young, and there is much to be learned about how dogs think."
+          }
+        ]
+      },
+      "wordBank": [
+        "affirmed",
+        "approximately",
+        "completely",
+        "differentiate",
+        "distinct",
+        "domain",
+        "formidable",
+        "outperformed",
+        "overstated",
+        "pledge",
+        "previously",
+        "prospective",
+        "prove",
+        "surpass",
+        "volume"
+      ]
+    },
+    {
+      "materialId": "mat-2023-06-R2",
+      "section": "reading",
+      "part": "reading.p2",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "The lifesaving power of gratitude",
+        "wordCount": 1184,
+        "paragraphs": [
+          {
+            "id": "A",
+            "text": "Gratitude may be more beneficial than we commonly suppose. One recent study asked participants to write a note of thanks to someone and then estimate how surprised and happy the recipient would feel—an impact that they consistently underestimated. Another study assessed the health benefits of writing thank-you notes. The researchers found that writing as few as three weekly thank-you notes over the course of three weeks improved life satisfaction, increased happy feelings and reduced symptoms of depression."
+          },
+          {
+            "id": "B",
+            "text": "While this research into gratitude is relatively new, the principles involved are anything but. Students of mine in a political philosophy course at Indiana University are reading Daniel Defoe's 300-year-old Robinson Crusoe, often regarded as the first novel published in English. Left alone on an unknown island with no apparent prospect of rescue or escape, Crusoe has much to lament (悲叹). But instead of giving in to despair, he makes a list of things for which he is grateful, including the fact that he is the sole survivor from the shipwreck (海难) and has been able to salvage many useful items from the wreckage."
+          },
+          {
+            "id": "C",
+            "text": "Defoe's masterpiece, which is often ranked as one of the world's greatest novels, provides a portrait of gratitude in action that is as timely and relevant today as it has ever been. It is also one with which contemporary psychology and medicine are just beginning to catch up. Simply put, for most of us, it is far more helpful to focus on the things in life for which we can express gratitude than those that incline us toward resentment and lamentation."
+          },
+          {
+            "id": "D",
+            "text": "When we focus on the things we regret, such as failed relationships, family disputes, and setbacks in career and finance, we tend to become more regretful. Conversely, when we focus on the things we are grateful for, a greater sense of happiness tends to spread through our lives. And while no one would argue for cultivating a false sense of blessedness, there is mounting evidence that counting our blessings is one of the best habits we can develop to promote mental and physical health."
+          },
+          {
+            "id": "E",
+            "text": "Gratitude has long enjoyed a privileged position in many of the world's cultural traditions. For example, some ancient Western philosophers counsel gratitude that is both enduring and complete, and some Eastern thinkers portray it as not merely an attitude but a virtue to be put into practice."
+          },
+          {
+            "id": "F",
+            "text": "Recent scientific studies support these ancient teachings. Individuals who regularly engage in gratitude exercises, such as counting their blessings or expressing gratitude to others, exhibit increased satisfaction with relationships and fewer symptoms of physical illness. And the benefits are not only psychological and physical. They may also be moral—those who practice gratitude also view their lives less materialistically and suffer from less envy."
+          },
+          {
+            "id": "G",
+            "text": "There are multiple explanations for such benefits of gratefulness. One is the fact that expressing gratitude encourages others to continue being generous, thus promoting a virtuous cycle of goodness in relationships. Similarly, grateful people may be more likely to reciprocate (回报) with acts of kindness of their own. Broadly speaking, a community in which people feel grateful to one another is likely to be a more pleasant place to live than one characterized by mutual suspicion and resentment. The beneficial effects of gratitude may extend even further. For example, when many people feel good about what someone else has done for them, they experience a sense of being lifted up, with a corresponding enhancement of their regard for humanity. Some are inspired to attempt to become better people themselves, doing more to help bring out the best in others and bringing more goodness into the world around them."
+          },
+          {
+            "id": "H",
+            "text": "Gratitude also tends to strengthen a sense of connection with others. When people want to do good things that inspire gratitude, the level of dedication in relationships tends to grow and relationships seem to last longer. And when people feel more connected, they are more likely to choose to spend their time with one another and demonstrate their feelings of affection in daily acts."
+          },
+          {
+            "id": "I",
+            "text": "Of course, acts of kindness can also foster discomfort. For example, if people feel they are not worthy of kindness or suspect that some ulterior (别有用心的) motive lies behind it, the benefits of gratitude will not be realized. Likewise, receiving a kindness can give rise to a sense of indebtedness, leaving beneficiaries feeling that they must now pay back whatever good they have received. Gratitude can flourish only if people are secure enough in themselves and sufficiently trusting to allow it to do so. Another obstacle to gratitude is often called a sense of entitlement. Instead of experiencing a benefaction (善行) as a good turn, people sometimes regard it as a mere payment of what they are owed, for which no one deserves any moral credit."
+          },
+          {
+            "id": "J",
+            "text": "There are a number of practical steps anyone can take to promote a sense of gratitude. One is simply spending time on a regular basis thinking about someone who has made a difference, or perhaps writing a thank-you note or expressing such gratitude in person. Others are found in ancient religious disciplines, such as reflecting on benefactions received from another person or actually praying for the health and happiness of a benefactor. In addition to benefactions received, it is also possible to focus on opportunities to do good oneself, whether those acted on in the past or hoped for in the future. Some people are most grateful not for what others have done for them but for chances they enjoyed to help others. In regularly reflecting on the things in his life he is grateful for, Defoe's Crusoe believes that he becomes a far better person than he would have been had he remained in the society from which he originally set out on his voyage."
+          },
+          {
+            "id": "K",
+            "text": "Reflecting on generosity and gratitude, the great basketball coach John Wooden once offered two counsels to his players and students. First, he said, \"It is impossible to have a perfect day unless you have done something for someone who will never be able to repay you.\" In saying this, Wooden sought to promote purely generous acts, as opposed to those performed with an expectation of reward. Second, he said, \"Give thanks for your blessings every day.\""
+          },
+          {
+            "id": "L",
+            "text": "Some faith traditions incorporate such practices into the rhythm of daily life. For example, adherents of some religions offer prayers of thanksgiving every morning before rising and every night before lying down to sleep. Others offer thanks throughout the day, such as before meals. Other less frequent special events, such as births, deaths and marriages, may also be heralded by such prayers."
+          },
+          {
+            "id": "M",
+            "text": "When Defoe depicted Robinson Crusoe making thanksgiving a daily part of his island life, he was anticipating findings in social science and medicine that would not appear for hundreds of years. Yet he was also reflecting the wisdom of religious and philosophical traditions that extend back thousands of years. Gratitude is one of the healthiest and most nourishing of all states of mind, and those who adopt it as a habit are enriching not only their own lives but also the lives of those around them."
+          }
+        ]
+      }
+    },
+    {
+      "materialId": "mat-2023-06-R3",
+      "section": "reading",
+      "part": "reading.p3",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "Passage One",
+        "wordCount": 454,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "are based on the following passage. Technology is never a neutral tool for achieving human ends. Technological innovations reshape people as they use these innovations to control their environment. Artificial intelligence, for example, is altering humanity. While the term AI conjures up anxieties about killer robots or catastrophic levels of unemployment, there are other, deeper implications. As AI increasingly shapes the human experience, how does this change what it means to be human? Central to the problem is a person's capacity to make choices, particularly judgments that have moral implications. Aristotle argued that the capacity for making practical judgments depends on regularly making them—on habit and practice. We see the emergence of machines as substitute judges in a variety of everyday contexts as a potential threat to people learning how to effectively exercise judgment themselves. In the workplace, managers routinely make decisions about who to hire or fire and which loan to approve, to name a few. These are areas where algorithmic (算法的) prescription is replacing human judgment, and so people who might have had the chance to develop practical judgment in these areas no longer will. Recommendation engines, which are increasingly prevalent intermediaries in people's consumption of culture, may serve to constrain choice and minimize luck. By presenting consumers with algorithmically selected choices of what to watch, read, stream and visit next, companies are replacing human taste with machine taste. In one sense, this is helpful. After all, machines can survey a wider range of choices than any individual is likely to have the time or energy to do on their own. At the same time, though, this selection is optimizing for what people are likely to prefer based on what they've preferred in the past. We think there is some risk that people's options will be constrained by their past in a new and unanticipated way. As machine learning algorithms improve and as they train on more extensive data sets, larger parts of everyday life are likely to become utterly predictable. The predictions are going to get better and better, and they will ultimately make common experiences more efficient and pleasant. Algorithms could soon—if they don't already—have a better idea about which show you'd like to watch next and which job candidate you should hire than you do. One day, humans may even find a way for machines to make these decisions without some of the biases that humans typically display. But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant. As they become more and more predictable, the creatures inhabiting the increasingly AI-mediated world will become less and less like us."
+          }
+        ]
+      }
+    },
+    {
+      "materialId": "mat-2023-06-R4",
+      "section": "reading",
+      "part": "reading.p3",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "Passage Two",
+        "wordCount": 456,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "are based on the following passage. Phonics, which involves sounding out words syllable (音节) by syllable, is the best way to teach children to read. But in many classrooms, this can be a dirty word. So much so that some teachers have had to sneak phonics teaching materials into the classroom. Most American children are taught to read in a way that study after study has found to be wrong. The consequences of this are striking. Less than half of all American adults were proficient readers in 2017. American fourth graders rank 15th on the Progress in International Literacy Study, an international exam. America is stuck in a debate about teaching children to read that has been going on for decades. Some advocate teaching symbol-sound relationships (the sound k can be spelled as c, k, ck, or ch), known as phonics. Others support an immersive approach (using pictures of a cat to learn the word cat), known as “whole language”. Most teachers today, almost three out of four according to a survey by the EdWeek Research Centre in 2019, use a mix called “balanced literacy”. This combination of methods is ineffective. “You can’t sprinkle in a little phonics,” says Tenette Smith, executive director of elementary education and reading at Mississippi’s education department. “It has to be systematic and explicitly taught.” Mississippi, often behind in social policy, has set an example here. In a state once notorious for its low reading scores, the Mississippi state legislature passed new literacy standards in 2013. Since then Mississippi has seen remarkable gains. Its fourth graders have moved from 49th (out of 50 states) to 29th on the National Assessment of Educational Progress, a nationwide exam. In 2019 it was the only state to improve its scores. For the first time since measurement began, Mississippi's pupils are now average readers, a remarkable achievement in such a poor state. Mississippi's success is attributed to implementing reading methods supported by a body of research known as the science of reading. In 1997 Congress requested the National Institute of Child Health and Human Development and the Department of Education to convene a National Reading Panel to end the “reading wars” and synthesize the evidence. The panel found that phonics, along with explicit instruction in phonemic (音位的) awareness, fluency and comprehension, worked best. Yet over two decades on, “balanced literacy” is still being taught in classrooms. But advances in statistics and brain imaging have disproved the whole-language method. To the teacher who is a proficient reader, literacy seems like a natural process that requires educated guessing, rather than the deliberate process emphasized by phonics. Teachers can imagine that they learned to read through osmosis（潜移默化）when they were children. Without proper training, they bring this to classrooms."
+          }
+        ]
+      }
+    },
+    {
+      "materialId": "mat-2023-06-T",
+      "section": "translation",
+      "part": "translation",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "汉译英",
+        "wordCount": 337,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2. 近年来,越来越多的中国文化产品走向全球市场,日益受到海外消费者的青睐。随着中国对外文化贸易的快速发展,中国文化产品出口额已持续多年位居世界前列,形成了一批具有国际影响力的文化企业、产品和品牌。数据显示,中国的出版物、影视作品、网络文学与动漫作品等在海外的销售量连年攀升。中国政府出台了一系列政策鼓励和支持更多具有中国元素的优秀文化产品走出国门,扩大海外市场份额,进一步提升中国文化的世界影响力。"
+          }
+        ]
+      },
+      "referenceTranslation": {
+        "text": "![](images/fc6e594d21721b6aa5511de7af12d9177a5606b7d486d5c115779d0fd1086256.jpg) ## Section C ## Passage One ![](images/7840c7f08421e7963af0d09d9661430d759e2c5b8229c7440ea1438fac47d063.jpg) ## Passage Two In recent years, an increasing number of Chinese cultural products have entered the global market, gaining growing popularity among overseas consumers. Propelled by the rapid growth of China's foreign cultural trade, the export volume of Chinese cultural products has maintained a high rank globally for many years, and a group of cultural enterprises, products and brands with international influence have been established. Statistical data reveals that the sales volume of Chinese publications, films and television programs, online literature, and animation products overseas has increased year after year. The Chinese government has introduced a series of policies to encourage and support more outstanding cultural products with Chinese elements to go abroad and expand market share in overseas markets so as to further enhance the influence of Chinese culture in the world.",
+        "sourceId": "mineru-2023-06-v1"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "questionId": "cet6.2023-06.v1.q1",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p1",
+      "paperNo": 1,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It was spacious and tranquil."
+        },
+        {
+          "optionId": "o2",
+          "text": "It was warm and comfortable."
+        },
+        {
+          "optionId": "o3",
+          "text": "It was shabby and solitary."
+        },
+        {
+          "optionId": "o4",
+          "text": "It was tiny and noisy."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q2",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p1",
+      "paperNo": 2,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "She no longer hates people talking loudly in the dorm."
+        },
+        {
+          "optionId": "o2",
+          "text": "She misses her roommates she used to complain about."
+        },
+        {
+          "optionId": "o3",
+          "text": "She begins to enjoy the movies she once found irritating."
+        },
+        {
+          "optionId": "o4",
+          "text": "She finds the crowded dorm as cozy as her new apartment."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q3",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p1",
+      "paperNo": 3,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "He found the apartment perfectly furnished."
+        },
+        {
+          "optionId": "o2",
+          "text": "He had a feeling of despair and frustration."
+        },
+        {
+          "optionId": "o3",
+          "text": "He had a similar feeling to the woman's."
+        },
+        {
+          "optionId": "o4",
+          "text": "He felt the new place was like paradise."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q4",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p1",
+      "paperNo": 4,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Go to see the woman's apartment."
+        },
+        {
+          "optionId": "o2",
+          "text": "Make a phone call to his parents."
+        },
+        {
+          "optionId": "o3",
+          "text": "Buy some furniture for the woman."
+        },
+        {
+          "optionId": "o4",
+          "text": "Decorate the woman's apartment."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q5",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p1",
+      "paperNo": 5,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "He works as a literary critic."
+        },
+        {
+          "optionId": "o2",
+          "text": "He hosts an educational program."
+        },
+        {
+          "optionId": "o3",
+          "text": "He has initiated a university reform."
+        },
+        {
+          "optionId": "o4",
+          "text": "He has published a book recently."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q6",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p1",
+      "paperNo": 6,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It fails to keep up with the radical changes of society."
+        },
+        {
+          "optionId": "o2",
+          "text": "It fails to ensure universities get sufficient resources."
+        },
+        {
+          "optionId": "o3",
+          "text": "It has not prepared young people for the job market."
+        },
+        {
+          "optionId": "o4",
+          "text": "It has not fostered the growth of the arts disciplines."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q7",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p1",
+      "paperNo": 7,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "More of the budget should go to science and technology."
+        },
+        {
+          "optionId": "o2",
+          "text": "The underfunded music discipline should be prioritized."
+        },
+        {
+          "optionId": "o3",
+          "text": "Subdisciplines like sculpture should get more funding."
+        },
+        {
+          "optionId": "o4",
+          "text": "Literature should get as much funding as engineering."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q8",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p1",
+      "paperNo": 8,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Build a prosperous nation."
+        },
+        {
+          "optionId": "o2",
+          "text": "Make skilled professionals."
+        },
+        {
+          "optionId": "o3",
+          "text": "Create ingenious artists."
+        },
+        {
+          "optionId": "o4",
+          "text": "Cultivate better citizens."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q9",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p2",
+      "paperNo": 9,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It is quite common."
+        },
+        {
+          "optionId": "o2",
+          "text": "It is rarely noticed."
+        },
+        {
+          "optionId": "o3",
+          "text": "It seldom annoys people."
+        },
+        {
+          "optionId": "o4",
+          "text": "It occurs when one is alone."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q10",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p2",
+      "paperNo": 10,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Seeing things in black and white."
+        },
+        {
+          "optionId": "o2",
+          "text": "Engaging in regular contemplation."
+        },
+        {
+          "optionId": "o3",
+          "text": "Having a special understanding of creativity."
+        },
+        {
+          "optionId": "o4",
+          "text": "Knowing how to make their mental batteries work"
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q11",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p2",
+      "paperNo": 11,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Engaging in intense activity."
+        },
+        {
+          "optionId": "o2",
+          "text": "Fantasizing in one's down time."
+        },
+        {
+          "optionId": "o3",
+          "text": "Working on a particular project."
+        },
+        {
+          "optionId": "o4",
+          "text": "Reflecting during one's relaxation."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q12",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p2",
+      "paperNo": 12,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Farmers helped Native Americans grow crops."
+        },
+        {
+          "optionId": "o2",
+          "text": "There were expansive university campuses."
+        },
+        {
+          "optionId": "o3",
+          "text": "There existed post offices."
+        },
+        {
+          "optionId": "o4",
+          "text": "Migrants found gold there."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q13",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p2",
+      "paperNo": 13,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It helped to boost the economy in the American West."
+        },
+        {
+          "optionId": "o2",
+          "text": "It provided job opportunities for many gold seekers."
+        },
+        {
+          "optionId": "o3",
+          "text": "It extended the influence of the federal government."
+        },
+        {
+          "optionId": "o4",
+          "text": "It kept people in the deserts and plains connected."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q14",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p2",
+      "paperNo": 14,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It employed Native Americans to work as postmen."
+        },
+        {
+          "optionId": "o2",
+          "text": "It commissioned private wagons to carry the mail."
+        },
+        {
+          "optionId": "o3",
+          "text": "It subsidized the locals who acted as postmasters."
+        },
+        {
+          "optionId": "o4",
+          "text": "It centralized postal services in its remote areas."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q15",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p2",
+      "paperNo": 15,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "He analyzed interactive maps of mail routes."
+        },
+        {
+          "optionId": "o2",
+          "text": "He read a large collection of books on the topic."
+        },
+        {
+          "optionId": "o3",
+          "text": "He examined its historical trends with data science."
+        },
+        {
+          "optionId": "o4",
+          "text": "He collected data about its impact on local business."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q16",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p3",
+      "paperNo": 16,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Higher levels of anxiety may improve people's memory."
+        },
+        {
+          "optionId": "o2",
+          "text": "Some experiences are easier to remember than others."
+        },
+        {
+          "optionId": "o3",
+          "text": "Most people tend to remember things selectively."
+        },
+        {
+          "optionId": "o4",
+          "text": "Simple things may leave a deep impression on one's memory."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q17",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p3",
+      "paperNo": 17,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They classified the participants' mindset."
+        },
+        {
+          "optionId": "o2",
+          "text": "They showed some photos to the participants."
+        },
+        {
+          "optionId": "o3",
+          "text": "They measured the participants' anxiety levels."
+        },
+        {
+          "optionId": "o4",
+          "text": "They tested the size of the participants' vocabulary."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q18",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p3",
+      "paperNo": 18,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Anxiety has become a serious problem for an increasing number of people."
+        },
+        {
+          "optionId": "o2",
+          "text": "Extreme levels of anxiety can adversely affect cognitive performance."
+        },
+        {
+          "optionId": "o3",
+          "text": "People diagnosed with anxiety disorder may forget things selectively."
+        },
+        {
+          "optionId": "o4",
+          "text": "There is no direct correlation between memory and levels of anxiety."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q19",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p3",
+      "paperNo": 19,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They compare products from different companies before making a choice."
+        },
+        {
+          "optionId": "o2",
+          "text": "They get information from other consumers' postings and comments."
+        },
+        {
+          "optionId": "o3",
+          "text": "They lose patience when their phone call is no promptly answered."
+        },
+        {
+          "optionId": "o4",
+          "text": "They expect to get instantaneous responses to their inquiry."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q20",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p3",
+      "paperNo": 20,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Giving them rewards on the spot."
+        },
+        {
+          "optionId": "o2",
+          "text": "Broadening their scope of interest."
+        },
+        {
+          "optionId": "o3",
+          "text": "Speaking directly to their emotions."
+        },
+        {
+          "optionId": "o4",
+          "text": "Focusing on the details of the product."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q21",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p3",
+      "paperNo": 21,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Change the rules of the game in the market every year."
+        },
+        {
+          "optionId": "o2",
+          "text": "Keep up with the latest technological developments."
+        },
+        {
+          "optionId": "o3",
+          "text": "Learn from technological innovators to do business."
+        },
+        {
+          "optionId": "o4",
+          "text": "Make greater efforts to build up consumers' confidence."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q22",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p3",
+      "paperNo": 22,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "People have only one social engagement per week."
+        },
+        {
+          "optionId": "o2",
+          "text": "Working together enhances friendship."
+        },
+        {
+          "optionId": "o3",
+          "text": "Few people have devoted friends."
+        },
+        {
+          "optionId": "o4",
+          "text": "Friendships benefit work."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q23",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p3",
+      "paperNo": 23,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "The impact of friends on people's self-esteem."
+        },
+        {
+          "optionId": "o2",
+          "text": "How supportive friends can be in the workplace."
+        },
+        {
+          "optionId": "o3",
+          "text": "How to boost one's sense of value and worthiness."
+        },
+        {
+          "optionId": "o4",
+          "text": "The role of family ties in people's mental well-being."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q24",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p3",
+      "paperNo": 24,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They show little interest in their friends' work."
+        },
+        {
+          "optionId": "o2",
+          "text": "They tend to be much more difficult to make."
+        },
+        {
+          "optionId": "o3",
+          "text": "They are more trustworthy and reliable."
+        },
+        {
+          "optionId": "o4",
+          "text": "They increase people's job satisfaction."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q25",
+      "materialId": "mat-2023-06-L",
+      "part": "listening.p3",
+      "paperNo": 25,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Allow employees to have a flexible work schedule."
+        },
+        {
+          "optionId": "o2",
+          "text": "Encourage employees to be friends with colleagues."
+        },
+        {
+          "optionId": "o3",
+          "text": "Help employees balance work and family responsibilities."
+        },
+        {
+          "optionId": "o4",
+          "text": "Organize activities to nourish friendships outside of work. Part III"
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q26",
+      "materialId": "mat-2023-06-R1",
+      "part": "reading.p1",
+      "paperNo": 26,
+      "type": "banked_cloze",
+      "blankIndex": 1,
+      "stem": "选词填空第 26 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q27",
+      "materialId": "mat-2023-06-R1",
+      "part": "reading.p1",
+      "paperNo": 27,
+      "type": "banked_cloze",
+      "blankIndex": 2,
+      "stem": "选词填空第 27 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q28",
+      "materialId": "mat-2023-06-R1",
+      "part": "reading.p1",
+      "paperNo": 28,
+      "type": "banked_cloze",
+      "blankIndex": 3,
+      "stem": "选词填空第 28 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q29",
+      "materialId": "mat-2023-06-R1",
+      "part": "reading.p1",
+      "paperNo": 29,
+      "type": "banked_cloze",
+      "blankIndex": 4,
+      "stem": "选词填空第 29 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q30",
+      "materialId": "mat-2023-06-R1",
+      "part": "reading.p1",
+      "paperNo": 30,
+      "type": "banked_cloze",
+      "blankIndex": 5,
+      "stem": "选词填空第 30 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q31",
+      "materialId": "mat-2023-06-R1",
+      "part": "reading.p1",
+      "paperNo": 31,
+      "type": "banked_cloze",
+      "blankIndex": 6,
+      "stem": "选词填空第 31 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q32",
+      "materialId": "mat-2023-06-R1",
+      "part": "reading.p1",
+      "paperNo": 32,
+      "type": "banked_cloze",
+      "blankIndex": 7,
+      "stem": "选词填空第 32 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q33",
+      "materialId": "mat-2023-06-R1",
+      "part": "reading.p1",
+      "paperNo": 33,
+      "type": "banked_cloze",
+      "blankIndex": 8,
+      "stem": "选词填空第 33 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q34",
+      "materialId": "mat-2023-06-R1",
+      "part": "reading.p1",
+      "paperNo": 34,
+      "type": "banked_cloze",
+      "blankIndex": 9,
+      "stem": "选词填空第 34 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q35",
+      "materialId": "mat-2023-06-R1",
+      "part": "reading.p1",
+      "paperNo": 35,
+      "type": "banked_cloze",
+      "blankIndex": 10,
+      "stem": "选词填空第 35 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q36",
+      "materialId": "mat-2023-06-R2",
+      "part": "reading.p2",
+      "paperNo": 36,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "stem": "It does us far more good to focus on things we can be grateful for than what makes us sad and resentful.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q37",
+      "materialId": "mat-2023-06-R2",
+      "part": "reading.p2",
+      "paperNo": 37,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "stem": "The beneficial impacts of gratitude can extend from individuals to their community and to the wider society.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q38",
+      "materialId": "mat-2023-06-R2",
+      "part": "reading.p2",
+      "paperNo": 38,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "stem": "The participants in a recent study repeatedly underestimated the positive effect on those who received thank-you notes.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q39",
+      "materialId": "mat-2023-06-R2",
+      "part": "reading.p2",
+      "paperNo": 39,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "stem": "Good deeds can sometimes make people feel uncomfortable.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q40",
+      "materialId": "mat-2023-06-R2",
+      "part": "reading.p2",
+      "paperNo": 40,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "stem": "People who regularly express gratitude can benefit in moral terms.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q41",
+      "materialId": "mat-2023-06-R2",
+      "part": "reading.p2",
+      "paperNo": 41,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "stem": "A basketball coach advocated performing generous acts without expecting anything in return.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q42",
+      "materialId": "mat-2023-06-R2",
+      "part": "reading.p2",
+      "paperNo": 42,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "stem": "More and more evidence shows it makes us mentally and physically healthier to routinely count our blessings.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q43",
+      "materialId": "mat-2023-06-R2",
+      "part": "reading.p2",
+      "paperNo": 43,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "stem": "Of all states of mind, feeling grateful is considered one of the most healthy and beneficial.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q44",
+      "materialId": "mat-2023-06-R2",
+      "part": "reading.p2",
+      "paperNo": 44,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "stem": "The principles underlying the research into gratitude are nothing new at all.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q45",
+      "materialId": "mat-2023-06-R2",
+      "part": "reading.p2",
+      "paperNo": 45,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "stem": "Gratitude is likely to enhance one's sense of being connected with other people.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q46",
+      "materialId": "mat-2023-06-R3",
+      "part": "reading.p3",
+      "paperNo": 46,
+      "type": "single_choice",
+      "stem": "What do we learn about the deeper implications of AI?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It is causing catastrophic levels of unemployment."
+        },
+        {
+          "optionId": "o2",
+          "text": "It is doing physical harm to human operators."
+        },
+        {
+          "optionId": "o3",
+          "text": "It is altering moral judgments."
+        },
+        {
+          "optionId": "o4",
+          "text": "It is reshaping humanity."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q47",
+      "materialId": "mat-2023-06-R3",
+      "part": "reading.p3",
+      "paperNo": 47,
+      "type": "single_choice",
+      "stem": "What is the consequence of algorithmic prescription replacing human judgment?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "People lose the chance to cultivate the ability to make practical judgments."
+        },
+        {
+          "optionId": "o2",
+          "text": "People are prevented from participating in making major decisions in the workplace."
+        },
+        {
+          "optionId": "o3",
+          "text": "Managers no longer have the chance to decide which loan to approve."
+        },
+        {
+          "optionId": "o4",
+          "text": "Managers do not need to take the trouble to determine who to hire or fire."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q48",
+      "materialId": "mat-2023-06-R3",
+      "part": "reading.p3",
+      "paperNo": 48,
+      "type": "single_choice",
+      "stem": "What may result from increasing application of recommendation engines in our consumption of culture?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Consumers will have much limited choice."
+        },
+        {
+          "optionId": "o2",
+          "text": "Consumers will actually enjoy better luck."
+        },
+        {
+          "optionId": "o3",
+          "text": "It will be easier to decide on what to enjoy."
+        },
+        {
+          "optionId": "o4",
+          "text": "Humans will develop tastes similar to machines'."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q49",
+      "materialId": "mat-2023-06-R3",
+      "part": "reading.p3",
+      "paperNo": 49,
+      "type": "single_choice",
+      "stem": "What is likely to happen to larger parts of our daily life as machine learning algorithms improve?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They will turn out to be more pleasant."
+        },
+        {
+          "optionId": "o2",
+          "text": "They will repeat our past experience."
+        },
+        {
+          "optionId": "o3",
+          "text": "They can be completely anticipated."
+        },
+        {
+          "optionId": "o4",
+          "text": "They may become better and better."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q50",
+      "materialId": "mat-2023-06-R3",
+      "part": "reading.p3",
+      "paperNo": 50,
+      "type": "single_choice",
+      "stem": "Why does the author say the creatures living in the more and more AI-mediated world will become increasingly unlike us?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They will have lost the most significant human element of being intelligent."
+        },
+        {
+          "optionId": "o2",
+          "text": "They will no longer possess the human characteristic of being unpredictable."
+        },
+        {
+          "optionId": "o3",
+          "text": "They will not be able to understand themselves as we can do today."
+        },
+        {
+          "optionId": "o4",
+          "text": "They will be deprived of what their predecessors were proud of about themselves. Passage Two"
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q51",
+      "materialId": "mat-2023-06-R4",
+      "part": "reading.p3",
+      "paperNo": 51,
+      "type": "single_choice",
+      "stem": "What do we learn about phonics in many American classrooms?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It is ill reputed."
+        },
+        {
+          "optionId": "o2",
+          "text": "It is mostly misapplied."
+        },
+        {
+          "optionId": "o3",
+          "text": "It is arbitrarily excluded."
+        },
+        {
+          "optionId": "o4",
+          "text": "It is misrepresented."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q52",
+      "materialId": "mat-2023-06-R4",
+      "part": "reading.p3",
+      "paperNo": 52,
+      "type": "single_choice",
+      "stem": "What has America been witnessing for decades?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "An obsession with innovating teaching methodologies of reading."
+        },
+        {
+          "optionId": "o2",
+          "text": "An enduring debate over the approach to teaching children to read."
+        },
+        {
+          "optionId": "o3",
+          "text": "An increasing concern with many children's inadequacy in literacy."
+        },
+        {
+          "optionId": "o4",
+          "text": "An ever-forceful advocacy of a combined method for teaching reading."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q53",
+      "materialId": "mat-2023-06-R4",
+      "part": "reading.p3",
+      "paperNo": 53,
+      "type": "single_choice",
+      "stem": "Why does Tenette Smith think a combination of teaching methods is ineffective?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Elementary school children will be frustrated when taught with several methods combined."
+        },
+        {
+          "optionId": "o2",
+          "text": "Phonics has to be systematically applied and clearly taught to achieve the desired effect."
+        },
+        {
+          "optionId": "o3",
+          "text": "Sprinkling in a little phonics deters the progress of even adequately motivated children."
+        },
+        {
+          "optionId": "o4",
+          "text": "Balanced literacy fails to sustain children's interest in developing a good reading habit."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q54",
+      "materialId": "mat-2023-06-R4",
+      "part": "reading.p3",
+      "paperNo": 54,
+      "type": "single_choice",
+      "stem": "What does the author say Mississippi's success is attributed to?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Convening a National Reading Panel to synthesize research evidence."
+        },
+        {
+          "optionId": "o2",
+          "text": "Placing sufficient emphasis upon both fluency and comprehension."
+        },
+        {
+          "optionId": "o3",
+          "text": "Adopting scientifically grounded approaches to teaching reading."
+        },
+        {
+          "optionId": "o4",
+          "text": "Obtaining support from Congress to upgrade teaching methods."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q55",
+      "materialId": "mat-2023-06-R4",
+      "part": "reading.p3",
+      "paperNo": 55,
+      "type": "single_choice",
+      "stem": "What have advances in statistics and brain imaging proved ineffective?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "The teaching of symbol-sound relationships."
+        },
+        {
+          "optionId": "o2",
+          "text": "Explicit instruction in phonemic awareness."
+        },
+        {
+          "optionId": "o3",
+          "text": "Efforts to end the reading wars."
+        },
+        {
+          "optionId": "o4",
+          "text": "The immersive approach. Part IV"
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q56",
+      "materialId": "mat-2023-06-T",
+      "part": "translation",
+      "paperNo": 56,
+      "type": "free_text",
+      "stem": "将下面的中文段落译成英文。",
+      "options": [],
+      "evidence": [
+        {
+          "kind": "reference_translation",
+          "segmentIndex": 1,
+          "infoPoint": "北斗系统的研制意义"
+        }
+      ],
+      "evidenceStatus": "verified",
+      "skills": [],
+      "difficulty": 3
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "cet6.2023-06.v1.q1",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-001"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q2",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-002"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q3",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-003"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q4",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-004"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q5",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-005"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q6",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-006"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q7",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-007"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q8",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-008"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q9",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-009"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q10",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-010"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q11",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-011"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q12",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-012"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q13",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-013"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q14",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-014"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q15",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-015"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q16",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-016"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q17",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-017"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q18",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-018"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q19",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-019"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q20",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-020"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q21",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-021"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q22",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-022"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q23",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-023"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q24",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-024"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q25",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-025"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q26",
+      "optionId": "word:surpass",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-26"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q27",
+      "optionId": "word:previously",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-27"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q28",
+      "optionId": "word:volume",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-28"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q29",
+      "optionId": "word:prove",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-29"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q30",
+      "optionId": "word:affirmed",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-30"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q31",
+      "optionId": "word:formidable",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-31"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q32",
+      "optionId": "word:differentiate",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-32"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q33",
+      "optionId": "word:distinct",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-33"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q34",
+      "optionId": "word:completely",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-34"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q35",
+      "optionId": "word:overstated",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-35"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q36",
+      "optionId": "para:C",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-36"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q37",
+      "optionId": "para:G",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-37"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q38",
+      "optionId": "para:A",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-38"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q39",
+      "optionId": "para:I",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-39"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q40",
+      "optionId": "para:F",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-40"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q41",
+      "optionId": "para:K",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-41"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q42",
+      "optionId": "para:D",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-42"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q43",
+      "optionId": "para:M",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-43"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q44",
+      "optionId": "para:B",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-44"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q45",
+      "optionId": "para:H",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-45"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q46",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-046"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q47",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-047"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q48",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-048"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q49",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-049"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q50",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-050"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q51",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-051"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q52",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-052"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q53",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-053"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q54",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-054"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2023-06.v1.q55",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2023-06-v1-055"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    }
+  ],
+  "answerKeyRecords": [
+    {
+      "recordId": "akr-2023-06-v1-001",
+      "variantId": "v1",
+      "paperNo": 1,
+      "letter": "B",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-002",
+      "variantId": "v1",
+      "paperNo": 2,
+      "letter": "B",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-003",
+      "variantId": "v1",
+      "paperNo": 3,
+      "letter": "C",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-004",
+      "variantId": "v1",
+      "paperNo": 4,
+      "letter": "A",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-005",
+      "variantId": "v1",
+      "paperNo": 5,
+      "letter": "D",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-006",
+      "variantId": "v1",
+      "paperNo": 6,
+      "letter": "C",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-007",
+      "variantId": "v1",
+      "paperNo": 7,
+      "letter": "A",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-008",
+      "variantId": "v1",
+      "paperNo": 8,
+      "letter": "D",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-009",
+      "variantId": "v1",
+      "paperNo": 9,
+      "letter": "A",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-010",
+      "variantId": "v1",
+      "paperNo": 10,
+      "letter": "B",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-011",
+      "variantId": "v1",
+      "paperNo": 11,
+      "letter": "D",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-012",
+      "variantId": "v1",
+      "paperNo": 12,
+      "letter": "C",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-013",
+      "variantId": "v1",
+      "paperNo": 13,
+      "letter": "D",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-014",
+      "variantId": "v1",
+      "paperNo": 14,
+      "letter": "B",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-015",
+      "variantId": "v1",
+      "paperNo": 15,
+      "letter": "C",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-016",
+      "variantId": "v1",
+      "paperNo": 16,
+      "letter": "A",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-017",
+      "variantId": "v1",
+      "paperNo": 17,
+      "letter": "C",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-018",
+      "variantId": "v1",
+      "paperNo": 18,
+      "letter": "B",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-019",
+      "variantId": "v1",
+      "paperNo": 19,
+      "letter": "D",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-020",
+      "variantId": "v1",
+      "paperNo": 20,
+      "letter": "C",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-021",
+      "variantId": "v1",
+      "paperNo": 21,
+      "letter": "B",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-022",
+      "variantId": "v1",
+      "paperNo": 22,
+      "letter": "D",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-023",
+      "variantId": "v1",
+      "paperNo": 23,
+      "letter": "A",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-024",
+      "variantId": "v1",
+      "paperNo": 24,
+      "letter": "D",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-025",
+      "variantId": "v1",
+      "paperNo": 25,
+      "letter": "A",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-26",
+      "variantId": "v1",
+      "paperNo": 26,
+      "mode": "word",
+      "value": "surpass",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-27",
+      "variantId": "v1",
+      "paperNo": 27,
+      "mode": "word",
+      "value": "previously",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-28",
+      "variantId": "v1",
+      "paperNo": 28,
+      "mode": "word",
+      "value": "volume",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-29",
+      "variantId": "v1",
+      "paperNo": 29,
+      "mode": "word",
+      "value": "prove",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-30",
+      "variantId": "v1",
+      "paperNo": 30,
+      "mode": "word",
+      "value": "affirmed",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-31",
+      "variantId": "v1",
+      "paperNo": 31,
+      "mode": "word",
+      "value": "formidable",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-32",
+      "variantId": "v1",
+      "paperNo": 32,
+      "mode": "word",
+      "value": "differentiate",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-33",
+      "variantId": "v1",
+      "paperNo": 33,
+      "mode": "word",
+      "value": "distinct",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-34",
+      "variantId": "v1",
+      "paperNo": 34,
+      "mode": "word",
+      "value": "completely",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-35",
+      "variantId": "v1",
+      "paperNo": 35,
+      "mode": "word",
+      "value": "overstated",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-36",
+      "variantId": "v1",
+      "paperNo": 36,
+      "mode": "paragraph",
+      "value": "C",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-37",
+      "variantId": "v1",
+      "paperNo": 37,
+      "mode": "paragraph",
+      "value": "G",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-38",
+      "variantId": "v1",
+      "paperNo": 38,
+      "mode": "paragraph",
+      "value": "A",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-39",
+      "variantId": "v1",
+      "paperNo": 39,
+      "mode": "paragraph",
+      "value": "I",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-40",
+      "variantId": "v1",
+      "paperNo": 40,
+      "mode": "paragraph",
+      "value": "F",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-41",
+      "variantId": "v1",
+      "paperNo": 41,
+      "mode": "paragraph",
+      "value": "K",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-42",
+      "variantId": "v1",
+      "paperNo": 42,
+      "mode": "paragraph",
+      "value": "D",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-43",
+      "variantId": "v1",
+      "paperNo": 43,
+      "mode": "paragraph",
+      "value": "M",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-44",
+      "variantId": "v1",
+      "paperNo": 44,
+      "mode": "paragraph",
+      "value": "B",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-45",
+      "variantId": "v1",
+      "paperNo": 45,
+      "mode": "paragraph",
+      "value": "H",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-046",
+      "variantId": "v1",
+      "paperNo": 46,
+      "letter": "D",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-047",
+      "variantId": "v1",
+      "paperNo": 47,
+      "letter": "A",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-048",
+      "variantId": "v1",
+      "paperNo": 48,
+      "letter": "A",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-049",
+      "variantId": "v1",
+      "paperNo": 49,
+      "letter": "C",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-050",
+      "variantId": "v1",
+      "paperNo": 50,
+      "letter": "B",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-051",
+      "variantId": "v1",
+      "paperNo": 51,
+      "letter": "A",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-052",
+      "variantId": "v1",
+      "paperNo": 52,
+      "letter": "B",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-053",
+      "variantId": "v1",
+      "paperNo": 53,
+      "letter": "B",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-054",
+      "variantId": "v1",
+      "paperNo": 54,
+      "letter": "C",
+      "sourceId": "mineru-2023-06-v1"
+    },
+    {
+      "recordId": "akr-2023-06-v1-055",
+      "variantId": "v1",
+      "paperNo": 55,
+      "letter": "D",
+      "sourceId": "mineru-2023-06-v1"
+    }
+  ],
+  "variants": [
+    {
+      "variantId": "v1",
+      "label": {
+        "zh": "第 1 套"
+      },
+      "questionSet": [
+        "cet6.2023-06.v1.q1",
+        "cet6.2023-06.v1.q2",
+        "cet6.2023-06.v1.q3",
+        "cet6.2023-06.v1.q4",
+        "cet6.2023-06.v1.q5",
+        "cet6.2023-06.v1.q6",
+        "cet6.2023-06.v1.q7",
+        "cet6.2023-06.v1.q8",
+        "cet6.2023-06.v1.q9",
+        "cet6.2023-06.v1.q10",
+        "cet6.2023-06.v1.q11",
+        "cet6.2023-06.v1.q12",
+        "cet6.2023-06.v1.q13",
+        "cet6.2023-06.v1.q14",
+        "cet6.2023-06.v1.q15",
+        "cet6.2023-06.v1.q16",
+        "cet6.2023-06.v1.q17",
+        "cet6.2023-06.v1.q18",
+        "cet6.2023-06.v1.q19",
+        "cet6.2023-06.v1.q20",
+        "cet6.2023-06.v1.q21",
+        "cet6.2023-06.v1.q22",
+        "cet6.2023-06.v1.q23",
+        "cet6.2023-06.v1.q24",
+        "cet6.2023-06.v1.q25",
+        "cet6.2023-06.v1.q26",
+        "cet6.2023-06.v1.q27",
+        "cet6.2023-06.v1.q28",
+        "cet6.2023-06.v1.q29",
+        "cet6.2023-06.v1.q30",
+        "cet6.2023-06.v1.q31",
+        "cet6.2023-06.v1.q32",
+        "cet6.2023-06.v1.q33",
+        "cet6.2023-06.v1.q34",
+        "cet6.2023-06.v1.q35",
+        "cet6.2023-06.v1.q36",
+        "cet6.2023-06.v1.q37",
+        "cet6.2023-06.v1.q38",
+        "cet6.2023-06.v1.q39",
+        "cet6.2023-06.v1.q40",
+        "cet6.2023-06.v1.q41",
+        "cet6.2023-06.v1.q42",
+        "cet6.2023-06.v1.q43",
+        "cet6.2023-06.v1.q44",
+        "cet6.2023-06.v1.q45",
+        "cet6.2023-06.v1.q46",
+        "cet6.2023-06.v1.q47",
+        "cet6.2023-06.v1.q48",
+        "cet6.2023-06.v1.q49",
+        "cet6.2023-06.v1.q50",
+        "cet6.2023-06.v1.q51",
+        "cet6.2023-06.v1.q52",
+        "cet6.2023-06.v1.q53",
+        "cet6.2023-06.v1.q54",
+        "cet6.2023-06.v1.q55",
+        "cet6.2023-06.v1.q56"
+      ],
+      "writingTaskId": "wt-2023-06-v1",
+      "translationQuestionId": "cet6.2023-06.v1.q56"
+    }
+  ],
+  "writingTasks": [
+    {
+      "writingTaskId": "wt-2023-06-v1",
+      "paperNo": null,
+      "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"Today there is a growing awareness that mental well-being needs to be given as much attention as physical health.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. Part II",
+      "requirements": [
+        "150–200 words",
+        "以给定的句子开头",
+        "不要照抄题目"
+      ],
+      "referenceEssays": []
+    }
+  ],
+  "integrity": {}
+}

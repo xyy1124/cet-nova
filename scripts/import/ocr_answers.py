@@ -38,6 +38,22 @@ def extract(text: str) -> dict[int, str]:
             n = int(nums[-1].group(1))
             if 1 <= n <= 55:
                 hits.setdefault(n, m.group(1))
+    # 2023/2022 版式：题号+题干，下一段 “B)【精析】/【语法判断】”
+    for m in re.finditer(
+        r"(?s)(?m)^\s*(\d{1,2})\.\s*[^\n]*\n(?:[^\n]*\n){0,5}?\s*([A-P])[)）]\s*【",
+        text,
+    ):
+        n = int(m.group(1))
+        if 1 <= n <= 55:
+            hits.setdefault(n, m.group(2))
+    # 阅读：段末 “故答案为C)”
+    for m in re.finditer(r"故答案为\s*([A-P])", text):
+        before = text[max(0, m.start() - 2500) : m.start()]
+        nums = list(NUM.finditer(before))
+        if nums:
+            n = int(nums[-1].group(1))
+            if 26 <= n <= 55:
+                hits.setdefault(n, m.group(1))
     return hits
 
 

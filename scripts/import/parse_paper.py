@@ -51,6 +51,9 @@ def clean_option(text: str) -> str:
 
 def normalize(text: str) -> str:
     text = text.translate(CYRILLIC)
+    # 罗马数字（Ⅰ Ⅱ Ⅲ Ⅳ）归一化成 ASCII，2015/2016 卷用这种写法
+    for roman, ascii_ in (("Ⅰ", "I"), ("Ⅱ", "II"), ("Ⅲ", "III"), ("Ⅳ", "IV"), ("Ⅴ", "V")):
+        text = text.replace(roman, ascii_)
     text = text.replace("\u00a0", " ").replace("\u2019", "'").replace("\u2018", "'")
     text = text.replace("\u201c", '"').replace("\u201d", '"')
     text = HEADER.sub("", text)
