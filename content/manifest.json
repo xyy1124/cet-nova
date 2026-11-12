@@ -4,6 +4,22 @@
   "exams": ["cet6"],
   "packs": [
     {
+      "packId": "cet6-2022-12-v1",
+      "examId": "cet6",
+      "sessionId": "2022-12",
+      "kind": "exam",
+      "title": { "zh": "2022 年 12 月 六级真题（第 1 套）", "en": "CET-6 2022-12 set 1" },
+      "path": "sessions/2022-12-v1/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "卷面 OCR 缺听力 9–15 与选词填空，已按页面图人工补齐；音频 19.9 MB 外部"
+      }
+    },
+    {
       "packId": "cet6-2023-06-v2",
       "examId": "cet6",
       "sessionId": "2023-06",

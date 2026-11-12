@@ -1,0 +1,3065 @@
+{
+  "schemaVersion": "1.0.0",
+  "packId": "cet6-2022-12-v1",
+  "examId": "cet6",
+  "sessionId": "2022-12",
+  "kind": "exam",
+  "hasListening": true,
+  "title": {
+    "zh": "2022 年 12 月 六级真题（第 1 套）",
+    "en": "CET-6 2022-12 set 1"
+  },
+  "builtAt": "2026-11-12T00:00:00Z",
+  "builder": {
+    "tool": "cetnova-import",
+    "version": "0.1.0"
+  },
+  "sources": [
+    {
+      "sourceId": "src-0609x-paper-v1",
+      "kind": "paper_pdf",
+      "host": "github.com/0609x/CET46-Resources",
+      "path": "六级真题/2024.12/真题PDF/2024.12六级真题第1套.pdf",
+      "retrievedAt": "2026-11-12T00:00:00Z",
+      "note": "卷面文本由 PyMuPDF 抽取，未改动用词"
+    },
+    {
+      "sourceId": "mineru-2022-12-v1",
+      "kind": "answer_key",
+      "host": "",
+      "path": "/E:/Zcode/%E9%97%AE%E9%A2%98/11-CET-Nova/%E5%B7%B2%E7%BB%8FOCR/2022.12-%E8%A7%A3%E6%9E%90-2022.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97%E7%AD%94%E6%A1%88%E5%8F%8A%E8%AF%A6%E8%A7%A3.pdf-0a4d0141-10b0-4c55-949c-a7bce5e2e684/full.md",
+      "retrievedAt": "2026-11-12T00:00:00Z",
+      "note": "2022.12 解析（MinerU OCR）（listening,cloze,matching,careful；匹配依据：OCR 全文，答案标记 [答案]/[锁定答案]/[答案精析]）"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "aud-2022-12-v1",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "durationMs": 0,
+      "distribution": {
+        "state": "external",
+        "url": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2022.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2022.12%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98%E7%AC%AC1%E5%A5%97%E5%90%AC%E5%8A%9B.mp3",
+        "referrer": "https://github.com/0609x/CET46-Resources",
+        "note": "2022.12 听力音频；不随包分发，由用户从原始来源获取"
+      },
+      "integrity": {
+        "bytes": 19911175
+      },
+      "rights": {
+        "status": "third_party",
+        "note": "著作权归原权利人"
+      }
+    }
+  ],
+  "materials": [
+    {
+      "materialId": "mat-2022-12-L",
+      "section": "listening",
+      "part": "listening.p1",
+      "sharedAcrossVariants": true,
+      "audio": {
+        "assetId": "aud-2022-12-v1",
+        "durationMs": 0
+      }
+    },
+    {
+      "materialId": "mat-2022-12-R1",
+      "section": "reading",
+      "part": "reading.p1",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "",
+        "wordCount": 299,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "During the summer, when I was a visiting poet at a residency out of state, an angry, confused woman wandered into my class and said: \"I have three guns and I want to use them.\" We all {{26}}. It wasn't clear if she had the guns, but we each know that, when we teach in America, we are already in danger.\n\nI was dizzy with fear. The woman, who later turned out to be a schizophrenic (精神分裂症患者) without {{27}} to her medications, was, by some force, wrestled out and {{28}} away, then put in a hospital for observation, in a step that was actually safer for everyone than any one of us pressing charges. My class went on; we talked about poems. But despite the fact that the rest of our days on campus passed {{29}}, I was rattled. I couldn't shake the sense that in this country we always live at {{30}} risk.\n\nA few months later, crisis {{31}} again. While my husband was locking his bike to drop off our 3-year-old daughter for her preschool-aged day camp, a different woman approached. Swiftly and for no {{32}} reason, she bent down, picked up our daughter, and began to carry her down the street. It was so fast and confusing that my daughter {{33}} cried. My husband, in a burst of speed, chased the woman and reclaimed our daughter. The woman, clearly confused, retreated into the public library. A {{34}} of homeless people who generally know the other homeless in the area said they did not recognize the woman. The woman was so clearly unwell that when she was taken into custody she was incoherent. Heartbreakingly, she called our daughter by the name of someone else's child. Each part of the episode was as haunting as it was {{35}}."
+          }
+        ]
+      },
+      "wordBank": [
+        "access",
+        "apparent",
+        "barely",
+        "dedication",
+        "escorted",
+        "froze",
+        "incredible",
+        "indignant",
+        "network",
+        "overriding",
+        "peacefully",
+        "presumably",
+        "stifled",
+        "struck",
+        "terrifying"
+      ]
+    },
+    {
+      "materialId": "mat-2022-12-R2",
+      "section": "reading",
+      "part": "reading.p2",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "This man is running 7 marathons on 7 continents in 7 days",
+        "wordCount": 1214,
+        "paragraphs": [
+          {
+            "id": "A",
+            "text": "Michael Wardian pushed forward into the penetrating arctic (北极的) wind, fighting the urge to speed up. Too much effort and he'd begin to sweat, which, he was told, would only increase the risk of hypothermia (体温过低)."
+          },
+          {
+            "id": "B",
+            "text": "At the 2014 North Pole Marathon, the temperature dipped to minus-22 degrees F, with a wind chill that made it feel even colder. Along the route, armed guards wandered the large sheets of floating ice to minimize the risk of polar bear attacks."
+          },
+          {
+            "id": "C",
+            "text": "“I like to do stuff that scares me,” Wardian said. With ice frozen to his beard, Wardian crossed the finish line that April afternoon in a winning time of 4 hours 7 minutes and 40 seconds, almost two hours slower than his personal best over 26.2 miles. The race for Wardian, however, was less about the result than overcoming his aversion to the cold."
+          },
+          {
+            "id": "D",
+            "text": "In a few days, Wardian will once again compete in an unfamiliar territory and below-freezing temperatures. He will line up Monday in Antarctica (南极) for the first leg of the World Marathon Challenge—joining 32 other adventure seekers on an unusual journey where participants travel through different time zones and climates to run seven marathons on seven continents in seven days."
+          },
+          {
+            "id": "E",
+            "text": "An elite ultra-runner, Wardian has his sights on breaking the event's record average marathon time of 3:32:25 set last January by U.S. Marine Corps captain Daniel Cartica. Wardian, a 42-year-old Arlington resident, is a record-breaking racer, known in the ultra-running community for seeking tough courses and setting world records. Last year, he ran 1,254.65 miles in 47 races. The World Marathon Challenge, like most of Wardian's running goals, will be about pushing his limits. “I love diverse and unique challenges,” he said. “I’m definitely interested in seeing what I can handle and what my body can accept. That drives me.”"
+          },
+          {
+            "id": "F",
+            "text": "Something about the way Richard Donovan carried himself appealed to Wardian. Perhaps it was the sense of adventure Donovan displayed when they first met at the 2010 50K Championships in Galway, Ireland, where Donovan was the race director. The two hit it off, and soon Wardian was participating in Donovan's events. It was at the North Pole Marathon, a race that Donovan organizes, that Wardian first heard about the Irishman's plan for the World Marathon Challenge-a challenge that Donovan himself completed in 2009 and 2012. \"I knew that many people had a goal of running seven marathons on seven continents during any time period,\" Donovan, 50, said. \"I felt the natural extension to this idea would be to try to achieve it within a seven-day period.\""
+          },
+          {
+            "id": "G",
+            "text": "Wardian started saving for the trip in 2014, connecting with sponsors and getting approval from his wife, Jennifer, before committing. Registration for the event costs 36,000 euros, which covers international charter flights to each of the seven marathon locations: Union Glacier (Antarctica), Punta Arenas, Chile (South America), Miami (North America), Madrid (Europe), Marrakesh, Morocco (Africa), Dubai (Asia) and Sydney (Australia). The challenge is a test of both physical strength and mental fitness. Sleeping on a crammed plane, adjusting to different time zones and finding food to eat (Wardian is a vegetarian) would make it an exhausting trip over a month, let alone a week. “The key to a race like this is getting comfortable being uncomfortable,” said Becca Pizzi, last year's women’s champion. “The highs of the race are incredibly high, and the lows incredibly low.”"
+          },
+          {
+            "id": "H",
+            "text": "Since turning it into an organized event in 2015, Donovan has attracted a variety of 2022年12月英语六级真题第1套 第5页 共10页 runners. This year's challenge will feature a far more elite field, which includes Ryan Hall, America's fastest marathon runner. Despite his proven track record, Hall said he has no time goals and that he still suffers from the same fatigue issues that forced him to leave the professional ranks in 2015. Hall plans to run with his friend, Pastor Matthew Barnett of The Dream Center in Los Angeles—one of the six American men who will be competing. “I don’t expect to run a step with Mike, but I will be excited to see how he does,” said the 34-year-old Hall, who began weight-lifting after retiring. “If I finish within an hour of him in each marathon, I’d be surprised.”"
+          },
+          {
+            "id": "I",
+            "text": "Instead, 43-year-old Petr Vabrousek, an elite Czech Ironman champion, is expected to be Wardian's closest challenger. To others on the trip, simply finishing will be its own reward. Sinead Kane of Ireland is aiming to become the first blind person to complete the challenge. And Beth Ann Telford, a 47-year-old federal government worker from Fairfax and the only American female in this year's mix, is using the event as a platform to raise money for cancer research. It's a cause with a personal connection to Telford, who was diagnosed with brain cancer in 2004. \"Doing something like this is definitely the hardest challenge that I've ever done except for the chemotherapy and brain surgery,\" she said. \"It's going to raise awareness ... I just wanted to do something that is epic and this certainly is right up there.\" Wardian, too, hopes his involvement will give him a platform to promote a cause. He recently became an ambassador for the United Nations Women's HeForShe initiative to fight inequalities faced by women and girls worldwide."
+          },
+          {
+            "id": "J",
+            "text": "On a chilly December afternoon, Wardian wove through Washington's crowded sidewalks on the way home from his full-time job as an international ship broker. His elastic, 6-foot frame bounced gently and efficiently off the ground with each step of the hilly six-mile trip back to Arlington. This is a daily routine during the week for Wardian, who started racing professionally in 2003 and runs seven days a week, often multiple times a day. When he travels, he prefers to explore new places on his feet."
+          },
+          {
+            "id": "K",
+            "text": "But in some ways, Wardian still has trouble thinking of himself as a runner. For the majority of his childhood, Wardian devoted his energy to becoming a Division I lacrosse (长曲棍球) player-a dream he realized when he was recruited to play at Michigan State University. “Once he decides to do something, he just works at it until he does it,” Michael’s younger sister, Mariele, said. “Once he decides to do it, it’s usually something that’s going to happen. He’s always been like that. He’s a very motivated individual.”"
+          },
+          {
+            "id": "L",
+            "text": "It was only a year or so ago that Wardian realized that he had been a runner longer than a lacrosse player. It was not until he ran in the 2004 U.S. Olympic Marathon Trials-the first of three for Wardian-that he felt that he was a legitimate runner. Now more than 10 years and numerous ultra-marathon national titles and world records later, he embraces that identity. Wardian wants to see how far his legs can take him, one epic challenge at a time. “I want to always keep doing things that are exciting, adventurous, different and most importantly, probably things I’m not the best at,” Wardian said, “because if you’re not seeking things out that are challenging and difficult for you, then you're not growing ... So I hope maybe people see what I do, and say, 'Okay, I want to do something different or try something new ... I'm going to do something that scares me.' That's what I'm hoping people will take from it.\""
+          }
+        ]
+      }
+    },
+    {
+      "materialId": "mat-2022-12-R3",
+      "section": "reading",
+      "part": "reading.p3",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "Passage One",
+        "wordCount": 451,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "are based on the following passage. Many people associate their self-worth with their work. The more successful their career, the better they feel about themselves. Work-related self-esteem is therefore a worthy ideal to pursue with vigor, right? Well, not always. According to recent research, in which psychologists interviewed 370 full-time workers over a period of three weeks, the reality is a little more complicated. And it involves negative as well as positive consequences. It's natural to be drawn towards pleasure and to step away from pain. In the workplace, if that pleasure comes from a triumph which swells our self-respect, people will try to repeat the accomplishment. But repeating that accomplishment is often not realistic, which can lead to severe negative emotional consequences when it doesn't reoccur. This form of motivation is widely regarded as a negative type of motivation. It can hinder other more positive motivation types, such as completing a task purely because it's fulfilling or enjoyable. What consumes the employee instead is a pressing need to feel mighty and sure of themselves. They then take on only tasks and objectives which serve that ego-driven need. As a result, to avoid feelings of shame and worthlessness associated with failure, they extend themselves to such a degree that there's a subsequent adverse effect on their well-being. This internal pressure to succeed at all costs demands a lot of effort. It depletes their energy, culminating in disproportionate levels of damaging sentiment. Those negative emotions mount into heightened anxiety, impacting their ability to make the most of their personal life. Their desire to avoid feeling inferior ends up making them feel inferior when it comes to their diminished capacity for friendship and leisure. They end up dissatisfied both at work and outside of it. But thankfully, for those people compelled almost entirely by this specific form of motivation, the news isn't all bad, or bad at all. The study also discovered several positive outcomes that can actually outweigh the harmful ones. Though these types of employees are motivated by the desire to avoid negative consequences, they are also motivated by the excitement of pursuing emotional rewards. This excitement makes pursuing goals enjoyable and stimulates pleasure and pride that would result from success. An effect of the positive motivation is that it neutralizes the existence of negative motivation. Sure, it affects people's personal lives to what could be deemed an unhealthy extent, because leisure activities are often seen as a part of life that must be sacrificed to manage work and family demands. However, the way people feel about their work has less to do with whether they're motivated by the preservation of self-esteem but more with the fact that they're simply motivated."
+          }
+        ]
+      }
+    },
+    {
+      "materialId": "mat-2022-12-R4",
+      "section": "reading",
+      "part": "reading.p3",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "Passage Two",
+        "wordCount": 448,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "are based on the following passage. Degradation of the world's natural resources by humans is rapidly outpacing the planet's ability to absorb the damage, a recent UN environmental study has found. The study concludes that without radical action the level of prosperity that millions of people in the developed world count on will be impossible to maintain or extend to poorer countries. Water scarcity is the curse of some of the poorest regions on Earth, leaving developing countries increasingly unable to feed themselves, and causing hardship for millions of people. There appears little prospect of this desperate situation being remedied without radical action being taken. Water resources are under increasing threat from population growth, climate change, rapid urbanization, rising levels of consumption, and the degradation of lands that previously provided a natural replenishment (补充) of water resources. The rate of damage to the natural environment was found to increase globally, despite concerted efforts to persuade government to take measures to improve the condition. “If current trends continue, and the world fails to improve patterns of production and consumption, then the state of the world’s environment will continue to decline,” warned UN executive director Achim Steiner. He said the tools for improving the environment for millions of people existed in developed countries, but were in danger of not being used. The study found that basic measures to tackle some of the key causes of environmental damage were still not being taken. These included measures to reduce air pollution; to control the damage to marine ecosystems, which can have a huge effect on fish stocks on which hundreds of millions of people depend; and to curb the degradation of land where modem agricultural methods were pursued without regard to the longer-term consequences. Despite the recent global agreement on cutting greenhouse gas emissions, global carbon output continues to rise. This will put a long-term strain on the ability of developing economies to feed their own people. Climate change is aggravated by the emissions of greenhouse gases from chemical and natural fertilisers used in agriculture which increased by more than a quarter between 2000 and 2010. Other problem areas identified in the report included glaciers, which provide vital water resources for millions of people, but which are shrinking as the climate warms. In rich countries, these problems have built up over decades and centuries while economic growth was pursued at the expense of the environment. Subsequent efforts to remedy the environment have met with partial success. But in developing countries, the path of future development has more potential to change, which has encouraged international institutions to devise more sustainable growth pathways that are supposed both to alleviate poverty and preserve the environment."
+          }
+        ]
+      }
+    },
+    {
+      "materialId": "mat-2022-12-T",
+      "section": "translation",
+      "part": "translation",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "汉译英",
+        "wordCount": 378,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2. 青藏高原(the Qinghai-Tibet Plateau)位于中国西南部，面积约230万平方公里，平均海拔4000米以上，被称为“世界屋脊”。青藏高原自然资源丰富，风景秀丽，拥有多种珍稀野生动物。 青藏高原气温很低，形成了大面积高山冰川。这里是亚洲许多著名河流的源头，是中国和东南亚的主要淡水供应源。青藏高原对全球生态系统至关重要。 由于气候变化的影响，青藏高原的冰川正在加速融化。中国一直在努力保护青藏高原的生态系统，草地覆盖率不断增加，许多濒危物种得到更为有效的保护。"
+          }
+        ]
+      },
+      "referenceTranslation": {
+        "text": "## Section B ## Section C Passage One ## Passage Two ![](images/01820a3a945afe00f407b1ed470dad93665b91ffc88ace1b55b586a5795500d6.jpg) The Qinghai-Tibet Plateau is situated in the southwest of China, covering an area of about 2.3 million square kilometers, with an average altitude of over 4,000 meters. It is known as the \"Roof of the World\". The Qinghai-Tibet Plateau is abundant in natural resources, boasts beautiful scenery and has a variety of rare wild animals. The low temperature of the plateau has created a large area of alpine glaciers. It is the source of many famous rivers in Asia and is the main source of fresh water supply in China and Southeast Asia. The Qinghai-Tibet Plateau is vital to the global ecosystem. Glaciers on the Qinghai-Tibet Plateau are melting at an accelerated rate due to climate change. China has been committed to protecting the ecosystem of the Qinghai-Tibet Plateau, with increasing grassland coverage and more effective protection of many endangered species.",
+        "sourceId": "mineru-2022-12-v1"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "questionId": "cet6.2022-12.v1.q1",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p1",
+      "paperNo": 1,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "She hasn't started writing it."
+        },
+        {
+          "optionId": "o2",
+          "text": "She hasn't decided on a topic."
+        },
+        {
+          "optionId": "o3",
+          "text": "She is proofreading the first draft."
+        },
+        {
+          "optionId": "o4",
+          "text": "She is working on the references."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q2",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p1",
+      "paperNo": 2,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "He lent many books to the man for reference."
+        },
+        {
+          "optionId": "o2",
+          "text": "He offered the man advice on resource hunting."
+        },
+        {
+          "optionId": "o3",
+          "text": "He published a lot in a number of reputable journals."
+        },
+        {
+          "optionId": "o4",
+          "text": "He told the man to be selective when using e-resources."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q3",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p1",
+      "paperNo": 3,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "He didn't think her dissertation topic viable."
+        },
+        {
+          "optionId": "o2",
+          "text": "He wasn't interested in her dissertation topic."
+        },
+        {
+          "optionId": "o3",
+          "text": "He didn't want her to rush through her dissertation."
+        },
+        {
+          "optionId": "o4",
+          "text": "He wasn't specific about the length of her dissertation."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q4",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p1",
+      "paperNo": 4,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Change her research methodology."
+        },
+        {
+          "optionId": "o2",
+          "text": "Narrow down her dissertation topic."
+        },
+        {
+          "optionId": "o3",
+          "text": "Consult her professor more."
+        },
+        {
+          "optionId": "o4",
+          "text": "Follow the man's advice."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q5",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p1",
+      "paperNo": 5,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "He has translated 12 books."
+        },
+        {
+          "optionId": "o2",
+          "text": "He is a well-known nutritionist."
+        },
+        {
+          "optionId": "o3",
+          "text": "His books sell well worldwide."
+        },
+        {
+          "optionId": "o4",
+          "text": "His latest book sold a million copies."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q6",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p1",
+      "paperNo": 6,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "The desire of Americans to try exotic cuisines."
+        },
+        {
+          "optionId": "o2",
+          "text": "The demand for information about food safety."
+        },
+        {
+          "optionId": "o3",
+          "text": "The fact that over half of Americans are overweight."
+        },
+        {
+          "optionId": "o4",
+          "text": "The fact that science books are difficult to read."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q7",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p1",
+      "paperNo": 7,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "The general public."
+        },
+        {
+          "optionId": "o2",
+          "text": "Those who are overweight."
+        },
+        {
+          "optionId": "o3",
+          "text": "Those who want to lose weight."
+        },
+        {
+          "optionId": "o4",
+          "text": "The medical community."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q8",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p1",
+      "paperNo": 8,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Switch to a vegetarian diet."
+        },
+        {
+          "optionId": "o2",
+          "text": "Follow a personalized diet."
+        },
+        {
+          "optionId": "o3",
+          "text": "Adhere to doctors' advice."
+        },
+        {
+          "optionId": "o4",
+          "text": "Cut carbohydrate intake. Directions: In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked"
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q9",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p2",
+      "paperNo": 9,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "The rate of their growth increased dramatically."
+        },
+        {
+          "optionId": "o2",
+          "text": "The growth of their new brain cells doubled."
+        },
+        {
+          "optionId": "o3",
+          "text": "They began to show signs of depression."
+        },
+        {
+          "optionId": "o4",
+          "text": "They began to get irritated and restless."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q10",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p2",
+      "paperNo": 10,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "To avoid them in the future."
+        },
+        {
+          "optionId": "o2",
+          "text": "To warn others against them."
+        },
+        {
+          "optionId": "o3",
+          "text": "To make good sense of them."
+        },
+        {
+          "optionId": "o4",
+          "text": "To reflect on their causes."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q11",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p2",
+      "paperNo": 11,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Produce a surprising healing effect."
+        },
+        {
+          "optionId": "o2",
+          "text": "Weaken one's immunity in the long run."
+        },
+        {
+          "optionId": "o3",
+          "text": "Make people more susceptible to illness."
+        },
+        {
+          "optionId": "o4",
+          "text": "Provide protection against mental illnesses."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q12",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p2",
+      "paperNo": 12,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Placing their own interests over their staff's."
+        },
+        {
+          "optionId": "o2",
+          "text": "Being overwhelmed by their daily routines."
+        },
+        {
+          "optionId": "o3",
+          "text": "Lacking the ability to relate to their staff."
+        },
+        {
+          "optionId": "o4",
+          "text": "Spending too much time handling email."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q13",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p2",
+      "paperNo": 13,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Their leadership may be challenged."
+        },
+        {
+          "optionId": "o2",
+          "text": "Their companies may go bankrupt."
+        },
+        {
+          "optionId": "o3",
+          "text": "Unexpected events may occur."
+        },
+        {
+          "optionId": "o4",
+          "text": "Major problems may result."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q14",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p2",
+      "paperNo": 14,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Keep an eye on their employees."
+        },
+        {
+          "optionId": "o2",
+          "text": "Motivate and inspire their team."
+        },
+        {
+          "optionId": "o3",
+          "text": "Sacrifice some of the immediate goals."
+        },
+        {
+          "optionId": "o4",
+          "text": "Have greater ambition in overall planning."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q15",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p2",
+      "paperNo": 15,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Cultivate self-control."
+        },
+        {
+          "optionId": "o2",
+          "text": "Filter their email boxes."
+        },
+        {
+          "optionId": "o3",
+          "text": "Respond only after work."
+        },
+        {
+          "optionId": "o4",
+          "text": "Check only when necessary."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q16",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p3",
+      "paperNo": 16,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "The key to increasing healthy food supply."
+        },
+        {
+          "optionId": "o2",
+          "text": "The best way to improve marketing research."
+        },
+        {
+          "optionId": "o3",
+          "text": "The impact of advertisements on consumption."
+        },
+        {
+          "optionId": "o4",
+          "text": "The importance of the appearance of food."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q17",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p3",
+      "paperNo": 17,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "By focusing on the nutrients in different foods."
+        },
+        {
+          "optionId": "o2",
+          "text": "By emphasizing the diversity of food."
+        },
+        {
+          "optionId": "o3",
+          "text": "By stressing pleasing aesthetics of food."
+        },
+        {
+          "optionId": "o4",
+          "text": "By winning the support of marketing professors."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q18",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p3",
+      "paperNo": 18,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They can attract customers with the healthy qualities of their products."
+        },
+        {
+          "optionId": "o2",
+          "text": "They can boost sales of healthy foods by making them visually appealing."
+        },
+        {
+          "optionId": "o3",
+          "text": "They can turn to marketing professors for advice."
+        },
+        {
+          "optionId": "o4",
+          "text": "They can rely on advertising for sales promotion."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q19",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p3",
+      "paperNo": 19,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It has witnessed a spectacular surge in demand."
+        },
+        {
+          "optionId": "o2",
+          "text": "It has met much criticism from environmentalists."
+        },
+        {
+          "optionId": "o3",
+          "text": "It has seen more small businesses offering environment-friendly products."
+        },
+        {
+          "optionId": "o4",
+          "text": "It has experienced increasingly fierce competition among global companies."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q20",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p3",
+      "paperNo": 20,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Consumers now know much more about technology."
+        },
+        {
+          "optionId": "o2",
+          "text": "Their mass production has sharply reduced the price."
+        },
+        {
+          "optionId": "o3",
+          "text": "Consumers tend to favor all that is novel."
+        },
+        {
+          "optionId": "o4",
+          "text": "Their quality has been greatly improved."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q21",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p3",
+      "paperNo": 21,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Purchasing only this kind of products for home cleaning."
+        },
+        {
+          "optionId": "o2",
+          "text": "Writing positive comments about them on social media."
+        },
+        {
+          "optionId": "o3",
+          "text": "Demonstrating on TV how effective these products are."
+        },
+        {
+          "optionId": "o4",
+          "text": "Telling one another about their incomparable virtues."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q22",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p3",
+      "paperNo": 22,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Increasing cleaners' workload."
+        },
+        {
+          "optionId": "o2",
+          "text": "Blocking the fountains' works."
+        },
+        {
+          "optionId": "o3",
+          "text": "Breaking a time-honored ritual."
+        },
+        {
+          "optionId": "o4",
+          "text": "Polluting the fountains' water."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q23",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p3",
+      "paperNo": 23,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They are occasionally retrieved by curious tourists."
+        },
+        {
+          "optionId": "o2",
+          "text": "They are regularly donated to charity organizations."
+        },
+        {
+          "optionId": "o3",
+          "text": "They are mostly used for the fountains' maintenance."
+        },
+        {
+          "optionId": "o4",
+          "text": "They are usually used as wages for fountain cleaners."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q24",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p3",
+      "paperNo": 24,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It is invested in a series of businesses."
+        },
+        {
+          "optionId": "o2",
+          "text": "It is used exclusively for its maintenance."
+        },
+        {
+          "optionId": "o3",
+          "text": "It is used to run a supermarket for the needy."
+        },
+        {
+          "optionId": "o4",
+          "text": "It is estimated to be about \\$40,000 a month."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q25",
+      "materialId": "mat-2022-12-L",
+      "part": "listening.p3",
+      "paperNo": 25,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "He was arrested for stealing money from four fountain cleaners."
+        },
+        {
+          "optionId": "o2",
+          "text": "He was sentenced to 34 years' imprisonment."
+        },
+        {
+          "optionId": "o3",
+          "text": "He collected rare coins from around the world."
+        },
+        {
+          "optionId": "o4",
+          "text": "He stole a lot of money from a fountain with a magnetic stick. Part III"
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q26",
+      "materialId": "mat-2022-12-R1",
+      "part": "reading.p1",
+      "paperNo": 26,
+      "type": "banked_cloze",
+      "blankIndex": 1,
+      "stem": "选词填空第 26 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q27",
+      "materialId": "mat-2022-12-R1",
+      "part": "reading.p1",
+      "paperNo": 27,
+      "type": "banked_cloze",
+      "blankIndex": 2,
+      "stem": "选词填空第 27 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q28",
+      "materialId": "mat-2022-12-R1",
+      "part": "reading.p1",
+      "paperNo": 28,
+      "type": "banked_cloze",
+      "blankIndex": 3,
+      "stem": "选词填空第 28 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q29",
+      "materialId": "mat-2022-12-R1",
+      "part": "reading.p1",
+      "paperNo": 29,
+      "type": "banked_cloze",
+      "blankIndex": 4,
+      "stem": "选词填空第 29 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q30",
+      "materialId": "mat-2022-12-R1",
+      "part": "reading.p1",
+      "paperNo": 30,
+      "type": "banked_cloze",
+      "blankIndex": 5,
+      "stem": "选词填空第 30 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q31",
+      "materialId": "mat-2022-12-R1",
+      "part": "reading.p1",
+      "paperNo": 31,
+      "type": "banked_cloze",
+      "blankIndex": 6,
+      "stem": "选词填空第 31 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q32",
+      "materialId": "mat-2022-12-R1",
+      "part": "reading.p1",
+      "paperNo": 32,
+      "type": "banked_cloze",
+      "blankIndex": 7,
+      "stem": "选词填空第 32 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q33",
+      "materialId": "mat-2022-12-R1",
+      "part": "reading.p1",
+      "paperNo": 33,
+      "type": "banked_cloze",
+      "blankIndex": 8,
+      "stem": "选词填空第 33 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q34",
+      "materialId": "mat-2022-12-R1",
+      "part": "reading.p1",
+      "paperNo": 34,
+      "type": "banked_cloze",
+      "blankIndex": 9,
+      "stem": "选词填空第 34 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q35",
+      "materialId": "mat-2022-12-R1",
+      "part": "reading.p1",
+      "paperNo": 35,
+      "type": "banked_cloze",
+      "blankIndex": 10,
+      "stem": "选词填空第 35 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q36",
+      "materialId": "mat-2022-12-R2",
+      "part": "reading.p2",
+      "paperNo": 36,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "stem": "Wardian regards the various extraordinary challenges as a test of his physical endurance.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q37",
+      "materialId": "mat-2022-12-R2",
+      "part": "reading.p2",
+      "paperNo": 37,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "stem": "Wardian hopes his participation in the seven-day marathon series will contribute to a worthy cause.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q38",
+      "materialId": "mat-2022-12-R2",
+      "part": "reading.p2",
+      "paperNo": 38,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "stem": "Wardian is going to join over thirty other runners in a week-long marathon series.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q39",
+      "materialId": "mat-2022-12-R2",
+      "part": "reading.p2",
+      "paperNo": 39,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "stem": "Over-exertion in extreme cold can lower one's body temperature to a dangerous point.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q40",
+      "materialId": "mat-2022-12-R2",
+      "part": "reading.p2",
+      "paperNo": 40,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "stem": "Wardian was very much impressed by a race director's sense of adventure.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q41",
+      "materialId": "mat-2022-12-R2",
+      "part": "reading.p2",
+      "paperNo": 41,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "stem": "Once Wardian sets his mind on something, he is determined to make it happen.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q42",
+      "materialId": "mat-2022-12-R2",
+      "part": "reading.p2",
+      "paperNo": 42,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "stem": "One top American marathoner quit his running career because of his physical condition.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q43",
+      "materialId": "mat-2022-12-R2",
+      "part": "reading.p2",
+      "paperNo": 43,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "stem": "To many of the week-long marathon participants, completing the race will be a success in itself.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q44",
+      "materialId": "mat-2022-12-R2",
+      "part": "reading.p2",
+      "paperNo": 44,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "stem": "For Wardian, the marathon in the Arctic was more about how to triumph over the extreme cold.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q45",
+      "materialId": "mat-2022-12-R2",
+      "part": "reading.p2",
+      "paperNo": 45,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "stem": "To participate in the seven-day marathon series, Wardian had to raise a lot of money and have his wife's support.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q46",
+      "materialId": "mat-2022-12-R3",
+      "part": "reading.p3",
+      "paperNo": 46,
+      "type": "single_choice",
+      "stem": "What does the author say about the pursuit of work-related self-esteem?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It may result in negative motivation."
+        },
+        {
+          "optionId": "o2",
+          "text": "It contributes to one's accomplishments."
+        },
+        {
+          "optionId": "o3",
+          "text": "It can increase one's vigor as one keeps trying."
+        },
+        {
+          "optionId": "o4",
+          "text": "It costs too much emotionally and psychologically."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q47",
+      "materialId": "mat-2022-12-R3",
+      "part": "reading.p3",
+      "paperNo": 47,
+      "type": "single_choice",
+      "stem": "What do employees tend to do in pursuing work-related self-esteem?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Take on tasks well beyond their actual capabilities."
+        },
+        {
+          "optionId": "o2",
+          "text": "Strive to succeed at the expense of their well-being."
+        },
+        {
+          "optionId": "o3",
+          "text": "Resort to all means regardless of the consequences."
+        },
+        {
+          "optionId": "o4",
+          "text": "Exaggerate their sense of shame and worthlessness."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q48",
+      "materialId": "mat-2022-12-R3",
+      "part": "reading.p3",
+      "paperNo": 48,
+      "type": "single_choice",
+      "stem": "What do we learn about people over-concerned with work-related self-esteem?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They may often feel inferior to their colleagues."
+        },
+        {
+          "optionId": "o2",
+          "text": "They cannot enjoy their personal life to the full."
+        },
+        {
+          "optionId": "o3",
+          "text": "They are never satisfied with their achievements."
+        },
+        {
+          "optionId": "o4",
+          "text": "They have their own view of friendship and leisure."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q49",
+      "materialId": "mat-2022-12-R3",
+      "part": "reading.p3",
+      "paperNo": 49,
+      "type": "single_choice",
+      "stem": "What is the good news we learn from the recent research?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "The pursuit of goals may turn out to be enjoyable and pleasant."
+        },
+        {
+          "optionId": "o2",
+          "text": "The emotional rewards from goal pursuit are worth the pains taken."
+        },
+        {
+          "optionId": "o3",
+          "text": "The negative consequences of goal pursuit can mostly be avoided."
+        },
+        {
+          "optionId": "o4",
+          "text": "The goal of swelling self-esteem can be achieved if one keeps trying."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q50",
+      "materialId": "mat-2022-12-R3",
+      "part": "reading.p3",
+      "paperNo": 50,
+      "type": "single_choice",
+      "stem": "What can we infer from the last paragraph?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Workers have to make sacrifices to preserve self-esteem."
+        },
+        {
+          "optionId": "o2",
+          "text": "Self-esteem swells when workers are strongly motivated."
+        },
+        {
+          "optionId": "o3",
+          "text": "Pursuit of goals affects people's personal lives to an unhealthy extent."
+        },
+        {
+          "optionId": "o4",
+          "text": "People feel positive about their work as long as they are motivated. Passage Two"
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q51",
+      "materialId": "mat-2022-12-R4",
+      "part": "reading.p3",
+      "paperNo": 51,
+      "type": "single_choice",
+      "stem": "What is the major finding of the UN environmental study?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Human activity has rendered Mother Earth almost uninhabitable."
+        },
+        {
+          "optionId": "o2",
+          "text": "Humans are doing more damage to the earth than it can cope with."
+        },
+        {
+          "optionId": "o3",
+          "text": "Environmental problems have considerably weakened human prosperity."
+        },
+        {
+          "optionId": "o4",
+          "text": "Environmental damage is more serious in developed countries these days."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q52",
+      "materialId": "mat-2022-12-R4",
+      "part": "reading.p3",
+      "paperNo": 52,
+      "type": "single_choice",
+      "stem": "What is said about water scarcity in some of the poorest regions?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It is getting so serious that there is little hope of solution."
+        },
+        {
+          "optionId": "o2",
+          "text": "It largely accounts for their slow economic development."
+        },
+        {
+          "optionId": "o3",
+          "text": "It can hardly be relieved if no drastic measures are taken."
+        },
+        {
+          "optionId": "o4",
+          "text": "It is primarily caused by the acceleration of climate change."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q53",
+      "materialId": "mat-2022-12-R4",
+      "part": "reading.p3",
+      "paperNo": 53,
+      "type": "single_choice",
+      "stem": "What does Achim Steiner say about the environmental condition?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It will deteriorate worldwide."
+        },
+        {
+          "optionId": "o2",
+          "text": "It is attracting global attention."
+        },
+        {
+          "optionId": "o3",
+          "text": "It is being slowly remedied globally."
+        },
+        {
+          "optionId": "o4",
+          "text": "It will shrink the world's population."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q54",
+      "materialId": "mat-2022-12-R4",
+      "part": "reading.p3",
+      "paperNo": 54,
+      "type": "single_choice",
+      "stem": "What is the dilemma developing countries face?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They cannot modernise farming without causing land degradation."
+        },
+        {
+          "optionId": "o2",
+          "text": "They cannot promote industrialisation without polluting waterways."
+        },
+        {
+          "optionId": "o3",
+          "text": "They cannot boost crop yields without causing greenhouse gas emissions."
+        },
+        {
+          "optionId": "o4",
+          "text": "They cannot catch up with rich countries without sacrificing the environment."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q55",
+      "materialId": "mat-2022-12-R4",
+      "part": "reading.p3",
+      "paperNo": 55,
+      "type": "single_choice",
+      "stem": "What should developing countries do in their future development according to the passage?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They turn to developed countries for the assistance they need."
+        },
+        {
+          "optionId": "o2",
+          "text": "They remedy environmental damage by slowing economic growth."
+        },
+        {
+          "optionId": "o3",
+          "text": "They avoid damaging interference from international institutions."
+        },
+        {
+          "optionId": "o4",
+          "text": "They improve people's livelihood without harming the environment. Part IV"
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q56",
+      "materialId": "mat-2022-12-T",
+      "part": "translation",
+      "paperNo": 56,
+      "type": "free_text",
+      "stem": "将下面的中文段落译成英文。",
+      "options": [],
+      "evidence": [
+        {
+          "kind": "reference_translation",
+          "segmentIndex": 1,
+          "infoPoint": "北斗系统的研制意义"
+        }
+      ],
+      "evidenceStatus": "verified",
+      "skills": [],
+      "difficulty": 3
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "cet6.2022-12.v1.q1",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-001"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q2",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-002"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q3",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-003"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q4",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-004"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q5",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-005"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q6",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-006"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q7",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-007"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q8",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-008"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q9",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-009"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q10",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-010"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q11",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-011"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q12",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-012"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q13",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-013"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q14",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-014"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q15",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-015"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q16",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-016"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q17",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-017"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q18",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-018"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q19",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-019"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q20",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-020"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q21",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-021"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q22",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-022"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q23",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-023"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q24",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-024"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q25",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-025"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q26",
+      "optionId": "word:froze",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-26"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q27",
+      "optionId": "word:access",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-27"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q28",
+      "optionId": "word:escorted",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-28"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q29",
+      "optionId": "word:peacefully",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-29"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q30",
+      "optionId": "word:incredible",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-30"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q31",
+      "optionId": "word:struck",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-31"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q32",
+      "optionId": "word:apparent",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-32"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q33",
+      "optionId": "word:barely",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-33"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q34",
+      "optionId": "word:network",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-34"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q35",
+      "optionId": "word:terrifying",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-35"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q36",
+      "optionId": "para:E",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-36"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q37",
+      "optionId": "para:I",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-37"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q38",
+      "optionId": "para:D",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-38"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q39",
+      "optionId": "para:A",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-39"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q40",
+      "optionId": "para:F",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-40"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q41",
+      "optionId": "para:K",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-41"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q42",
+      "optionId": "para:H",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-42"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q43",
+      "optionId": "para:I",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-43"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q44",
+      "optionId": "para:C",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-44"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q45",
+      "optionId": "para:G",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-45"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q46",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-046"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q47",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-047"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q48",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-048"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q49",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-049"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q50",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-050"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q51",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-051"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q52",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-052"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q53",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-053"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q54",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-054"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2022-12.v1.q55",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2022-12-v1-055"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    }
+  ],
+  "answerKeyRecords": [
+    {
+      "recordId": "akr-2022-12-v1-001",
+      "variantId": "v1",
+      "paperNo": 1,
+      "letter": "A",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-002",
+      "variantId": "v1",
+      "paperNo": 2,
+      "letter": "B",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-003",
+      "variantId": "v1",
+      "paperNo": 3,
+      "letter": "A",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-004",
+      "variantId": "v1",
+      "paperNo": 4,
+      "letter": "D",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-005",
+      "variantId": "v1",
+      "paperNo": 5,
+      "letter": "C",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-006",
+      "variantId": "v1",
+      "paperNo": 6,
+      "letter": "C",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-007",
+      "variantId": "v1",
+      "paperNo": 7,
+      "letter": "D",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-008",
+      "variantId": "v1",
+      "paperNo": 8,
+      "letter": "B",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-009",
+      "variantId": "v1",
+      "paperNo": 9,
+      "letter": "B",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-010",
+      "variantId": "v1",
+      "paperNo": 10,
+      "letter": "A",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-011",
+      "variantId": "v1",
+      "paperNo": 11,
+      "letter": "C",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-012",
+      "variantId": "v1",
+      "paperNo": 12,
+      "letter": "D",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-013",
+      "variantId": "v1",
+      "paperNo": 13,
+      "letter": "D",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-014",
+      "variantId": "v1",
+      "paperNo": 14,
+      "letter": "B",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-015",
+      "variantId": "v1",
+      "paperNo": 15,
+      "letter": "A",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-016",
+      "variantId": "v1",
+      "paperNo": 16,
+      "letter": "D",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-017",
+      "variantId": "v1",
+      "paperNo": 17,
+      "letter": "A",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-018",
+      "variantId": "v1",
+      "paperNo": 18,
+      "letter": "B",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-019",
+      "variantId": "v1",
+      "paperNo": 19,
+      "letter": "C",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-020",
+      "variantId": "v1",
+      "paperNo": 20,
+      "letter": "A",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-021",
+      "variantId": "v1",
+      "paperNo": 21,
+      "letter": "B",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-022",
+      "variantId": "v1",
+      "paperNo": 22,
+      "letter": "B",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-023",
+      "variantId": "v1",
+      "paperNo": 23,
+      "letter": "C",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-024",
+      "variantId": "v1",
+      "paperNo": 24,
+      "letter": "C",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-025",
+      "variantId": "v1",
+      "paperNo": 25,
+      "letter": "D",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-26",
+      "variantId": "v1",
+      "paperNo": 26,
+      "mode": "word",
+      "value": "froze",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-27",
+      "variantId": "v1",
+      "paperNo": 27,
+      "mode": "word",
+      "value": "access",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-28",
+      "variantId": "v1",
+      "paperNo": 28,
+      "mode": "word",
+      "value": "escorted",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-29",
+      "variantId": "v1",
+      "paperNo": 29,
+      "mode": "word",
+      "value": "peacefully",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-30",
+      "variantId": "v1",
+      "paperNo": 30,
+      "mode": "word",
+      "value": "incredible",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-31",
+      "variantId": "v1",
+      "paperNo": 31,
+      "mode": "word",
+      "value": "struck",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-32",
+      "variantId": "v1",
+      "paperNo": 32,
+      "mode": "word",
+      "value": "apparent",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-33",
+      "variantId": "v1",
+      "paperNo": 33,
+      "mode": "word",
+      "value": "barely",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-34",
+      "variantId": "v1",
+      "paperNo": 34,
+      "mode": "word",
+      "value": "network",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-35",
+      "variantId": "v1",
+      "paperNo": 35,
+      "mode": "word",
+      "value": "terrifying",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-36",
+      "variantId": "v1",
+      "paperNo": 36,
+      "mode": "paragraph",
+      "value": "E",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-37",
+      "variantId": "v1",
+      "paperNo": 37,
+      "mode": "paragraph",
+      "value": "I",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-38",
+      "variantId": "v1",
+      "paperNo": 38,
+      "mode": "paragraph",
+      "value": "D",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-39",
+      "variantId": "v1",
+      "paperNo": 39,
+      "mode": "paragraph",
+      "value": "A",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-40",
+      "variantId": "v1",
+      "paperNo": 40,
+      "mode": "paragraph",
+      "value": "F",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-41",
+      "variantId": "v1",
+      "paperNo": 41,
+      "mode": "paragraph",
+      "value": "K",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-42",
+      "variantId": "v1",
+      "paperNo": 42,
+      "mode": "paragraph",
+      "value": "H",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-43",
+      "variantId": "v1",
+      "paperNo": 43,
+      "mode": "paragraph",
+      "value": "I",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-44",
+      "variantId": "v1",
+      "paperNo": 44,
+      "mode": "paragraph",
+      "value": "C",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-45",
+      "variantId": "v1",
+      "paperNo": 45,
+      "mode": "paragraph",
+      "value": "G",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-046",
+      "variantId": "v1",
+      "paperNo": 46,
+      "letter": "A",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-047",
+      "variantId": "v1",
+      "paperNo": 47,
+      "letter": "B",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-048",
+      "variantId": "v1",
+      "paperNo": 48,
+      "letter": "B",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-049",
+      "variantId": "v1",
+      "paperNo": 49,
+      "letter": "A",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-050",
+      "variantId": "v1",
+      "paperNo": 50,
+      "letter": "D",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-051",
+      "variantId": "v1",
+      "paperNo": 51,
+      "letter": "B",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-052",
+      "variantId": "v1",
+      "paperNo": 52,
+      "letter": "C",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-053",
+      "variantId": "v1",
+      "paperNo": 53,
+      "letter": "A",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-054",
+      "variantId": "v1",
+      "paperNo": 54,
+      "letter": "C",
+      "sourceId": "mineru-2022-12-v1"
+    },
+    {
+      "recordId": "akr-2022-12-v1-055",
+      "variantId": "v1",
+      "paperNo": 55,
+      "letter": "D",
+      "sourceId": "mineru-2022-12-v1"
+    }
+  ],
+  "variants": [
+    {
+      "variantId": "v1",
+      "label": {
+        "zh": "第 1 套"
+      },
+      "questionSet": [
+        "cet6.2022-12.v1.q1",
+        "cet6.2022-12.v1.q2",
+        "cet6.2022-12.v1.q3",
+        "cet6.2022-12.v1.q4",
+        "cet6.2022-12.v1.q5",
+        "cet6.2022-12.v1.q6",
+        "cet6.2022-12.v1.q7",
+        "cet6.2022-12.v1.q8",
+        "cet6.2022-12.v1.q9",
+        "cet6.2022-12.v1.q10",
+        "cet6.2022-12.v1.q11",
+        "cet6.2022-12.v1.q12",
+        "cet6.2022-12.v1.q13",
+        "cet6.2022-12.v1.q14",
+        "cet6.2022-12.v1.q15",
+        "cet6.2022-12.v1.q16",
+        "cet6.2022-12.v1.q17",
+        "cet6.2022-12.v1.q18",
+        "cet6.2022-12.v1.q19",
+        "cet6.2022-12.v1.q20",
+        "cet6.2022-12.v1.q21",
+        "cet6.2022-12.v1.q22",
+        "cet6.2022-12.v1.q23",
+        "cet6.2022-12.v1.q24",
+        "cet6.2022-12.v1.q25",
+        "cet6.2022-12.v1.q26",
+        "cet6.2022-12.v1.q27",
+        "cet6.2022-12.v1.q28",
+        "cet6.2022-12.v1.q29",
+        "cet6.2022-12.v1.q30",
+        "cet6.2022-12.v1.q31",
+        "cet6.2022-12.v1.q32",
+        "cet6.2022-12.v1.q33",
+        "cet6.2022-12.v1.q34",
+        "cet6.2022-12.v1.q35",
+        "cet6.2022-12.v1.q36",
+        "cet6.2022-12.v1.q37",
+        "cet6.2022-12.v1.q38",
+        "cet6.2022-12.v1.q39",
+        "cet6.2022-12.v1.q40",
+        "cet6.2022-12.v1.q41",
+        "cet6.2022-12.v1.q42",
+        "cet6.2022-12.v1.q43",
+        "cet6.2022-12.v1.q44",
+        "cet6.2022-12.v1.q45",
+        "cet6.2022-12.v1.q46",
+        "cet6.2022-12.v1.q47",
+        "cet6.2022-12.v1.q48",
+        "cet6.2022-12.v1.q49",
+        "cet6.2022-12.v1.q50",
+        "cet6.2022-12.v1.q51",
+        "cet6.2022-12.v1.q52",
+        "cet6.2022-12.v1.q53",
+        "cet6.2022-12.v1.q54",
+        "cet6.2022-12.v1.q55",
+        "cet6.2022-12.v1.q56"
+      ],
+      "writingTaskId": "wt-2022-12-v1",
+      "translationQuestionId": "cet6.2022-12.v1.q56"
+    }
+  ],
+  "writingTasks": [
+    {
+      "writingTaskId": "wt-2022-12-v1",
+      "paperNo": null,
+      "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence “With the application of information technology in education, college students can now learn in more diverse and efficient ways.” You can make statements, give reasons, or cite examples to develop your essay. You should write at least 150 words but no more than 200 words. Part II",
+      "requirements": [
+        "150–200 words",
+        "以给定的句子开头",
+        "不要照抄题目"
+      ],
+      "referenceEssays": []
+    }
+  ],
+  "integrity": {}
+}
