@@ -4,6 +4,7 @@ const BASE = import.meta.env.BASE_URL.endsWith("/")
   : `${import.meta.env.BASE_URL}/`;
 
 const cache = new Map<string, Promise<unknown>>();
+let contentVersion = "0";
 
 function getJson<T>(path: string): Promise<T> {
   const url = `${BASE}${path}`;
@@ -19,8 +20,14 @@ function getJson<T>(path: string): Promise<T> {
   return cache.get(url) as Promise<T>;
 }
 
-export function loadManifest(): Promise<Manifest> {
-  return getJson<Manifest>("content/manifest.json");
+export async function loadManifest(): Promise<Manifest> {
+  // 题库索引必须回源，否则内容更新后用户会一直看到旧包
+  const url = `${BASE}content/manifest.json`;
+  const res = await fetch(url, { cache: "no-cache" });
+  if (!res.ok) throw new Error(`加载失败：manifest.json (${res.status})`);
+  const manifest = (await res.json()) as Manifest;
+  contentVersion = manifest.updatedAt ?? "0";
+  return manifest;
 }
 
 export function loadExam(examId: string): Promise<ExamConfig> {
@@ -28,7 +35,7 @@ export function loadExam(examId: string): Promise<ExamConfig> {
 }
 
 export function loadPack(path: string): Promise<Pack> {
-  return getJson<Pack>(`content/${path}`);
+  return getJson<Pack>(`content/${path}?v=${encodeURIComponent(contentVersion)}`);
 }
 
 export function assetUrl(pack: Pack, assetId?: string): string | null {

@@ -1,5 +1,5 @@
 /* CET Nova service worker：应用壳缓存 + 内容包 stale-while-revalidate */
-const CACHE = "cetnova-v2";
+const CACHE = "cetnova-v3";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", (event) => {
@@ -54,7 +54,22 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // 题库：先给缓存，同时后台更新
+  // 题库索引：网络优先，断网回退缓存
+  if (url.pathname.endsWith("/content/manifest.json")) {
+    event.respondWith(
+      fetch(request)
+        .then((response) => {
+          if (response.ok) {
+            caches.open(CACHE).then((cache) => cache.put(request, response.clone()));
+          }
+          return response;
+        })
+        .catch(() => caches.match(request)),
+    );
+    return;
+  }
+
+  // 其它题库文件：先给缓存，同时后台更新
   if (url.pathname.includes("/content/")) {
     event.respondWith(staleWhileRevalidate(request));
     return;

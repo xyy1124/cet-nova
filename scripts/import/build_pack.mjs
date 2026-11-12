@@ -16,7 +16,7 @@ if (!parsedPath || !answersPath || !outPath) {
 const parsed = JSON.parse(readFileSync(parsedPath, "utf-8"));
 const key = JSON.parse(readFileSync(answersPath, "utf-8"));
 
-const SESSION = key.paper;
+const SESSION = String(key.paper).replace(/[.\/]/g, "-");
 const VARIANT = key.variant ?? "v1";
 const PACK_ID = `cet6-${SESSION}-${VARIANT}`;
 const NOW = "2026-11-12T00:00:00Z";

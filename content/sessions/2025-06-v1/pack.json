@@ -1,12 +1,12 @@
 {
   "schemaVersion": "1.0.0",
-  "packId": "cet6-2025.06-v1",
+  "packId": "cet6-2025-06-v1",
   "examId": "cet6",
-  "sessionId": "2025.06",
+  "sessionId": "2025-06",
   "kind": "exam",
   "title": {
-    "zh": "2025.06 年 NaN 月 六级真题（第 1 套）",
-    "en": "CET-6 2025.06 set 1"
+    "zh": "2025 年 6 月 六级真题（第 1 套）",
+    "en": "CET-6 2025-06 set 1"
   },
   "builtAt": "2026-11-12T00:00:00Z",
   "builder": {
@@ -33,7 +33,7 @@
   ],
   "assets": [
     {
-      "assetId": "aud-2025.06-v1",
+      "assetId": "aud-2025-06-v1",
       "type": "audio",
       "mimeType": "audio/mpeg",
       "durationMs": 0,
@@ -54,17 +54,17 @@
   ],
   "materials": [
     {
-      "materialId": "mat-2025.06-L",
+      "materialId": "mat-2025-06-L",
       "section": "listening",
       "part": "listening.p1",
       "sharedAcrossVariants": true,
       "audio": {
-        "assetId": "aud-2025.06-v1",
+        "assetId": "aud-2025-06-v1",
         "durationMs": 0
       }
     },
     {
-      "materialId": "mat-2025.06-R1",
+      "materialId": "mat-2025-06-R1",
       "section": "reading",
       "part": "reading.p1",
       "sharedAcrossVariants": true,
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "materialId": "mat-2025.06-R2",
+      "materialId": "mat-2025-06-R2",
       "section": "reading",
       "part": "reading.p2",
       "sharedAcrossVariants": true,
@@ -165,7 +165,7 @@
       }
     },
     {
-      "materialId": "mat-2025.06-R3",
+      "materialId": "mat-2025-06-R3",
       "section": "reading",
       "part": "reading.p3",
       "sharedAcrossVariants": true,
@@ -181,7 +181,7 @@
       }
     },
     {
-      "materialId": "mat-2025.06-R4",
+      "materialId": "mat-2025-06-R4",
       "section": "reading",
       "part": "reading.p3",
       "sharedAcrossVariants": true,
@@ -197,7 +197,7 @@
       }
     },
     {
-      "materialId": "mat-2025.06-T",
+      "materialId": "mat-2025-06-T",
       "section": "translation",
       "part": "translation",
       "sharedAcrossVariants": true,
@@ -219,8 +219,8 @@
   ],
   "questions": [
     {
-      "questionId": "cet6.2025.06.v1.q1",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q1",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p1",
       "paperNo": 1,
       "type": "single_choice",
@@ -249,8 +249,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q2",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q2",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p1",
       "paperNo": 2,
       "type": "single_choice",
@@ -279,8 +279,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q3",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q3",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p1",
       "paperNo": 3,
       "type": "single_choice",
@@ -309,8 +309,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q4",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q4",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p1",
       "paperNo": 4,
       "type": "single_choice",
@@ -339,8 +339,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q5",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q5",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p1",
       "paperNo": 5,
       "type": "single_choice",
@@ -369,8 +369,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q6",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q6",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p1",
       "paperNo": 6,
       "type": "single_choice",
@@ -399,8 +399,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q7",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q7",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p1",
       "paperNo": 7,
       "type": "single_choice",
@@ -429,8 +429,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q8",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q8",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p1",
       "paperNo": 8,
       "type": "single_choice",
@@ -459,8 +459,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q9",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q9",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p2",
       "paperNo": 9,
       "type": "single_choice",
@@ -489,8 +489,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q10",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q10",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p2",
       "paperNo": 10,
       "type": "single_choice",
@@ -519,8 +519,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q11",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q11",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p2",
       "paperNo": 11,
       "type": "single_choice",
@@ -549,8 +549,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q12",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q12",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p2",
       "paperNo": 12,
       "type": "single_choice",
@@ -579,8 +579,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q13",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q13",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p2",
       "paperNo": 13,
       "type": "single_choice",
@@ -609,8 +609,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q14",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q14",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p2",
       "paperNo": 14,
       "type": "single_choice",
@@ -639,8 +639,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q15",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q15",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p2",
       "paperNo": 15,
       "type": "single_choice",
@@ -669,8 +669,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q16",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q16",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p3",
       "paperNo": 16,
       "type": "single_choice",
@@ -699,8 +699,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q17",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q17",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p3",
       "paperNo": 17,
       "type": "single_choice",
@@ -729,8 +729,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q18",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q18",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p3",
       "paperNo": 18,
       "type": "single_choice",
@@ -759,8 +759,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q19",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q19",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p3",
       "paperNo": 19,
       "type": "single_choice",
@@ -789,8 +789,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q20",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q20",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p3",
       "paperNo": 20,
       "type": "single_choice",
@@ -819,8 +819,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q21",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q21",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p3",
       "paperNo": 21,
       "type": "single_choice",
@@ -849,8 +849,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q22",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q22",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p3",
       "paperNo": 22,
       "type": "single_choice",
@@ -879,8 +879,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q23",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q23",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p3",
       "paperNo": 23,
       "type": "single_choice",
@@ -909,8 +909,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q24",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q24",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p3",
       "paperNo": 24,
       "type": "single_choice",
@@ -939,8 +939,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q25",
-      "materialId": "mat-2025.06-L",
+      "questionId": "cet6.2025-06.v1.q25",
+      "materialId": "mat-2025-06-L",
       "part": "listening.p3",
       "paperNo": 25,
       "type": "single_choice",
@@ -969,8 +969,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q26",
-      "materialId": "mat-2025.06-R1",
+      "questionId": "cet6.2025-06.v1.q26",
+      "materialId": "mat-2025-06-R1",
       "part": "reading.p1",
       "paperNo": 26,
       "type": "banked_cloze",
@@ -983,8 +983,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q27",
-      "materialId": "mat-2025.06-R1",
+      "questionId": "cet6.2025-06.v1.q27",
+      "materialId": "mat-2025-06-R1",
       "part": "reading.p1",
       "paperNo": 27,
       "type": "banked_cloze",
@@ -997,8 +997,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q28",
-      "materialId": "mat-2025.06-R1",
+      "questionId": "cet6.2025-06.v1.q28",
+      "materialId": "mat-2025-06-R1",
       "part": "reading.p1",
       "paperNo": 28,
       "type": "banked_cloze",
@@ -1011,8 +1011,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q29",
-      "materialId": "mat-2025.06-R1",
+      "questionId": "cet6.2025-06.v1.q29",
+      "materialId": "mat-2025-06-R1",
       "part": "reading.p1",
       "paperNo": 29,
       "type": "banked_cloze",
@@ -1025,8 +1025,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q30",
-      "materialId": "mat-2025.06-R1",
+      "questionId": "cet6.2025-06.v1.q30",
+      "materialId": "mat-2025-06-R1",
       "part": "reading.p1",
       "paperNo": 30,
       "type": "banked_cloze",
@@ -1039,8 +1039,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q31",
-      "materialId": "mat-2025.06-R1",
+      "questionId": "cet6.2025-06.v1.q31",
+      "materialId": "mat-2025-06-R1",
       "part": "reading.p1",
       "paperNo": 31,
       "type": "banked_cloze",
@@ -1053,8 +1053,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q32",
-      "materialId": "mat-2025.06-R1",
+      "questionId": "cet6.2025-06.v1.q32",
+      "materialId": "mat-2025-06-R1",
       "part": "reading.p1",
       "paperNo": 32,
       "type": "banked_cloze",
@@ -1067,8 +1067,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q33",
-      "materialId": "mat-2025.06-R1",
+      "questionId": "cet6.2025-06.v1.q33",
+      "materialId": "mat-2025-06-R1",
       "part": "reading.p1",
       "paperNo": 33,
       "type": "banked_cloze",
@@ -1081,8 +1081,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q34",
-      "materialId": "mat-2025.06-R1",
+      "questionId": "cet6.2025-06.v1.q34",
+      "materialId": "mat-2025-06-R1",
       "part": "reading.p1",
       "paperNo": 34,
       "type": "banked_cloze",
@@ -1095,8 +1095,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q35",
-      "materialId": "mat-2025.06-R1",
+      "questionId": "cet6.2025-06.v1.q35",
+      "materialId": "mat-2025-06-R1",
       "part": "reading.p1",
       "paperNo": 35,
       "type": "banked_cloze",
@@ -1109,8 +1109,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q36",
-      "materialId": "mat-2025.06-R2",
+      "questionId": "cet6.2025-06.v1.q36",
+      "materialId": "mat-2025-06-R2",
       "part": "reading.p2",
       "paperNo": 36,
       "type": "paragraph_match",
@@ -1138,8 +1138,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q37",
-      "materialId": "mat-2025.06-R2",
+      "questionId": "cet6.2025-06.v1.q37",
+      "materialId": "mat-2025-06-R2",
       "part": "reading.p2",
       "paperNo": 37,
       "type": "paragraph_match",
@@ -1167,8 +1167,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q38",
-      "materialId": "mat-2025.06-R2",
+      "questionId": "cet6.2025-06.v1.q38",
+      "materialId": "mat-2025-06-R2",
       "part": "reading.p2",
       "paperNo": 38,
       "type": "paragraph_match",
@@ -1196,8 +1196,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q39",
-      "materialId": "mat-2025.06-R2",
+      "questionId": "cet6.2025-06.v1.q39",
+      "materialId": "mat-2025-06-R2",
       "part": "reading.p2",
       "paperNo": 39,
       "type": "paragraph_match",
@@ -1225,8 +1225,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q40",
-      "materialId": "mat-2025.06-R2",
+      "questionId": "cet6.2025-06.v1.q40",
+      "materialId": "mat-2025-06-R2",
       "part": "reading.p2",
       "paperNo": 40,
       "type": "paragraph_match",
@@ -1254,8 +1254,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q41",
-      "materialId": "mat-2025.06-R2",
+      "questionId": "cet6.2025-06.v1.q41",
+      "materialId": "mat-2025-06-R2",
       "part": "reading.p2",
       "paperNo": 41,
       "type": "paragraph_match",
@@ -1283,8 +1283,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q42",
-      "materialId": "mat-2025.06-R2",
+      "questionId": "cet6.2025-06.v1.q42",
+      "materialId": "mat-2025-06-R2",
       "part": "reading.p2",
       "paperNo": 42,
       "type": "paragraph_match",
@@ -1312,8 +1312,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q43",
-      "materialId": "mat-2025.06-R2",
+      "questionId": "cet6.2025-06.v1.q43",
+      "materialId": "mat-2025-06-R2",
       "part": "reading.p2",
       "paperNo": 43,
       "type": "paragraph_match",
@@ -1341,8 +1341,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q44",
-      "materialId": "mat-2025.06-R2",
+      "questionId": "cet6.2025-06.v1.q44",
+      "materialId": "mat-2025-06-R2",
       "part": "reading.p2",
       "paperNo": 44,
       "type": "paragraph_match",
@@ -1370,8 +1370,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q45",
-      "materialId": "mat-2025.06-R2",
+      "questionId": "cet6.2025-06.v1.q45",
+      "materialId": "mat-2025-06-R2",
       "part": "reading.p2",
       "paperNo": 45,
       "type": "paragraph_match",
@@ -1399,8 +1399,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q46",
-      "materialId": "mat-2025.06-R3",
+      "questionId": "cet6.2025-06.v1.q46",
+      "materialId": "mat-2025-06-R3",
       "part": "reading.p3",
       "paperNo": 46,
       "type": "single_choice",
@@ -1429,8 +1429,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q47",
-      "materialId": "mat-2025.06-R3",
+      "questionId": "cet6.2025-06.v1.q47",
+      "materialId": "mat-2025-06-R3",
       "part": "reading.p3",
       "paperNo": 47,
       "type": "single_choice",
@@ -1459,8 +1459,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q48",
-      "materialId": "mat-2025.06-R3",
+      "questionId": "cet6.2025-06.v1.q48",
+      "materialId": "mat-2025-06-R3",
       "part": "reading.p3",
       "paperNo": 48,
       "type": "single_choice",
@@ -1489,8 +1489,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q49",
-      "materialId": "mat-2025.06-R3",
+      "questionId": "cet6.2025-06.v1.q49",
+      "materialId": "mat-2025-06-R3",
       "part": "reading.p3",
       "paperNo": 49,
       "type": "single_choice",
@@ -1519,8 +1519,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q50",
-      "materialId": "mat-2025.06-R3",
+      "questionId": "cet6.2025-06.v1.q50",
+      "materialId": "mat-2025-06-R3",
       "part": "reading.p3",
       "paperNo": 50,
       "type": "single_choice",
@@ -1549,8 +1549,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q51",
-      "materialId": "mat-2025.06-R4",
+      "questionId": "cet6.2025-06.v1.q51",
+      "materialId": "mat-2025-06-R4",
       "part": "reading.p3",
       "paperNo": 51,
       "type": "single_choice",
@@ -1579,8 +1579,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q52",
-      "materialId": "mat-2025.06-R4",
+      "questionId": "cet6.2025-06.v1.q52",
+      "materialId": "mat-2025-06-R4",
       "part": "reading.p3",
       "paperNo": 52,
       "type": "single_choice",
@@ -1609,8 +1609,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q53",
-      "materialId": "mat-2025.06-R4",
+      "questionId": "cet6.2025-06.v1.q53",
+      "materialId": "mat-2025-06-R4",
       "part": "reading.p3",
       "paperNo": 53,
       "type": "single_choice",
@@ -1639,8 +1639,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q54",
-      "materialId": "mat-2025.06-R4",
+      "questionId": "cet6.2025-06.v1.q54",
+      "materialId": "mat-2025-06-R4",
       "part": "reading.p3",
       "paperNo": 54,
       "type": "single_choice",
@@ -1669,8 +1669,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q55",
-      "materialId": "mat-2025.06-R4",
+      "questionId": "cet6.2025-06.v1.q55",
+      "materialId": "mat-2025-06-R4",
       "part": "reading.p3",
       "paperNo": 55,
       "type": "single_choice",
@@ -1699,8 +1699,8 @@
       "difficulty": 3
     },
     {
-      "questionId": "cet6.2025.06.v1.q56",
-      "materialId": "mat-2025.06-T",
+      "questionId": "cet6.2025-06.v1.q56",
+      "materialId": "mat-2025-06-T",
       "part": "translation",
       "paperNo": 56,
       "type": "free_text",
@@ -1720,11 +1720,11 @@
   ],
   "answers": [
     {
-      "questionId": "cet6.2025.06.v1.q1",
+      "questionId": "cet6.2025-06.v1.q1",
       "optionId": "o3",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-001"
+        "akr-2025-06-v1-001"
       ],
       "conflicts": [],
       "review": {
@@ -1736,11 +1736,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q2",
+      "questionId": "cet6.2025-06.v1.q2",
       "optionId": "o2",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-002"
+        "akr-2025-06-v1-002"
       ],
       "conflicts": [],
       "review": {
@@ -1752,11 +1752,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q3",
+      "questionId": "cet6.2025-06.v1.q3",
       "optionId": "o4",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-003"
+        "akr-2025-06-v1-003"
       ],
       "conflicts": [],
       "review": {
@@ -1768,11 +1768,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q4",
+      "questionId": "cet6.2025-06.v1.q4",
       "optionId": "o1",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-004"
+        "akr-2025-06-v1-004"
       ],
       "conflicts": [],
       "review": {
@@ -1784,11 +1784,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q5",
+      "questionId": "cet6.2025-06.v1.q5",
       "optionId": "o1",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-005"
+        "akr-2025-06-v1-005"
       ],
       "conflicts": [],
       "review": {
@@ -1800,11 +1800,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q6",
+      "questionId": "cet6.2025-06.v1.q6",
       "optionId": "o4",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-006"
+        "akr-2025-06-v1-006"
       ],
       "conflicts": [],
       "review": {
@@ -1816,11 +1816,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q7",
+      "questionId": "cet6.2025-06.v1.q7",
       "optionId": "o3",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-007"
+        "akr-2025-06-v1-007"
       ],
       "conflicts": [],
       "review": {
@@ -1832,11 +1832,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q8",
+      "questionId": "cet6.2025-06.v1.q8",
       "optionId": "o4",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-008"
+        "akr-2025-06-v1-008"
       ],
       "conflicts": [],
       "review": {
@@ -1848,11 +1848,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q9",
+      "questionId": "cet6.2025-06.v1.q9",
       "optionId": "o3",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-009"
+        "akr-2025-06-v1-009"
       ],
       "conflicts": [],
       "review": {
@@ -1864,11 +1864,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q10",
+      "questionId": "cet6.2025-06.v1.q10",
       "optionId": "o2",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-010"
+        "akr-2025-06-v1-010"
       ],
       "conflicts": [],
       "review": {
@@ -1880,11 +1880,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q11",
+      "questionId": "cet6.2025-06.v1.q11",
       "optionId": "o1",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-011"
+        "akr-2025-06-v1-011"
       ],
       "conflicts": [],
       "review": {
@@ -1896,11 +1896,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q12",
+      "questionId": "cet6.2025-06.v1.q12",
       "optionId": "o3",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-012"
+        "akr-2025-06-v1-012"
       ],
       "conflicts": [],
       "review": {
@@ -1912,11 +1912,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q13",
+      "questionId": "cet6.2025-06.v1.q13",
       "optionId": "o3",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-013"
+        "akr-2025-06-v1-013"
       ],
       "conflicts": [],
       "review": {
@@ -1928,11 +1928,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q14",
+      "questionId": "cet6.2025-06.v1.q14",
       "optionId": "o2",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-014"
+        "akr-2025-06-v1-014"
       ],
       "conflicts": [],
       "review": {
@@ -1944,11 +1944,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q15",
+      "questionId": "cet6.2025-06.v1.q15",
       "optionId": "o2",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-015"
+        "akr-2025-06-v1-015"
       ],
       "conflicts": [],
       "review": {
@@ -1960,11 +1960,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q16",
+      "questionId": "cet6.2025-06.v1.q16",
       "optionId": "o4",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-016"
+        "akr-2025-06-v1-016"
       ],
       "conflicts": [],
       "review": {
@@ -1976,11 +1976,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q17",
+      "questionId": "cet6.2025-06.v1.q17",
       "optionId": "o1",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-017"
+        "akr-2025-06-v1-017"
       ],
       "conflicts": [],
       "review": {
@@ -1992,11 +1992,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q18",
+      "questionId": "cet6.2025-06.v1.q18",
       "optionId": "o2",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-018"
+        "akr-2025-06-v1-018"
       ],
       "conflicts": [],
       "review": {
@@ -2008,11 +2008,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q19",
+      "questionId": "cet6.2025-06.v1.q19",
       "optionId": "o1",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-019"
+        "akr-2025-06-v1-019"
       ],
       "conflicts": [],
       "review": {
@@ -2024,11 +2024,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q20",
+      "questionId": "cet6.2025-06.v1.q20",
       "optionId": "o4",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-020"
+        "akr-2025-06-v1-020"
       ],
       "conflicts": [],
       "review": {
@@ -2040,11 +2040,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q21",
+      "questionId": "cet6.2025-06.v1.q21",
       "optionId": "o3",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-021"
+        "akr-2025-06-v1-021"
       ],
       "conflicts": [],
       "review": {
@@ -2056,11 +2056,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q22",
+      "questionId": "cet6.2025-06.v1.q22",
       "optionId": "o4",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-022"
+        "akr-2025-06-v1-022"
       ],
       "conflicts": [],
       "review": {
@@ -2072,11 +2072,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q23",
+      "questionId": "cet6.2025-06.v1.q23",
       "optionId": "o1",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-023"
+        "akr-2025-06-v1-023"
       ],
       "conflicts": [],
       "review": {
@@ -2088,11 +2088,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q24",
+      "questionId": "cet6.2025-06.v1.q24",
       "optionId": "o4",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-024"
+        "akr-2025-06-v1-024"
       ],
       "conflicts": [],
       "review": {
@@ -2104,11 +2104,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q25",
+      "questionId": "cet6.2025-06.v1.q25",
       "optionId": "o2",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-025"
+        "akr-2025-06-v1-025"
       ],
       "conflicts": [],
       "review": {
@@ -2120,11 +2120,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q26",
+      "questionId": "cet6.2025-06.v1.q26",
       "optionId": "word:intrigued",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-26"
+        "akr-2025-06-v1-26"
       ],
       "conflicts": [],
       "review": {
@@ -2136,11 +2136,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q27",
+      "questionId": "cet6.2025-06.v1.q27",
       "optionId": "word:chronic",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-27"
+        "akr-2025-06-v1-27"
       ],
       "conflicts": [],
       "review": {
@@ -2152,11 +2152,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q28",
+      "questionId": "cet6.2025-06.v1.q28",
       "optionId": "word:outlet",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-28"
+        "akr-2025-06-v1-28"
       ],
       "conflicts": [],
       "review": {
@@ -2168,11 +2168,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q29",
+      "questionId": "cet6.2025-06.v1.q29",
       "optionId": "word:environment",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-29"
+        "akr-2025-06-v1-29"
       ],
       "conflicts": [],
       "review": {
@@ -2184,11 +2184,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q30",
+      "questionId": "cet6.2025-06.v1.q30",
       "optionId": "word:aesthetic",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-30"
+        "akr-2025-06-v1-30"
       ],
       "conflicts": [],
       "review": {
@@ -2200,11 +2200,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q31",
+      "questionId": "cet6.2025-06.v1.q31",
       "optionId": "word:conventionally",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-31"
+        "akr-2025-06-v1-31"
       ],
       "conflicts": [],
       "review": {
@@ -2216,11 +2216,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q32",
+      "questionId": "cet6.2025-06.v1.q32",
       "optionId": "word:contaminated",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-32"
+        "akr-2025-06-v1-32"
       ],
       "conflicts": [],
       "review": {
@@ -2232,11 +2232,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q33",
+      "questionId": "cet6.2025-06.v1.q33",
       "optionId": "word:emissions",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-33"
+        "akr-2025-06-v1-33"
       ],
       "conflicts": [],
       "review": {
@@ -2248,11 +2248,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q34",
+      "questionId": "cet6.2025-06.v1.q34",
       "optionId": "word:hampering",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-34"
+        "akr-2025-06-v1-34"
       ],
       "conflicts": [],
       "review": {
@@ -2264,11 +2264,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q35",
+      "questionId": "cet6.2025-06.v1.q35",
       "optionId": "word:weeding",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-35"
+        "akr-2025-06-v1-35"
       ],
       "conflicts": [],
       "review": {
@@ -2280,11 +2280,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q36",
+      "questionId": "cet6.2025-06.v1.q36",
       "optionId": "para:G",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-36"
+        "akr-2025-06-v1-36"
       ],
       "conflicts": [],
       "review": {
@@ -2296,11 +2296,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q37",
+      "questionId": "cet6.2025-06.v1.q37",
       "optionId": "para:C",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-37"
+        "akr-2025-06-v1-37"
       ],
       "conflicts": [],
       "review": {
@@ -2312,11 +2312,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q38",
+      "questionId": "cet6.2025-06.v1.q38",
       "optionId": "para:I",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-38"
+        "akr-2025-06-v1-38"
       ],
       "conflicts": [],
       "review": {
@@ -2328,11 +2328,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q39",
+      "questionId": "cet6.2025-06.v1.q39",
       "optionId": "para:D",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-39"
+        "akr-2025-06-v1-39"
       ],
       "conflicts": [],
       "review": {
@@ -2344,11 +2344,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q40",
+      "questionId": "cet6.2025-06.v1.q40",
       "optionId": "para:A",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-40"
+        "akr-2025-06-v1-40"
       ],
       "conflicts": [],
       "review": {
@@ -2360,11 +2360,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q41",
+      "questionId": "cet6.2025-06.v1.q41",
       "optionId": "para:L",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-41"
+        "akr-2025-06-v1-41"
       ],
       "conflicts": [],
       "review": {
@@ -2376,11 +2376,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q42",
+      "questionId": "cet6.2025-06.v1.q42",
       "optionId": "para:F",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-42"
+        "akr-2025-06-v1-42"
       ],
       "conflicts": [],
       "review": {
@@ -2392,11 +2392,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q43",
+      "questionId": "cet6.2025-06.v1.q43",
       "optionId": "para:H",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-43"
+        "akr-2025-06-v1-43"
       ],
       "conflicts": [],
       "review": {
@@ -2408,11 +2408,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q44",
+      "questionId": "cet6.2025-06.v1.q44",
       "optionId": "para:B",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-44"
+        "akr-2025-06-v1-44"
       ],
       "conflicts": [],
       "review": {
@@ -2424,11 +2424,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q45",
+      "questionId": "cet6.2025-06.v1.q45",
       "optionId": "para:K",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-45"
+        "akr-2025-06-v1-45"
       ],
       "conflicts": [],
       "review": {
@@ -2440,11 +2440,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q46",
+      "questionId": "cet6.2025-06.v1.q46",
       "optionId": "o3",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-046"
+        "akr-2025-06-v1-046"
       ],
       "conflicts": [],
       "review": {
@@ -2456,11 +2456,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q47",
+      "questionId": "cet6.2025-06.v1.q47",
       "optionId": "o1",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-047"
+        "akr-2025-06-v1-047"
       ],
       "conflicts": [],
       "review": {
@@ -2472,11 +2472,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q48",
+      "questionId": "cet6.2025-06.v1.q48",
       "optionId": "o2",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-048"
+        "akr-2025-06-v1-048"
       ],
       "conflicts": [],
       "review": {
@@ -2488,11 +2488,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q49",
+      "questionId": "cet6.2025-06.v1.q49",
       "optionId": "o2",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-049"
+        "akr-2025-06-v1-049"
       ],
       "conflicts": [],
       "review": {
@@ -2504,11 +2504,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q50",
+      "questionId": "cet6.2025-06.v1.q50",
       "optionId": "o3",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-050"
+        "akr-2025-06-v1-050"
       ],
       "conflicts": [],
       "review": {
@@ -2520,11 +2520,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q51",
+      "questionId": "cet6.2025-06.v1.q51",
       "optionId": "o4",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-051"
+        "akr-2025-06-v1-051"
       ],
       "conflicts": [],
       "review": {
@@ -2536,11 +2536,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q52",
+      "questionId": "cet6.2025-06.v1.q52",
       "optionId": "o1",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-052"
+        "akr-2025-06-v1-052"
       ],
       "conflicts": [],
       "review": {
@@ -2552,11 +2552,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q53",
+      "questionId": "cet6.2025-06.v1.q53",
       "optionId": "o4",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-053"
+        "akr-2025-06-v1-053"
       ],
       "conflicts": [],
       "review": {
@@ -2568,11 +2568,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q54",
+      "questionId": "cet6.2025-06.v1.q54",
       "optionId": "o3",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-054"
+        "akr-2025-06-v1-054"
       ],
       "conflicts": [],
       "review": {
@@ -2584,11 +2584,11 @@
       }
     },
     {
-      "questionId": "cet6.2025.06.v1.q55",
+      "questionId": "cet6.2025-06.v1.q55",
       "optionId": "o2",
       "basis": "third_party_single",
       "derivedFrom": [
-        "akr-2025.06-v1-055"
+        "akr-2025-06-v1-055"
       ],
       "conflicts": [],
       "review": {
@@ -2602,182 +2602,182 @@
   ],
   "answerKeyRecords": [
     {
-      "recordId": "akr-2025.06-v1-001",
+      "recordId": "akr-2025-06-v1-001",
       "variantId": "v1",
       "paperNo": 1,
       "letter": "C",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-002",
+      "recordId": "akr-2025-06-v1-002",
       "variantId": "v1",
       "paperNo": 2,
       "letter": "B",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-003",
+      "recordId": "akr-2025-06-v1-003",
       "variantId": "v1",
       "paperNo": 3,
       "letter": "D",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-004",
+      "recordId": "akr-2025-06-v1-004",
       "variantId": "v1",
       "paperNo": 4,
       "letter": "A",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-005",
+      "recordId": "akr-2025-06-v1-005",
       "variantId": "v1",
       "paperNo": 5,
       "letter": "A",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-006",
+      "recordId": "akr-2025-06-v1-006",
       "variantId": "v1",
       "paperNo": 6,
       "letter": "D",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-007",
+      "recordId": "akr-2025-06-v1-007",
       "variantId": "v1",
       "paperNo": 7,
       "letter": "C",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-008",
+      "recordId": "akr-2025-06-v1-008",
       "variantId": "v1",
       "paperNo": 8,
       "letter": "D",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-009",
+      "recordId": "akr-2025-06-v1-009",
       "variantId": "v1",
       "paperNo": 9,
       "letter": "C",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-010",
+      "recordId": "akr-2025-06-v1-010",
       "variantId": "v1",
       "paperNo": 10,
       "letter": "B",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-011",
+      "recordId": "akr-2025-06-v1-011",
       "variantId": "v1",
       "paperNo": 11,
       "letter": "A",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-012",
+      "recordId": "akr-2025-06-v1-012",
       "variantId": "v1",
       "paperNo": 12,
       "letter": "C",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-013",
+      "recordId": "akr-2025-06-v1-013",
       "variantId": "v1",
       "paperNo": 13,
       "letter": "C",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-014",
+      "recordId": "akr-2025-06-v1-014",
       "variantId": "v1",
       "paperNo": 14,
       "letter": "B",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-015",
+      "recordId": "akr-2025-06-v1-015",
       "variantId": "v1",
       "paperNo": 15,
       "letter": "B",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-016",
+      "recordId": "akr-2025-06-v1-016",
       "variantId": "v1",
       "paperNo": 16,
       "letter": "D",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-017",
+      "recordId": "akr-2025-06-v1-017",
       "variantId": "v1",
       "paperNo": 17,
       "letter": "A",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-018",
+      "recordId": "akr-2025-06-v1-018",
       "variantId": "v1",
       "paperNo": 18,
       "letter": "B",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-019",
+      "recordId": "akr-2025-06-v1-019",
       "variantId": "v1",
       "paperNo": 19,
       "letter": "A",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-020",
+      "recordId": "akr-2025-06-v1-020",
       "variantId": "v1",
       "paperNo": 20,
       "letter": "D",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-021",
+      "recordId": "akr-2025-06-v1-021",
       "variantId": "v1",
       "paperNo": 21,
       "letter": "C",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-022",
+      "recordId": "akr-2025-06-v1-022",
       "variantId": "v1",
       "paperNo": 22,
       "letter": "D",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-023",
+      "recordId": "akr-2025-06-v1-023",
       "variantId": "v1",
       "paperNo": 23,
       "letter": "A",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-024",
+      "recordId": "akr-2025-06-v1-024",
       "variantId": "v1",
       "paperNo": 24,
       "letter": "D",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-025",
+      "recordId": "akr-2025-06-v1-025",
       "variantId": "v1",
       "paperNo": 25,
       "letter": "B",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-26",
+      "recordId": "akr-2025-06-v1-26",
       "variantId": "v1",
       "paperNo": 26,
       "mode": "word",
@@ -2785,7 +2785,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-27",
+      "recordId": "akr-2025-06-v1-27",
       "variantId": "v1",
       "paperNo": 27,
       "mode": "word",
@@ -2793,7 +2793,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-28",
+      "recordId": "akr-2025-06-v1-28",
       "variantId": "v1",
       "paperNo": 28,
       "mode": "word",
@@ -2801,7 +2801,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-29",
+      "recordId": "akr-2025-06-v1-29",
       "variantId": "v1",
       "paperNo": 29,
       "mode": "word",
@@ -2809,7 +2809,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-30",
+      "recordId": "akr-2025-06-v1-30",
       "variantId": "v1",
       "paperNo": 30,
       "mode": "word",
@@ -2817,7 +2817,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-31",
+      "recordId": "akr-2025-06-v1-31",
       "variantId": "v1",
       "paperNo": 31,
       "mode": "word",
@@ -2825,7 +2825,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-32",
+      "recordId": "akr-2025-06-v1-32",
       "variantId": "v1",
       "paperNo": 32,
       "mode": "word",
@@ -2833,7 +2833,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-33",
+      "recordId": "akr-2025-06-v1-33",
       "variantId": "v1",
       "paperNo": 33,
       "mode": "word",
@@ -2841,7 +2841,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-34",
+      "recordId": "akr-2025-06-v1-34",
       "variantId": "v1",
       "paperNo": 34,
       "mode": "word",
@@ -2849,7 +2849,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-35",
+      "recordId": "akr-2025-06-v1-35",
       "variantId": "v1",
       "paperNo": 35,
       "mode": "word",
@@ -2857,7 +2857,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-36",
+      "recordId": "akr-2025-06-v1-36",
       "variantId": "v1",
       "paperNo": 36,
       "mode": "paragraph",
@@ -2865,7 +2865,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-37",
+      "recordId": "akr-2025-06-v1-37",
       "variantId": "v1",
       "paperNo": 37,
       "mode": "paragraph",
@@ -2873,7 +2873,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-38",
+      "recordId": "akr-2025-06-v1-38",
       "variantId": "v1",
       "paperNo": 38,
       "mode": "paragraph",
@@ -2881,7 +2881,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-39",
+      "recordId": "akr-2025-06-v1-39",
       "variantId": "v1",
       "paperNo": 39,
       "mode": "paragraph",
@@ -2889,7 +2889,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-40",
+      "recordId": "akr-2025-06-v1-40",
       "variantId": "v1",
       "paperNo": 40,
       "mode": "paragraph",
@@ -2897,7 +2897,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-41",
+      "recordId": "akr-2025-06-v1-41",
       "variantId": "v1",
       "paperNo": 41,
       "mode": "paragraph",
@@ -2905,7 +2905,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-42",
+      "recordId": "akr-2025-06-v1-42",
       "variantId": "v1",
       "paperNo": 42,
       "mode": "paragraph",
@@ -2913,7 +2913,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-43",
+      "recordId": "akr-2025-06-v1-43",
       "variantId": "v1",
       "paperNo": 43,
       "mode": "paragraph",
@@ -2921,7 +2921,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-44",
+      "recordId": "akr-2025-06-v1-44",
       "variantId": "v1",
       "paperNo": 44,
       "mode": "paragraph",
@@ -2929,7 +2929,7 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-45",
+      "recordId": "akr-2025-06-v1-45",
       "variantId": "v1",
       "paperNo": 45,
       "mode": "paragraph",
@@ -2937,70 +2937,70 @@
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-046",
+      "recordId": "akr-2025-06-v1-046",
       "variantId": "v1",
       "paperNo": 46,
       "letter": "C",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-047",
+      "recordId": "akr-2025-06-v1-047",
       "variantId": "v1",
       "paperNo": 47,
       "letter": "A",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-048",
+      "recordId": "akr-2025-06-v1-048",
       "variantId": "v1",
       "paperNo": 48,
       "letter": "B",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-049",
+      "recordId": "akr-2025-06-v1-049",
       "variantId": "v1",
       "paperNo": 49,
       "letter": "B",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-050",
+      "recordId": "akr-2025-06-v1-050",
       "variantId": "v1",
       "paperNo": 50,
       "letter": "C",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-051",
+      "recordId": "akr-2025-06-v1-051",
       "variantId": "v1",
       "paperNo": 51,
       "letter": "D",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-052",
+      "recordId": "akr-2025-06-v1-052",
       "variantId": "v1",
       "paperNo": 52,
       "letter": "A",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-053",
+      "recordId": "akr-2025-06-v1-053",
       "variantId": "v1",
       "paperNo": 53,
       "letter": "D",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-054",
+      "recordId": "akr-2025-06-v1-054",
       "variantId": "v1",
       "paperNo": 54,
       "letter": "C",
       "sourceId": "mineru-2025-06-v1"
     },
     {
-      "recordId": "akr-2025.06-v1-055",
+      "recordId": "akr-2025-06-v1-055",
       "variantId": "v1",
       "paperNo": 55,
       "letter": "B",
@@ -3014,70 +3014,70 @@
         "zh": "第 1 套"
       },
       "questionSet": [
-        "cet6.2025.06.v1.q1",
-        "cet6.2025.06.v1.q2",
-        "cet6.2025.06.v1.q3",
-        "cet6.2025.06.v1.q4",
-        "cet6.2025.06.v1.q5",
-        "cet6.2025.06.v1.q6",
-        "cet6.2025.06.v1.q7",
-        "cet6.2025.06.v1.q8",
-        "cet6.2025.06.v1.q9",
-        "cet6.2025.06.v1.q10",
-        "cet6.2025.06.v1.q11",
-        "cet6.2025.06.v1.q12",
-        "cet6.2025.06.v1.q13",
-        "cet6.2025.06.v1.q14",
-        "cet6.2025.06.v1.q15",
-        "cet6.2025.06.v1.q16",
-        "cet6.2025.06.v1.q17",
-        "cet6.2025.06.v1.q18",
-        "cet6.2025.06.v1.q19",
-        "cet6.2025.06.v1.q20",
-        "cet6.2025.06.v1.q21",
-        "cet6.2025.06.v1.q22",
-        "cet6.2025.06.v1.q23",
-        "cet6.2025.06.v1.q24",
-        "cet6.2025.06.v1.q25",
-        "cet6.2025.06.v1.q26",
-        "cet6.2025.06.v1.q27",
-        "cet6.2025.06.v1.q28",
-        "cet6.2025.06.v1.q29",
-        "cet6.2025.06.v1.q30",
-        "cet6.2025.06.v1.q31",
-        "cet6.2025.06.v1.q32",
-        "cet6.2025.06.v1.q33",
-        "cet6.2025.06.v1.q34",
-        "cet6.2025.06.v1.q35",
-        "cet6.2025.06.v1.q36",
-        "cet6.2025.06.v1.q37",
-        "cet6.2025.06.v1.q38",
-        "cet6.2025.06.v1.q39",
-        "cet6.2025.06.v1.q40",
-        "cet6.2025.06.v1.q41",
-        "cet6.2025.06.v1.q42",
-        "cet6.2025.06.v1.q43",
-        "cet6.2025.06.v1.q44",
-        "cet6.2025.06.v1.q45",
-        "cet6.2025.06.v1.q46",
-        "cet6.2025.06.v1.q47",
-        "cet6.2025.06.v1.q48",
-        "cet6.2025.06.v1.q49",
-        "cet6.2025.06.v1.q50",
-        "cet6.2025.06.v1.q51",
-        "cet6.2025.06.v1.q52",
-        "cet6.2025.06.v1.q53",
-        "cet6.2025.06.v1.q54",
-        "cet6.2025.06.v1.q55",
-        "cet6.2025.06.v1.q56"
+        "cet6.2025-06.v1.q1",
+        "cet6.2025-06.v1.q2",
+        "cet6.2025-06.v1.q3",
+        "cet6.2025-06.v1.q4",
+        "cet6.2025-06.v1.q5",
+        "cet6.2025-06.v1.q6",
+        "cet6.2025-06.v1.q7",
+        "cet6.2025-06.v1.q8",
+        "cet6.2025-06.v1.q9",
+        "cet6.2025-06.v1.q10",
+        "cet6.2025-06.v1.q11",
+        "cet6.2025-06.v1.q12",
+        "cet6.2025-06.v1.q13",
+        "cet6.2025-06.v1.q14",
+        "cet6.2025-06.v1.q15",
+        "cet6.2025-06.v1.q16",
+        "cet6.2025-06.v1.q17",
+        "cet6.2025-06.v1.q18",
+        "cet6.2025-06.v1.q19",
+        "cet6.2025-06.v1.q20",
+        "cet6.2025-06.v1.q21",
+        "cet6.2025-06.v1.q22",
+        "cet6.2025-06.v1.q23",
+        "cet6.2025-06.v1.q24",
+        "cet6.2025-06.v1.q25",
+        "cet6.2025-06.v1.q26",
+        "cet6.2025-06.v1.q27",
+        "cet6.2025-06.v1.q28",
+        "cet6.2025-06.v1.q29",
+        "cet6.2025-06.v1.q30",
+        "cet6.2025-06.v1.q31",
+        "cet6.2025-06.v1.q32",
+        "cet6.2025-06.v1.q33",
+        "cet6.2025-06.v1.q34",
+        "cet6.2025-06.v1.q35",
+        "cet6.2025-06.v1.q36",
+        "cet6.2025-06.v1.q37",
+        "cet6.2025-06.v1.q38",
+        "cet6.2025-06.v1.q39",
+        "cet6.2025-06.v1.q40",
+        "cet6.2025-06.v1.q41",
+        "cet6.2025-06.v1.q42",
+        "cet6.2025-06.v1.q43",
+        "cet6.2025-06.v1.q44",
+        "cet6.2025-06.v1.q45",
+        "cet6.2025-06.v1.q46",
+        "cet6.2025-06.v1.q47",
+        "cet6.2025-06.v1.q48",
+        "cet6.2025-06.v1.q49",
+        "cet6.2025-06.v1.q50",
+        "cet6.2025-06.v1.q51",
+        "cet6.2025-06.v1.q52",
+        "cet6.2025-06.v1.q53",
+        "cet6.2025-06.v1.q54",
+        "cet6.2025-06.v1.q55",
+        "cet6.2025-06.v1.q56"
       ],
-      "writingTaskId": "wt-2025.06-v1",
-      "translationQuestionId": "cet6.2025.06.v1.q56"
+      "writingTaskId": "wt-2025-06-v1",
+      "translationQuestionId": "cet6.2025-06.v1.q56"
     }
   ],
   "writingTasks": [
     {
-      "writingTaskId": "wt-2025.06-v1",
+      "writingTaskId": "wt-2025-06-v1",
       "paperNo": null,
       "prompt": "",
       "requirements": [
