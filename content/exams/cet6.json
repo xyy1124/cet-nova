@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "1.0.0",
+  "examId": "cet6",
+  "displayName": { "zh": "大学英语六级", "en": "CET-6" },
+  "totalDurationMin": 130,
+  "scoringPolicy": {
+    "mode": "percent_only",
+    "allowEstimate": true,
+    "disclaimer": "官方成绩采用常模参照与等值转换，本软件不提供官方分数，折合分值仅供参考。"
+  },
+  "sections": [
+    { "id": "writing", "order": 1, "durationMin": 30, "weight": 0.15, "maxScore": 106.5 },
+    { "id": "listening", "order": 2, "durationMin": 30, "weight": 0.35, "maxScore": 248.5 },
+    { "id": "reading", "order": 3, "durationMin": 40, "weight": 0.35, "maxScore": 248.5 },
+    { "id": "translation", "order": 4, "durationMin": 30, "weight": 0.15, "maxScore": 106.5 }
+  ],
+  "parts": [
+    { "id": "listening.p1", "section": "listening", "title": "长对话", "questionType": "single_choice", "count": 8, "paperNos": [1, 8] },
+    { "id": "listening.p2", "section": "listening", "title": "听力篇章", "questionType": "single_choice", "count": 7, "paperNos": [9, 15] },
+    { "id": "listening.p3", "section": "listening", "title": "讲座/讲话", "questionType": "single_choice", "count": 10, "paperNos": [16, 25] },
+    { "id": "reading.p1", "section": "reading", "title": "选词填空", "questionType": "banked_cloze", "count": 10, "paperNos": [26, 35] },
+    { "id": "reading.p2", "section": "reading", "title": "长篇阅读", "questionType": "paragraph_match", "count": 10, "paperNos": [36, 45] },
+    { "id": "reading.p3", "section": "reading", "title": "仔细阅读", "questionType": "single_choice", "count": 10, "paperNos": [46, 55] },
+    { "id": "translation", "section": "translation", "title": "汉译英", "questionType": "free_text", "count": 1, "paperNos": [56, 56] }
+  ],
+  "writingTask": { "paperNo": null, "wordRange": [150, 200] }
+}

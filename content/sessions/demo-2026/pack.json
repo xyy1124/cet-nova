@@ -1,0 +1,579 @@
+{
+  "schemaVersion": "1.0.0",
+  "packId": "cet6-demo-2026",
+  "examId": "cet6",
+  "sessionId": "demo-2026",
+  "kind": "demo",
+  "title": { "zh": "演示卷 · 题量删减", "en": "Demo paper" },
+  "builtAt": "2026-11-12T00:00:00Z",
+  "builder": { "tool": "hand-authored", "version": "0.1.0" },
+
+  "sources": [
+    {
+      "sourceId": "src-demo-synthetic",
+      "kind": "synthetic",
+      "host": "cetnova.local",
+      "path": "content/sessions/demo-2026/pack.json",
+      "retrievedAt": "2026-11-12T00:00:00Z",
+      "note": "本项目原创的演示内容，不是真题，不可用于成绩参考"
+    }
+  ],
+
+  "assets": [
+    {
+      "assetId": "aud-demo-L3",
+      "type": "audio",
+      "mimeType": "audio/wav",
+      "durationMs": 58387,
+      "distribution": {
+        "state": "bundled",
+        "url": "assets/demo/lecture.wav",
+        "note": "Windows TTS 合成，非真题录音"
+      },
+      "integrity": { "bytes": 2574932 },
+      "rights": { "status": "public_domain", "note": "本项目脚本合成" }
+    }
+  ],
+
+  "materials": [
+    {
+      "materialId": "mat-demo-L3",
+      "section": "listening",
+      "part": "listening.p3",
+      "sharedAcrossVariants": true,
+      "audio": { "assetId": "aud-demo-L3", "durationMs": 58387 },
+      "transcript": {
+        "language": "en",
+        "quality": "verified",
+        "sentences": [
+          { "id": "s001", "speaker": "N", "text": "Good morning, everyone. Today I want to talk about something we all do but rarely think about: sleep.", "startMs": 0, "endMs": 9528, "align": "manual" },
+          { "id": "s002", "speaker": "N", "text": "For a long time, sleep was regarded as a passive state, a kind of shutdown after a busy day.", "startMs": 9528, "endMs": 17792, "align": "manual" },
+          { "id": "s003", "speaker": "N", "text": "Recent research, however, suggests that the brain remains remarkably active during sleep.", "startMs": 17792, "endMs": 25820, "align": "manual" },
+          { "id": "s004", "speaker": "N", "text": "In one experiment, students learned a list of word pairs in the afternoon.", "startMs": 25820, "endMs": 31954, "align": "manual" },
+          { "id": "s005", "speaker": "N", "text": "Half of them slept for ninety minutes, while the other half stayed awake.", "startMs": 31954, "endMs": 37972, "align": "manual" },
+          { "id": "s006", "speaker": "N", "text": "The group that slept recalled about twenty percent more pairs the next morning.", "startMs": 37972, "endMs": 43761, "align": "manual" },
+          { "id": "s007", "speaker": "N", "text": "What seems to matter is not simply the total amount of sleep, but the deep stages of it.", "startMs": 43761, "endMs": 50729, "align": "manual" },
+          { "id": "s008", "speaker": "N", "text": "So if you are preparing for an exam, a short nap may be more useful than another hour of cramming.", "startMs": 50729, "endMs": 58387, "align": "manual" }
+        ]
+      }
+    },
+
+    {
+      "materialId": "mat-demo-R1",
+      "section": "reading",
+      "part": "reading.p1",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "Remote work",
+        "wordCount": 66,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "Remote work was once a rare privilege. Today, millions of employees {{1}} at least part of their week from home. Companies report that the arrangement reduces commuting costs and gives workers more control over their schedules. Critics, {{2}}, warn that isolation can weaken teamwork and slow down informal communication. Whether the benefits outweigh these costs remains a {{3}} question."
+          }
+        ]
+      },
+      "wordBank": ["work", "however", "disputed", "travel", "therefore", "settled"]
+    },
+
+    {
+      "materialId": "mat-demo-R2",
+      "section": "reading",
+      "part": "reading.p2",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "The return of the paper notebook",
+        "wordCount": 148,
+        "paragraphs": [
+          { "id": "A", "text": "For a decade, schools have been moving lessons onto screens. Tablets replaced textbooks, and homework moved into the cloud. The change was celebrated as efficiency." },
+          { "id": "B", "text": "Yet a growing number of teachers are asking students to bring a plain notebook to class. They argue that handwriting forces learners to slow down and decide what matters." },
+          { "id": "C", "text": "Researchers who study note-taking point to a similar effect. Students who type tend to record lectures word for word, while those who write by hand summarise and connect ideas." },
+          { "id": "D", "text": "None of this means screens are harmful in themselves. The real issue, teachers say, is whether a tool encourages attention or simply makes copying easier." }
+        ]
+      }
+    },
+
+    {
+      "materialId": "mat-demo-R3",
+      "section": "reading",
+      "part": "reading.p3",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "The quiet cost of convenience",
+        "wordCount": 155,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "Food delivery apps have changed the way cities eat. A meal that once required leaving the office can now arrive in twenty minutes. The convenience is real, but it is not free. Couriers are paid per delivery, which means their income depends on speed rather than care. Restaurants, meanwhile, surrender up to thirty percent of each order to the platform. And the packaging that keeps food warm ends up, almost always, in landfill. None of these costs appears on the receipt. Economists call this an externality: a cost borne by someone other than the buyer and the seller. The difficulty is that externalities are invisible by design. A customer comparing two restaurants sees only price and rating, not the wages behind them. Some cities have begun to require platforms to disclose courier pay and packaging waste. Whether disclosure changes behaviour is still unclear, but it at least makes the hidden visible."
+          }
+        ]
+      }
+    },
+
+    {
+      "materialId": "mat-demo-T1",
+      "section": "translation",
+      "part": "translation",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "汉译英",
+        "wordCount": 78,
+        "paragraphs": [
+          { "id": "P1", "text": "中国的移动支付普及率位居世界前列。无论是在城市还是乡村，人们都可以用手机完成购物、交通和缴费。这种便利不仅改变了消费习惯，也推动了数字经济的发展。" }
+        ]
+      },
+      "referenceTranslation": {
+        "text": "China ranks among the world's leaders in the adoption of mobile payment. Whether in cities or in the countryside, people can use their phones to shop, pay for transport and settle utility bills. This convenience has not only changed spending habits but also driven the growth of the digital economy.",
+        "sourceId": "src-demo-synthetic"
+      }
+    }
+  ],
+
+  "questions": [
+    {
+      "questionId": "cet6.demo-2026.q16",
+      "materialId": "mat-demo-L3",
+      "part": "listening.p3",
+      "paperNo": 16,
+      "type": "single_choice",
+      "stem": "What did the experiment find about the students who slept?",
+      "options": [
+        { "optionId": "o1", "text": "They finished the test more quickly." },
+        { "optionId": "o2", "text": "They recalled more word pairs." },
+        { "optionId": "o3", "text": "They reported better moods." },
+        { "optionId": "o4", "text": "They learned the list more easily." }
+      ],
+      "evidence": [
+        {
+          "kind": "audio_span",
+          "fromSentenceId": "s006",
+          "toSentenceId": "s006",
+          "startMs": 37972,
+          "endMs": 43761,
+          "quote": "The group that slept recalled about twenty percent more pairs the next morning.",
+          "note": "被试在睡觉前已经学过词表，所以 o4『学得更轻松』是时态错位干扰"
+        }
+      ],
+      "skills": ["listening_detail"],
+      "traps": ["time_shift", "over_generalization"],
+      "difficulty": 2,
+      "tagReview": { "status": "verified", "reviewedBy": ["hand-authored"] }
+    },
+    {
+      "questionId": "cet6.demo-2026.q17",
+      "materialId": "mat-demo-L3",
+      "part": "listening.p3",
+      "paperNo": 17,
+      "type": "single_choice",
+      "stem": "What does the speaker suggest about exam preparation?",
+      "options": [
+        { "optionId": "o1", "text": "A short nap may work better than extra cramming." },
+        { "optionId": "o2", "text": "Students should sleep at least ten hours." },
+        { "optionId": "o3", "text": "Reviewing before bed is harmful." },
+        { "optionId": "o4", "text": "Memory depends entirely on total sleep time." }
+      ],
+      "evidence": [
+        {
+          "kind": "audio_span",
+          "fromSentenceId": "s008",
+          "toSentenceId": "s008",
+          "startMs": 50729,
+          "endMs": 58387,
+          "quote": "So if you are preparing for an exam, a short nap may be more useful than another hour of cramming.",
+          "note": "o4 把 s007 的『不只是总时长』夸大成『完全取决于总时长』"
+        }
+      ],
+      "skills": ["listening_gist"],
+      "traps": ["over_generalization", "out_of_scope", "polarity_reversal"],
+      "difficulty": 3,
+      "tagReview": { "status": "verified", "reviewedBy": ["hand-authored"] }
+    },
+
+    {
+      "questionId": "cet6.demo-2026.q26",
+      "materialId": "mat-demo-R1",
+      "part": "reading.p1",
+      "paperNo": 26,
+      "type": "banked_cloze",
+      "blankIndex": 1,
+      "stem": "Today, millions of employees ___ at least part of their week from home.",
+      "options": [],
+      "evidence": [
+        {
+          "kind": "blank_clue",
+          "blankIndex": 1,
+          "grammarClue": { "pos": "verb", "tense": "present simple", "collocation": "work from home", "note": "主语复数，需动词原形" }
+        }
+      ],
+      "skills": ["vocabulary_in_context"],
+      "traps": ["partial_match"],
+      "difficulty": 2,
+      "tagReview": { "status": "verified", "reviewedBy": ["hand-authored"] }
+    },
+    {
+      "questionId": "cet6.demo-2026.q27",
+      "materialId": "mat-demo-R1",
+      "part": "reading.p1",
+      "paperNo": 27,
+      "type": "banked_cloze",
+      "blankIndex": 2,
+      "stem": "Critics, ___, warn that isolation can weaken teamwork.",
+      "options": [],
+      "evidence": [
+        {
+          "kind": "blank_clue",
+          "blankIndex": 2,
+          "grammarClue": { "pos": "adverb", "note": "前后用逗号隔开，表转折" }
+        }
+      ],
+      "skills": ["structure"],
+      "traps": ["wrong_attribution"],
+      "difficulty": 2,
+      "tagReview": { "status": "verified", "reviewedBy": ["hand-authored"] }
+    },
+    {
+      "questionId": "cet6.demo-2026.q28",
+      "materialId": "mat-demo-R1",
+      "part": "reading.p1",
+      "paperNo": 28,
+      "type": "banked_cloze",
+      "blankIndex": 3,
+      "stem": "Whether the benefits outweigh these costs remains a ___ question.",
+      "options": [],
+      "evidence": [
+        {
+          "kind": "blank_clue",
+          "blankIndex": 3,
+          "grammarClue": { "pos": "adjective", "collocation": "a disputed question", "note": "修饰 question，语义为『有争议的』" }
+        }
+      ],
+      "skills": ["vocabulary_in_context"],
+      "traps": ["partial_match"],
+      "difficulty": 3,
+      "tagReview": { "status": "verified", "reviewedBy": ["hand-authored"] }
+    },
+
+    {
+      "questionId": "cet6.demo-2026.q36",
+      "materialId": "mat-demo-R2",
+      "part": "reading.p2",
+      "paperNo": 36,
+      "type": "paragraph_match",
+      "paragraphLetters": ["A", "B", "C", "D"],
+      "stem": "Writing by hand may help learners decide which information is important.",
+      "options": [],
+      "evidence": [
+        {
+          "kind": "paragraph_ref",
+          "paragraphId": "B",
+          "quote": "They argue that handwriting forces learners to slow down and decide what matters.",
+          "synonymPair": { "source": "decide what matters", "statement": "decide which information is important", "note": "matter ↔ be important" }
+        }
+      ],
+      "skills": ["fact_detail"],
+      "traps": ["literal_echo"],
+      "difficulty": 2,
+      "tagReview": { "status": "verified", "reviewedBy": ["hand-authored"] }
+    },
+    {
+      "questionId": "cet6.demo-2026.q37",
+      "materialId": "mat-demo-R2",
+      "part": "reading.p2",
+      "paperNo": 37,
+      "type": "paragraph_match",
+      "paragraphLetters": ["A", "B", "C", "D"],
+      "stem": "Typed notes are often close to a word-for-word record of a lecture.",
+      "options": [],
+      "evidence": [
+        {
+          "kind": "paragraph_ref",
+          "paragraphId": "C",
+          "quote": "Students who type tend to record lectures word for word, while those who write by hand summarise and connect ideas.",
+          "synonymPair": { "source": "record lectures word for word", "statement": "a word-for-word record of a lecture", "note": "词性转换" }
+        }
+      ],
+      "skills": ["fact_detail"],
+      "traps": ["literal_echo"],
+      "difficulty": 1,
+      "tagReview": { "status": "verified", "reviewedBy": ["hand-authored"] }
+    },
+    {
+      "questionId": "cet6.demo-2026.q38",
+      "materialId": "mat-demo-R2",
+      "part": "reading.p2",
+      "paperNo": 38,
+      "type": "paragraph_match",
+      "paragraphLetters": ["A", "B", "C", "D"],
+      "stem": "The problem is not the device itself but the way it is used.",
+      "options": [],
+      "evidence": [
+        {
+          "kind": "paragraph_ref",
+          "paragraphId": "D",
+          "quote": "None of this means screens are harmful in themselves. The real issue, teachers say, is whether a tool encourages attention or simply makes copying easier.",
+          "synonymPair": { "source": "not harmful in themselves / whether a tool encourages attention", "statement": "not the device itself but the way it is used", "note": "两句合并概括" }
+        }
+      ],
+      "skills": ["main_idea"],
+      "traps": ["over_generalization"],
+      "difficulty": 3,
+      "tagReview": { "status": "verified", "reviewedBy": ["hand-authored"] }
+    },
+
+    {
+      "questionId": "cet6.demo-2026.q46",
+      "materialId": "mat-demo-R3",
+      "part": "reading.p3",
+      "paperNo": 46,
+      "type": "single_choice",
+      "stem": "What does the author suggest about the price shown on a delivery app?",
+      "options": [
+        { "optionId": "o1", "text": "It includes the platform's service fee." },
+        { "optionId": "o2", "text": "It reflects the true cost of the meal." },
+        { "optionId": "o3", "text": "It leaves out costs paid by other people." },
+        { "optionId": "o4", "text": "It is set by restaurants rather than platforms." }
+      ],
+      "evidence": [
+        {
+          "kind": "text_span",
+          "paragraphId": "P1",
+          "quote": "None of these costs appears on the receipt.",
+          "note": "前文列举了配送员收入、餐厅抽成、包装垃圾三项外部成本"
+        }
+      ],
+      "skills": ["inference"],
+      "traps": ["literal_echo", "polarity_reversal"],
+      "difficulty": 4,
+      "tagReview": { "status": "verified", "reviewedBy": ["hand-authored"] }
+    },
+    {
+      "questionId": "cet6.demo-2026.q47",
+      "materialId": "mat-demo-R3",
+      "part": "reading.p3",
+      "paperNo": 47,
+      "type": "single_choice",
+      "stem": "What is the author's attitude toward disclosure requirements?",
+      "options": [
+        { "optionId": "o1", "text": "They are unlikely to be enforced." },
+        { "optionId": "o2", "text": "They are a reasonable first step." },
+        { "optionId": "o3", "text": "They place too much burden on couriers." },
+        { "optionId": "o4", "text": "They have already changed customer behaviour." }
+      ],
+      "evidence": [
+        {
+          "kind": "text_span",
+          "paragraphId": "P1",
+          "quote": "Whether disclosure changes behaviour is still unclear, but it at least makes the hidden visible.",
+          "note": "still unclear 表示保留，but it at least 表示有限肯定 → 谨慎支持"
+        }
+      ],
+      "skills": ["attitude_tone", "inference"],
+      "traps": ["over_generalization", "time_shift"],
+      "difficulty": 4,
+      "tagReview": { "status": "verified", "reviewedBy": ["hand-authored"] }
+    },
+
+    {
+      "questionId": "cet6.demo-2026.q56",
+      "materialId": "mat-demo-T1",
+      "part": "translation",
+      "paperNo": 56,
+      "type": "free_text",
+      "stem": "将下面的中文段落译成英文。",
+      "options": [],
+      "evidence": [
+        { "kind": "reference_translation", "segmentIndex": 1, "infoPoint": "移动支付普及率位居世界前列" },
+        { "kind": "reference_translation", "segmentIndex": 2, "infoPoint": "城市与乡村都可用手机购物、出行、缴费" },
+        { "kind": "reference_translation", "segmentIndex": 3, "infoPoint": "改变消费习惯 + 推动数字经济" }
+      ],
+      "skills": ["structure"],
+      "difficulty": 3,
+      "tagReview": { "status": "verified", "reviewedBy": ["hand-authored"] }
+    }
+  ],
+
+  "answers": [
+    {
+      "questionId": "cet6.demo-2026.q16",
+      "optionId": "o2",
+      "basis": "synthetic_authored",
+      "derivedFrom": ["akr-v1-016", "akr-v2-016", "akr-v3-016"],
+      "conflicts": [],
+      "review": { "status": "verified", "by": ["hand-authored"], "at": "2026-11-12" }
+    },
+    {
+      "questionId": "cet6.demo-2026.q17",
+      "optionId": "o1",
+      "basis": "synthetic_authored",
+      "derivedFrom": ["akr-v1-017", "akr-v2-017", "akr-v3-017"],
+      "conflicts": [],
+      "review": { "status": "verified", "by": ["hand-authored"], "at": "2026-11-12" }
+    },
+    {
+      "questionId": "cet6.demo-2026.q26",
+      "optionId": "word:work",
+      "basis": "synthetic_authored",
+      "derivedFrom": ["akr-v1-026"],
+      "conflicts": [],
+      "review": { "status": "verified", "by": ["hand-authored"], "at": "2026-11-12" }
+    },
+    {
+      "questionId": "cet6.demo-2026.q27",
+      "optionId": "word:however",
+      "basis": "synthetic_authored",
+      "derivedFrom": ["akr-v1-027"],
+      "conflicts": [],
+      "review": { "status": "verified", "by": ["hand-authored"], "at": "2026-11-12" }
+    },
+    {
+      "questionId": "cet6.demo-2026.q28",
+      "optionId": "word:disputed",
+      "basis": "synthetic_authored",
+      "derivedFrom": ["akr-v1-028"],
+      "conflicts": [],
+      "review": { "status": "verified", "by": ["hand-authored"], "at": "2026-11-12" }
+    },
+    {
+      "questionId": "cet6.demo-2026.q36",
+      "optionId": "para:B",
+      "basis": "synthetic_authored",
+      "derivedFrom": ["akr-v1-036"],
+      "conflicts": [],
+      "review": { "status": "verified", "by": ["hand-authored"], "at": "2026-11-12" }
+    },
+    {
+      "questionId": "cet6.demo-2026.q37",
+      "optionId": "para:C",
+      "basis": "synthetic_authored",
+      "derivedFrom": ["akr-v1-037"],
+      "conflicts": [],
+      "review": { "status": "verified", "by": ["hand-authored"], "at": "2026-11-12" }
+    },
+    {
+      "questionId": "cet6.demo-2026.q38",
+      "optionId": "para:D",
+      "basis": "synthetic_authored",
+      "derivedFrom": ["akr-v1-038"],
+      "conflicts": [],
+      "review": { "status": "verified", "by": ["hand-authored"], "at": "2026-11-12" }
+    },
+    {
+      "questionId": "cet6.demo-2026.q46",
+      "optionId": "o3",
+      "basis": "synthetic_authored",
+      "derivedFrom": ["akr-v1-046", "akr-v2-046", "akr-v3-046"],
+      "conflicts": [],
+      "review": { "status": "verified", "by": ["hand-authored"], "at": "2026-11-12" }
+    },
+    {
+      "questionId": "cet6.demo-2026.q47",
+      "optionId": "o4",
+      "basis": "synthetic_authored",
+      "derivedFrom": ["akr-v1-047", "akr-v2-047", "akr-v3-047"],
+      "conflicts": [],
+      "review": { "status": "verified", "by": ["hand-authored"], "at": "2026-11-12" }
+    }
+  ],
+
+  "answerKeyRecords": [
+    { "recordId": "akr-v1-016", "variantId": "v1", "paperNo": 16, "letter": "A", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v2-016", "variantId": "v2", "paperNo": 16, "letter": "C", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v3-016", "variantId": "v3", "paperNo": 16, "letter": "B", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v1-017", "variantId": "v1", "paperNo": 17, "letter": "A", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v2-017", "variantId": "v2", "paperNo": 17, "letter": "C", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v3-017", "variantId": "v3", "paperNo": 17, "letter": "B", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v1-026", "variantId": "v1", "paperNo": 26, "mode": "word", "value": "work", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v1-027", "variantId": "v1", "paperNo": 27, "mode": "word", "value": "however", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v1-028", "variantId": "v1", "paperNo": 28, "mode": "word", "value": "disputed", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v1-036", "variantId": "v1", "paperNo": 36, "mode": "paragraph", "value": "B", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v1-037", "variantId": "v1", "paperNo": 37, "mode": "paragraph", "value": "C", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v1-038", "variantId": "v1", "paperNo": 38, "mode": "paragraph", "value": "D", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v1-046", "variantId": "v1", "paperNo": 46, "letter": "C", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v2-046", "variantId": "v2", "paperNo": 46, "letter": "A", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v3-046", "variantId": "v3", "paperNo": 46, "letter": "B", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v1-047", "variantId": "v1", "paperNo": 47, "letter": "D", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v2-047", "variantId": "v2", "paperNo": 47, "letter": "B", "sourceId": "src-demo-synthetic" },
+    { "recordId": "akr-v3-047", "variantId": "v3", "paperNo": 47, "letter": "D", "sourceId": "src-demo-synthetic" }
+  ],
+
+  "variants": [
+    {
+      "variantId": "v1",
+      "label": { "zh": "第 1 套" },
+      "questionSet": [
+        "cet6.demo-2026.q16", "cet6.demo-2026.q17",
+        "cet6.demo-2026.q26", "cet6.demo-2026.q27", "cet6.demo-2026.q28",
+        "cet6.demo-2026.q36", "cet6.demo-2026.q37", "cet6.demo-2026.q38",
+        "cet6.demo-2026.q46", "cet6.demo-2026.q47",
+        "cet6.demo-2026.q56"
+      ],
+      "optionOrders": {
+        "cet6.demo-2026.q16": ["o2", "o1", "o4", "o3"],
+        "cet6.demo-2026.q17": ["o1", "o2", "o3", "o4"],
+        "cet6.demo-2026.q46": ["o1", "o2", "o3", "o4"],
+        "cet6.demo-2026.q47": ["o1", "o2", "o3", "o4"]
+      },
+      "writingTaskId": "wt-demo-v1",
+      "translationQuestionId": "cet6.demo-2026.q56"
+    },
+    {
+      "variantId": "v2",
+      "label": { "zh": "第 2 套" },
+      "questionSet": [
+        "cet6.demo-2026.q16", "cet6.demo-2026.q17",
+        "cet6.demo-2026.q26", "cet6.demo-2026.q27", "cet6.demo-2026.q28",
+        "cet6.demo-2026.q36", "cet6.demo-2026.q37", "cet6.demo-2026.q38",
+        "cet6.demo-2026.q46", "cet6.demo-2026.q47",
+        "cet6.demo-2026.q56"
+      ],
+      "optionOrders": {
+        "cet6.demo-2026.q16": ["o4", "o3", "o2", "o1"],
+        "cet6.demo-2026.q17": ["o3", "o4", "o1", "o2"],
+        "cet6.demo-2026.q46": ["o3", "o1", "o4", "o2"],
+        "cet6.demo-2026.q47": ["o2", "o4", "o1", "o3"]
+      },
+      "writingTaskId": "wt-demo-v1",
+      "translationQuestionId": "cet6.demo-2026.q56"
+    },
+    {
+      "variantId": "v3",
+      "label": { "zh": "第 3 套" },
+      "questionSet": [
+        "cet6.demo-2026.q16", "cet6.demo-2026.q17",
+        "cet6.demo-2026.q26", "cet6.demo-2026.q27", "cet6.demo-2026.q28",
+        "cet6.demo-2026.q36", "cet6.demo-2026.q37", "cet6.demo-2026.q38",
+        "cet6.demo-2026.q46", "cet6.demo-2026.q47",
+        "cet6.demo-2026.q56"
+      ],
+      "optionOrders": {
+        "cet6.demo-2026.q16": ["o1", "o2", "o3", "o4"],
+        "cet6.demo-2026.q17": ["o2", "o1", "o4", "o3"],
+        "cet6.demo-2026.q46": ["o4", "o3", "o2", "o1"],
+        "cet6.demo-2026.q47": ["o3", "o1", "o2", "o4"]
+      },
+      "writingTaskId": "wt-demo-v1",
+      "translationQuestionId": "cet6.demo-2026.q56"
+    }
+  ],
+
+  "writingTasks": [
+    {
+      "writingTaskId": "wt-demo-v1",
+      "paperNo": null,
+      "prompt": "Some people believe that university students should be required to take courses outside their major. Others think students should focus entirely on their own field. Write an essay stating your opinion.",
+      "requirements": [
+        "150–200 words",
+        "state your opinion clearly in the first paragraph",
+        "support it with reasons and examples",
+        "use your own words; do not copy the prompt"
+      ],
+      "referenceEssays": [
+        {
+          "sourceId": "src-demo-synthetic",
+          "band": "sample",
+          "text": "Universities have long debated whether students should be pushed beyond their chosen field. In my view, a limited requirement outside the major is worthwhile, provided that it does not crowd out core study.\n\nThe strongest argument is that most real problems cross disciplinary lines. A software engineer who has taken a course in ethics is better prepared to ask who bears the cost of an automated decision. A biology student who has studied statistics is less likely to misread a clinical trial.\n\nOpponents worry that extra courses dilute expertise, and this concern is fair. The solution, however, is careful design rather than abandonment: two or three well-chosen modules, taken early, cost little and widen the frame through which students see their own subject.\n\nA degree should train a specialist, but it should also produce someone who can talk to people outside the specialism. A modest requirement outside the major serves both goals."
+        }
+      ]
+    }
+  ]
+}

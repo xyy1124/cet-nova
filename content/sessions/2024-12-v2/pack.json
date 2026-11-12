@@ -1,0 +1,3092 @@
+{
+  "schemaVersion": "1.0.0",
+  "packId": "cet6-2024-12-v2",
+  "examId": "cet6",
+  "sessionId": "2024-12",
+  "kind": "exam",
+  "title": {
+    "zh": "2024 年 12 月 六级真题（第 2 套）",
+    "en": "CET-6 2024-12 set 2"
+  },
+  "builtAt": "2026-11-12T00:00:00Z",
+  "builder": {
+    "tool": "cetnova-import",
+    "version": "0.1.0"
+  },
+  "sources": [
+    {
+      "sourceId": "src-0609x-paper-v1",
+      "kind": "paper_pdf",
+      "host": "github.com/0609x/CET46-Resources",
+      "path": "六级真题/2024.12/真题PDF/2024.12六级真题第1套.pdf",
+      "retrievedAt": "2026-11-12T00:00:00Z",
+      "note": "卷面文本由 PyMuPDF 抽取，未改动用词"
+    },
+    {
+      "sourceId": "koolearn-v2",
+      "kind": "answer_key",
+      "host": "m.koolearn.com",
+      "path": "/cet6/20241214/893919.html",
+      "retrievedAt": "2026-11-12T00:00:00Z",
+      "note": "2024年12月英语六级真题答案完整版（第二套）（listening,cloze,matching,careful,translation；匹配依据：选词填空开头 Ever been talking about something important with）"
+    }
+  ],
+  "assets": [
+    {
+      "assetId": "aud-2024-12-v2",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "durationMs": 0,
+      "distribution": {
+        "state": "external",
+        "url": "https://raw.githubusercontent.com/0609x/CET46-Resources/main/%E5%85%AD%E7%BA%A7%E7%9C%9F%E9%A2%98/2024.12/%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91/2024%E5%B9%B412%E6%9C%88%E5%85%AD%E7%BA%A7%E5%90%AC%E5%8A%9B%E9%9F%B3%E9%A2%91%E7%AC%AC2%E5%A5%97.mp3",
+        "referrer": "https://github.com/0609x/CET46-Resources",
+        "note": "第 2 套音频；不随包分发，由用户从原始来源获取"
+      },
+      "integrity": {
+        "bytes": 27895942
+      },
+      "rights": {
+        "status": "third_party",
+        "note": "著作权归原权利人"
+      }
+    }
+  ],
+  "materials": [
+    {
+      "materialId": "mat-2024-12-L",
+      "section": "listening",
+      "part": "listening.p1",
+      "sharedAcrossVariants": true,
+      "audio": {
+        "assetId": "aud-2024-12-v1",
+        "durationMs": 0
+      }
+    },
+    {
+      "materialId": "mat-2024-12-R1",
+      "section": "reading",
+      "part": "reading.p1",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "",
+        "wordCount": 287,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "Ever been talking about something important with someone you care about and found the discussion frustrating instead of fruitful? Negative energy can then cast a {{26}} over your efforts to build a shared understanding. In fact collaborative problem-solving conversations require skills. Strong listening skills are essential. Sprinkling in positivity via appreciation, {{27}} smiles, and warm comments helps. So does the essential ability to keep your emotional tone in the calm zone. If the tone of a dialogue heats up and anger erupts, the dialogue {{28}} from collaborative to adversarial, and progress is likely to come to an immediate {{29}}. In addition, effective dialogue generally has another important characteristic: symmetry. Symmetry in dialogue refers to the balance of how much each partner talks. Are you each getting equal airtime? When one participant does most of the talking, this asymmetry or lack of balance tends to become annoying to one or both of you. The silent partner {{30}} tires of only listening, while the talker can feel {{31}}. Usually, both would prefer more equal give and take. Different rates of speech and levels of voice volume can {{32}} symmetry as well. The faster or louder partner can easily begin taking up more airtime. The slower-talking or softer-voiced one can have trouble getting the floor. Conversations also lose balance when one partner's opinions count more than the other's. One person's input may carry more sway because their style of expression is more {{33}}. One viewpoint may tend to get lost because it is expressed more {{34}}. If either partner fairly consistently {{35}} or evaporates, modifying the pattern will be helpful. The dialogue will feel more productive, and at the same time, the relationship overall is likely to feel more positive."
+          }
+        ]
+      },
+      "wordBank": [
+        "affectionate",
+        "approximately",
+        "elapses",
+        "erode",
+        "flattered",
+        "flips",
+        "halt",
+        "overburdened",
+        "predominates",
+        "propagate",
+        "scenario",
+        "shadow",
+        "tentatively",
+        "typically",
+        "vigorous"
+      ]
+    },
+    {
+      "materialId": "mat-2024-12-R2",
+      "section": "reading",
+      "part": "reading.p2",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "What Is a Super Blood Wolf Moon?",
+        "wordCount": 1220,
+        "paragraphs": [
+          {
+            "id": "A",
+            "text": "Blue moons, rose moons, supermoons. For some reason all the websites seem to think you really want to know all about these moons. \"Catch This Weekend's AMAZING SUPERMOON,\" one headline will announce. \"The Supermoon Isn't Actually A Big Deal And You're All Ruining Astronomy,\" another will complain."
+          },
+          {
+            "id": "B",
+            "text": "The latest example is the super blood wolf moon eclipse which sounds like the name of an emotional song I would have performed a modern dance routine to in 9th grade, but is, in fact, an astronomical event set to occur on January 20. As we'll explain below, there is nothing truly mysterious or otherwise special about this moon, and it will not look like a bloody wolf head in the sky or anything wild like that. We get these super lunar events by smashing together all the qualifiers we've historically used to keep track of full moons throughout the year, and in the age of the internet we can get a little too enthusiastic."
+          },
+          {
+            "id": "C",
+            "text": "Consider this your go-to resource for all moon-gazing news. Here's what you need to know about the latest lunar event."
+          },
+          {
+            "id": "D",
+            "text": "Look, it's okay if you don't know. There are probably loads of folks who walk around pretending they totally know why that thing in the sky seems to get bigger and smaller at regular intervals but who totally do not."
+          },
+          {
+            "id": "E",
+            "text": "The moon orbits Earth, and it's tidally locked—that means it always shows us the same face, instead of spinning around like our planet does. That's why you can always see the man on the moon (or the moon rabbit, depending on your cultural preferences) even as it spins around us. But while the moon is big and bright in the sky when it's full, that's only because it's reflecting light from the sun. But the moon is always moving, so it's getting hit with sunlight at different angles. It's invisible to us during the new moon, because our satellite is parked right between us and the sun; the so-called dark side of the moon is lit up like Las Vegas, but the side we can see is in shadow. A full moon happens when the earth is right between the sun and the moon, so sunlight hits the part we can see. And all the other phases are just the transition from one of those extremes to the other."
+          },
+          {
+            "id": "F",
+            "text": "The moon isn't always exactly the same distance from Earth, because its orbit isn't perfectly circular. We call the closest point perigee (近地点), and the most distant point is apogee (远地点). 2018's closest perigee and most distant apogee both happened in January, and the difference was about 30,000 miles."
+          },
+          {
+            "id": "G",
+            "text": "The reason you care about this ordinary change in distance is that it turns a moon super. When a full moon happens close to perigee, it's going to look a bit bigger. Honestly, the difference is not that profound, but if you're in a position to photograph the supermoon next to something that shows the slight increase in scale, it can look pretty cool. January's super blood wolf moon eclipse is super because the date lines up with the closest the moon will get to us during January, but the moon won't actually be at its closest for the year until February's supermoon, which you can expect plenty of undue excitement over."
+          },
+          {
+            "id": "H",
+            "text": "Blood moons only occur during total lunar eclipses (which can happen a few times a year in any given location). When the moon slips through our shadow, we give it a reddish coloring. The moon can also look orange whenever it's rising or setting, or if it hangs low in the horizon all night-the light bouncing off of it has to travel through a thicker atmosphere there, which scatters more blue light away. But you'll probably only see that deep, sinister red during an eclipse."
+          },
+          {
+            "id": "I",
+            "text": "A lot of headlines about moons are just ridiculous (you do not need to be particularly excited about a blue moon, it just looks like a regular full moon), but you should definitely roll out of bed to look at a blood moon if one is going to be visible in your region, even though they're just lunar eclipses and not evidence of bloody battles between the sky gods."
+          },
+          {
+            "id": "J",
+            "text": "In March of 2018, we had our second \"blue moon\" of the year, to much acclaim. And while that's not necessarily special in an oh-gosh-get-out-and-look-at-it way, it's certainly special: a blue moon is a nickname for when two full moons fall in the same calendar month, and we hadn't previously had two in one year since 1999. We won't have it happen again until 2037. Astronomer David Chapman explained that this is merely a peculiarity of our calendar; once we stopped doing things based on the moon and started trying to follow the sun and the seasons, we stopped having one reliable full moon per month. The moon cycle is 29.53 days long on average, so in most months we still end up with a single new moon and a single full one. But every once in a while, one month steals a full moon from another. In 2018 (and in 1999, and again in 2037) both January and March stacked full moons on the first and last nights of the month, leaving February in the dark."
+          },
+          {
+            "id": "K",
+            "text": "Getting two blue moons a year is rare, but we have individual blue moons every few years. Also, fun fact: not actually blue. A moon can indeed take on a moody blue color, but this only happens when particles of just the right size disperse through the sky-and it has nothing to do with the moon's status as \"blue\". Big clouds of ash from volcanic eruptions or fires can do the trick, but it doesn't happen often, and the stars would certainly have to align for two such rare instances to occur at once."
+          },
+          {
+            "id": "L",
+            "text": "You may have heard that the super special second blue moon of 2018 was also a Paschal moon. This is true! That just means it was the first full moon of spring, which is often used to determine the date of Easter Sunday. All of this is just calendar nonsense and we refuse to go into it further."
+          },
+          {
+            "id": "M",
+            "text": "Sometimes you'll see a headline that promises a moon with so many qualifiers it makes your head spin. A super blue blood worm moon, perhaps? Or a super blood wolf moon? Lots of websites will tell you that \"wolf moon\" is the traditional name of the first full moon of the year in \"Native American\" cultures, which is kind of a weird thing to claim given that there are 573 registered Tribal Nations in the US alone today, not to mention historically. The idea that hungry, howling wolves were such a universal constant in January that all of North America with its different cultures, geographies, and languages spontaneously came up with the same nickname is illogical."
+          },
+          {
+            "id": "N",
+            "text": "Many cultures have traditional names for the full moon in a given month or season, so there's quite a list to draw from if you're trying to really juice up a story on a slightly-bigger-than-average view of the moon. But these are all based on human calendars and activities and folklore, you will not go outside and see a pink moon in April, though I wish it were so."
+          }
+        ]
+      }
+    },
+    {
+      "materialId": "mat-2024-12-R3",
+      "section": "reading",
+      "part": "reading.p3",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "Passage One",
+        "wordCount": 450,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "With population increases and global urbanisation ever accelerating, much attention is focused on the sustainability of our cities and scarce attention is paid to the countryside. Rural life is associated with closely-knit communities, sense of belonging, and a simple, tranquil life. Yet whilst some or all of these elements exist in the countryside, so do conservatism and a lack of employment opportunities. And it is mostly due to the latter that rural communities are suffering. Attracted by the improved economics of urban areas, country-dwellers across the world are moving out, contributing to the excessive crowdedness of densely populated cities, and leaving the countryside in desolation. So how can the countryside ensure its survival among these changes; or should it at all? Due to both the distance between residences and facilities and often intermittent public transport, those living in the countryside are heavier automobile users. Rural dwellers also use more energy maintaining their mostly detached buildings. We may be piled up like boxes in the city, but this brings energy efficiency that the countryside cannot match. Rural energy requirements result in higher carbon emissions per person than in the city, so it is actually irresponsible to endorse such a lifestyle choice. Protecting the countryside is a hot topic. Those who have made their fortunes in the city often buy second homes in the countryside, visiting intermittently for a sample of a supposedly simple life. The side-effect of this is that house prices are pushed up due to increased demand, leaving them unaffordable for local people. A solution has yet to be found for this challenge, for market forces are further forcing residents out of the countryside. For those who believe in rural preservation, this is deplorable. Whilst an idealised view of the countryside is common, the reality is that rural life has continuously evolved. Industrialisation brought an increase in divisions of labour, changing social links between rural people. The internet has introduced once foreign cultures into the countryside. Improved travel connections and affordability have made the world more accessible, creating a \"global village\". Considering these changes, surely an evolving countryside is inevitable. Perhaps the countryside should also prepare itself for massive population increases in the future. With cities across the world growing rapidly, how will the current urban generation respond to the inevitable social changes of mass urbanisation? Will the longing for a simpler life become stronger, fueling a rural renaissance? As the world continues to urbanise, the voices calling for rural preservation may well grow louder. But change is inevitable. We know that the world is going to see new cities emerging from the dust and current cities growing into megacities. but the future of the countryside is less clear."
+          }
+        ]
+      }
+    },
+    {
+      "materialId": "mat-2024-12-R4",
+      "section": "reading",
+      "part": "reading.p3",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "Passage Two",
+        "wordCount": 447,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "Statements, like \"beauty is in the eye of the beholder (观看者)\", are rarely questioned. They've become so embedded in our consciousness that people think it's absurd to think otherwise. It might be useful, however, to at least push back on this assumption because people evaluate environment, situations, and people aesthetically. We may find that we still believe it is correct, but we may also find that there is a lot more to the situation than you suppose. A recent study exploring aesthetic taste was published in Cognition. The results from this study show that people agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, or human-made objects. The study found that shared taste was most common for faces and natural landscapes, but least common among works of architecture and art. The hypothesis is the commonly pleasing features, like proportion or symmetry, are at work. Preferences for natural scenes might be learned through life experiences. Factors like habitability, safety, and openness might be preferred as people develop. Some of the details of landscapes change, but the basics are more common, e.g., water, open spaces, and signs of care. Art and architecture, unlike natural spaces, do not have the same level of exposure. So, people do not have the same level of shared taste. It's possible that the lower amount of agreement in the shared taste of artifacts has to do more with elements of style, rather than \"behavioral consequences\". All of the consequences seem reasonable (or at least possible), but I think there might be an interesting philosophical conclusion that they did not draw. It seems that there is an objective ground to our aesthetic preferences or evaluations. I am not saying this would mean beauty is completely objective, just that there could possibly be general objective principles at work, i.e., beauty is not simply in the eye of the beholder. Nature exhibits some of the universal aesthetic features, such as radiance, in a common way throughout the world. It's not exactly the same everywhere, but it is common. For example, a sunset is similar enough in different places to warrant almost universal appeal. Possible universal principles of beauty—such as proportion, fittingness, radiance, and others—are general categories, which allow for a wide array of embodiments. When people get involved in making artifacts in architecture or art, they apply these very general concepts in unique ways. But the way they applied the principle may not have universal appeal. This is why it's important to experience diverse cultures and their artifacts because it opens us up to different ways of approaching or constructing beauty. And it is always good to question our assumptions."
+          }
+        ]
+      }
+    },
+    {
+      "materialId": "mat-2024-12-T",
+      "section": "translation",
+      "part": "translation",
+      "sharedAcrossVariants": true,
+      "passage": {
+        "title": "汉译英",
+        "wordCount": 210,
+        "paragraphs": [
+          {
+            "id": "P1",
+            "text": "洋山港（Yangshan Port）是上海航运中心的重要组成部分，是中国第一个深水港，也是世界上规模 最大的深水港之一。经过近20 年的发展，洋山港已实现高度自动化。数字技术和人工智能的使用大大 减少了用工成本和碳排放。自主研发的码头管理系统可以在百公里之外对大型设备进行远程操控。洋山 港看上去一片繁忙，现场却见不到人工操作，而且能够24 小时不间断运作。洋山港将不断发展，为把 上海建成一个全球航运中心做出更大贡献。"
+          }
+        ]
+      },
+      "referenceTranslation": {
+        "text": "Exploring space has always been a dream of the Chinese nation. In 2003, the successful launch of \"Shenzhou 5\" made Yang Liwei the first Chinese astronaut to fly into space. In 2008, \"Shenzhou 7\" was launched, and Zhai Zhigang became the first Chinese astronaut to conduct a spacewalk. In recent years, China's space industry has entered the \"fast lane\" of technological development, with comprehensive advancements in space infrastructure construction. By 2022, the construction of the Chinese space station was fully completed. The rapid development of China's space industry has written a glorious chapter in the history of the Chinese nation and made significant contributions to the advancement of human civilization. In the future, China's steps in space exploration will be steadier and faster.",
+        "sourceId": "koolearn-v2"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "questionId": "cet6.2024-12.v2.q1",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p1",
+      "paperNo": 1,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Changing his major."
+        },
+        {
+          "optionId": "o2",
+          "text": "His family situation."
+        },
+        {
+          "optionId": "o3",
+          "text": "Revising his graduation thesis."
+        },
+        {
+          "optionId": "o4",
+          "text": "His passion for Art History."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q2",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p1",
+      "paperNo": 2,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "He doesn't think it legitimate to depend on his father."
+        },
+        {
+          "optionId": "o2",
+          "text": "He thinks his financial situation has now changed."
+        },
+        {
+          "optionId": "o3",
+          "text": "He doesn't think it will provide him with a living."
+        },
+        {
+          "optionId": "o4",
+          "text": "He thinks it nourishes the financially secure only."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q3",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p1",
+      "paperNo": 3,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Try his best to socialize and build a network in the art industry."
+        },
+        {
+          "optionId": "o2",
+          "text": "Seek financially viable employment opportunities after graduation."
+        },
+        {
+          "optionId": "o3",
+          "text": "Investigate all possible ways to become a celebrity in the art world."
+        },
+        {
+          "optionId": "o4",
+          "text": "Strike a balance between intellectual pursuits and financial security."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q4",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p1",
+      "paperNo": 4,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Money."
+        },
+        {
+          "optionId": "o2",
+          "text": "Time."
+        },
+        {
+          "optionId": "o3",
+          "text": "Determination."
+        },
+        {
+          "optionId": "o4",
+          "text": "Optimism."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q5",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p1",
+      "paperNo": 5,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Their decision on investigating beef consumption."
+        },
+        {
+          "optionId": "o2",
+          "text": "Their original ideas about the domestic market."
+        },
+        {
+          "optionId": "o3",
+          "text": "Their different approaches to a case study."
+        },
+        {
+          "optionId": "o4",
+          "text": "Their end-of-semester business projects."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q6",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p1",
+      "paperNo": 6,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Expanding farmland out west."
+        },
+        {
+          "optionId": "o2",
+          "text": "Importing most of the beef."
+        },
+        {
+          "optionId": "o3",
+          "text": "Raising cattle domestically."
+        },
+        {
+          "optionId": "o4",
+          "text": "Continuing to boost economic growth."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q7",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p1",
+      "paperNo": 7,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Technical equipment."
+        },
+        {
+          "optionId": "o2",
+          "text": "Business consultancy."
+        },
+        {
+          "optionId": "o3",
+          "text": "Beef."
+        },
+        {
+          "optionId": "o4",
+          "text": "Carwashing."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q8",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p1",
+      "paperNo": 8,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Car owners of all walks of life."
+        },
+        {
+          "optionId": "o2",
+          "text": "High-end customers in big cities."
+        },
+        {
+          "optionId": "o3",
+          "text": "Consumers craving for professional service."
+        },
+        {
+          "optionId": "o4",
+          "text": "Well-off dealers seeking a profitable markup."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q9",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p2",
+      "paperNo": 9,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Parents' talking with them during TV time raises their curiosity levels."
+        },
+        {
+          "optionId": "o2",
+          "text": "Their daily television exposure cuts parent-child conversation time."
+        },
+        {
+          "optionId": "o3",
+          "text": "The more TV they watch the poorer their progress in development."
+        },
+        {
+          "optionId": "o4",
+          "text": "Their socioeconomic levels impact their academic achievement."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q10",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p2",
+      "paperNo": 10,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Kids' enhanced learning."
+        },
+        {
+          "optionId": "o2",
+          "text": "Kids' curiosity levels."
+        },
+        {
+          "optionId": "o3",
+          "text": "Kids' reading and math."
+        },
+        {
+          "optionId": "o4",
+          "text": "Kids' behavioral development."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q11",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p2",
+      "paperNo": 11,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It can hinder kids from getting on with their peers."
+        },
+        {
+          "optionId": "o2",
+          "text": "It can cut into kids' time on exploratory activities."
+        },
+        {
+          "optionId": "o3",
+          "text": "It can arouse kids' interest in how people interact in real life."
+        },
+        {
+          "optionId": "o4",
+          "text": "It can widen the gap between kids from different economic statuses."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q12",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p2",
+      "paperNo": 12,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Exerting ourselves too hard in order to attain our life's goals."
+        },
+        {
+          "optionId": "o2",
+          "text": "Being possessed with a single thought of professional success."
+        },
+        {
+          "optionId": "o3",
+          "text": "Trying every means to beat others in terms of personal aspirations."
+        },
+        {
+          "optionId": "o4",
+          "text": "Being mindlessly driven to possess more and more material things."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q13",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p2",
+      "paperNo": 13,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "We might isolate ourselves from our fellow beings."
+        },
+        {
+          "optionId": "o2",
+          "text": "We might acquire an incorrect sense of well-being."
+        },
+        {
+          "optionId": "o3",
+          "text": "We might end up pursuing all the wrong things."
+        },
+        {
+          "optionId": "o4",
+          "text": "We might make a mess of our personal lives."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q14",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p2",
+      "paperNo": 14,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They should be based on solid theoretical concepts."
+        },
+        {
+          "optionId": "o2",
+          "text": "They should take personal interests into account."
+        },
+        {
+          "optionId": "o3",
+          "text": "They should include goals to help other people."
+        },
+        {
+          "optionId": "o4",
+          "text": "They should increase our sense of worthiness."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q15",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p2",
+      "paperNo": 15,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Drifting through life aimlessly."
+        },
+        {
+          "optionId": "o2",
+          "text": "Giving up the chance to fulfill yourself."
+        },
+        {
+          "optionId": "o3",
+          "text": "Abandoning all that life has to offer."
+        },
+        {
+          "optionId": "o4",
+          "text": "Spoiling your character and integrity."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q16",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p3",
+      "paperNo": 16,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Grade-raising ways and means."
+        },
+        {
+          "optionId": "o2",
+          "text": "Pressure-alleviating exercise."
+        },
+        {
+          "optionId": "o3",
+          "text": "Revision-conducting approaches."
+        },
+        {
+          "optionId": "o4",
+          "text": "Brain-boosting food and drink."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q17",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p3",
+      "paperNo": 17,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Buying it from coffee shops."
+        },
+        {
+          "optionId": "o2",
+          "text": "Building up a tolerance of it."
+        },
+        {
+          "optionId": "o3",
+          "text": "Drinking it after 2 pm."
+        },
+        {
+          "optionId": "o4",
+          "text": "Consuming it with sugar."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q18",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p3",
+      "paperNo": 18,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "By taking varied vitamin supplements."
+        },
+        {
+          "optionId": "o2",
+          "text": "By consuming a rich variety of foods."
+        },
+        {
+          "optionId": "o3",
+          "text": "By eating both oranges and frozen berries."
+        },
+        {
+          "optionId": "o4",
+          "text": "By getting components packaged in tablets."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q19",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p3",
+      "paperNo": 19,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Many people across advanced economies think the world is going from bad to worse."
+        },
+        {
+          "optionId": "o2",
+          "text": "The news focuses on reporting catastrophes that occur across the world."
+        },
+        {
+          "optionId": "o3",
+          "text": "A significant part of the world is experiencing another great recession."
+        },
+        {
+          "optionId": "o4",
+          "text": "Many people have no idea of those living under miserable conditions."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q20",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p3",
+      "paperNo": 20,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It has experienced ups and downs like any other historical trend."
+        },
+        {
+          "optionId": "o2",
+          "text": "It is hailed as a miracle by both economists and ordinary people."
+        },
+        {
+          "optionId": "o3",
+          "text": "It is the only way for all countries to share economic prosperity."
+        },
+        {
+          "optionId": "o4",
+          "text": "It has given more and more countries a rare chance to thrive."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q21",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p3",
+      "paperNo": 21,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Their fortunes may take a downturn."
+        },
+        {
+          "optionId": "o2",
+          "text": "They can be classified as middle class."
+        },
+        {
+          "optionId": "o3",
+          "text": "Their living standards have been deteriorating."
+        },
+        {
+          "optionId": "o4",
+          "text": "They are experiencing a radical transformation."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q22",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p3",
+      "paperNo": 22,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Why smells can activate emotional memories."
+        },
+        {
+          "optionId": "o2",
+          "text": "How powerful the sense of smell can become."
+        },
+        {
+          "optionId": "o3",
+          "text": "How scent particles revive memories forgotten."
+        },
+        {
+          "optionId": "o4",
+          "text": "Why the scent of bread has a strong mental impact."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q23",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p3",
+      "paperNo": 23,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "The brain cells' processing of memories experienced as strongly emotional."
+        },
+        {
+          "optionId": "o2",
+          "text": "The activation of the brain's emotion processing area by chemical particles."
+        },
+        {
+          "optionId": "o3",
+          "text": "The interaction between chemical particles and the brain cells responsible for smell."
+        },
+        {
+          "optionId": "o4",
+          "text": "The sensations of scents going directly to the brain's emotional and memory centers."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q24",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p3",
+      "paperNo": 24,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Imagination."
+        },
+        {
+          "optionId": "o2",
+          "text": "Association."
+        },
+        {
+          "optionId": "o3",
+          "text": "Experience."
+        },
+        {
+          "optionId": "o4",
+          "text": "Context."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q25",
+      "materialId": "mat-2024-12-L",
+      "part": "listening.p3",
+      "paperNo": 25,
+      "type": "single_choice",
+      "stem": "",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Inaccuracy and alterability."
+        },
+        {
+          "optionId": "o2",
+          "text": "Susceptibility to polar interpretations."
+        },
+        {
+          "optionId": "o3",
+          "text": "Being personal and individualistic."
+        },
+        {
+          "optionId": "o4",
+          "text": "Being dependent on relevant scenarios."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q26",
+      "materialId": "mat-2024-12-R1",
+      "part": "reading.p1",
+      "paperNo": 26,
+      "type": "banked_cloze",
+      "blankIndex": 1,
+      "stem": "选词填空第 26 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q27",
+      "materialId": "mat-2024-12-R1",
+      "part": "reading.p1",
+      "paperNo": 27,
+      "type": "banked_cloze",
+      "blankIndex": 2,
+      "stem": "选词填空第 27 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q28",
+      "materialId": "mat-2024-12-R1",
+      "part": "reading.p1",
+      "paperNo": 28,
+      "type": "banked_cloze",
+      "blankIndex": 3,
+      "stem": "选词填空第 28 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q29",
+      "materialId": "mat-2024-12-R1",
+      "part": "reading.p1",
+      "paperNo": 29,
+      "type": "banked_cloze",
+      "blankIndex": 4,
+      "stem": "选词填空第 29 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q30",
+      "materialId": "mat-2024-12-R1",
+      "part": "reading.p1",
+      "paperNo": 30,
+      "type": "banked_cloze",
+      "blankIndex": 5,
+      "stem": "选词填空第 30 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q31",
+      "materialId": "mat-2024-12-R1",
+      "part": "reading.p1",
+      "paperNo": 31,
+      "type": "banked_cloze",
+      "blankIndex": 6,
+      "stem": "选词填空第 31 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q32",
+      "materialId": "mat-2024-12-R1",
+      "part": "reading.p1",
+      "paperNo": 32,
+      "type": "banked_cloze",
+      "blankIndex": 7,
+      "stem": "选词填空第 32 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q33",
+      "materialId": "mat-2024-12-R1",
+      "part": "reading.p1",
+      "paperNo": 33,
+      "type": "banked_cloze",
+      "blankIndex": 8,
+      "stem": "选词填空第 33 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q34",
+      "materialId": "mat-2024-12-R1",
+      "part": "reading.p1",
+      "paperNo": 34,
+      "type": "banked_cloze",
+      "blankIndex": 9,
+      "stem": "选词填空第 34 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q35",
+      "materialId": "mat-2024-12-R1",
+      "part": "reading.p1",
+      "paperNo": 35,
+      "type": "banked_cloze",
+      "blankIndex": 10,
+      "stem": "选词填空第 35 空",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q36",
+      "materialId": "mat-2024-12-R2",
+      "part": "reading.p2",
+      "paperNo": 36,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "stem": "We cannot see the moon at times when it is positioned right between the earth and the sun.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q37",
+      "materialId": "mat-2024-12-R2",
+      "part": "reading.p2",
+      "paperNo": 37,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "stem": "Volcanic eruptions may cause the moon to assume a moody blue color.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q38",
+      "materialId": "mat-2024-12-R2",
+      "part": "reading.p2",
+      "paperNo": 38,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "stem": "The moon will be closest to the earth when the supermoon occurs in February.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q39",
+      "materialId": "mat-2024-12-R2",
+      "part": "reading.p2",
+      "paperNo": 39,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "stem": "There is nothing unusual about the super blood wolf moon, which will bear no resemblance to a bloody wolf head.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q40",
+      "materialId": "mat-2024-12-R2",
+      "part": "reading.p2",
+      "paperNo": 40,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "stem": "The moon will appear orange when the light reflecting from it travels through an atmosphere thicker than usual.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q41",
+      "materialId": "mat-2024-12-R2",
+      "part": "reading.p2",
+      "paperNo": 41,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "stem": "It is contrary to logic to claim the name of wolf moon originates from the cultures of American Indians.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q42",
+      "materialId": "mat-2024-12-R2",
+      "part": "reading.p2",
+      "paperNo": 42,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "stem": "As the moon's orbit is not a hundred-percent circle, its distance from the earth changes.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q43",
+      "materialId": "mat-2024-12-R2",
+      "part": "reading.p2",
+      "paperNo": 43,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "stem": "A full moon in a given month or season gets a specific name in different cultures.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q44",
+      "materialId": "mat-2024-12-R2",
+      "part": "reading.p2",
+      "paperNo": 44,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "stem": "There are likely lots of people who know absolutely nothing about why the moon appears to change its size regularly but act like they know.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q45",
+      "materialId": "mat-2024-12-R2",
+      "part": "reading.p2",
+      "paperNo": 45,
+      "type": "paragraph_match",
+      "paragraphLetters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N"
+      ],
+      "stem": "When a full moon appears twice in the same month, it is nicknamed a blue moon.",
+      "options": [],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q46",
+      "materialId": "mat-2024-12-R3",
+      "part": "reading.p3",
+      "paperNo": 46,
+      "type": "single_choice",
+      "stem": "What has become of the rural areas nowadays?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They are becoming somewhat deserted."
+        },
+        {
+          "optionId": "o2",
+          "text": "They are being increasingly urbanised."
+        },
+        {
+          "optionId": "o3",
+          "text": "They are closely-knit communities."
+        },
+        {
+          "optionId": "o4",
+          "text": "They are haunted by conservatism."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q47",
+      "materialId": "mat-2024-12-R3",
+      "part": "reading.p3",
+      "paperNo": 47,
+      "type": "single_choice",
+      "stem": "What does the author think of the rural lifestyle?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It is unlikely to survive given the on-going changes."
+        },
+        {
+          "optionId": "o2",
+          "text": "It is less energy-efficient compared to that in cities."
+        },
+        {
+          "optionId": "o3",
+          "text": "It is highly dependent upon heavy automobiles."
+        },
+        {
+          "optionId": "o4",
+          "text": "It is a choice more affluent people will endorse."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q48",
+      "materialId": "mat-2024-12-R3",
+      "part": "reading.p3",
+      "paperNo": 48,
+      "type": "single_choice",
+      "stem": "What does the author think of rich urban residents buying a second home in the countryside?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It is bound to mar the traditional rural life."
+        },
+        {
+          "optionId": "o2",
+          "text": "It adversely impacts rural social stability."
+        },
+        {
+          "optionId": "o3",
+          "text": "It hinders rural economies' revitalisation."
+        },
+        {
+          "optionId": "o4",
+          "text": "It is detrimental to rural preservation."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q49",
+      "materialId": "mat-2024-12-R3",
+      "part": "reading.p3",
+      "paperNo": 49,
+      "type": "single_choice",
+      "stem": "What do we learn about the countryside with industrialisation and technological advances?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It is destined to change gradually."
+        },
+        {
+          "optionId": "o2",
+          "text": "It will present an idealised way of life."
+        },
+        {
+          "optionId": "o3",
+          "text": "It is likely to embrace foreign cultures."
+        },
+        {
+          "optionId": "o4",
+          "text": "It will become increasingly diversified."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q50",
+      "materialId": "mat-2024-12-R3",
+      "part": "reading.p3",
+      "paperNo": 50,
+      "type": "single_choice",
+      "stem": "What does the author think of the future of the countryside compared with cities?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It is going to be harder for the locals."
+        },
+        {
+          "optionId": "o2",
+          "text": "It is going to resemble that of cities."
+        },
+        {
+          "optionId": "o3",
+          "text": "It is less likely to stay static."
+        },
+        {
+          "optionId": "o4",
+          "text": "It is less easy to envisage."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q51",
+      "materialId": "mat-2024-12-R4",
+      "part": "reading.p3",
+      "paperNo": 51,
+      "type": "single_choice",
+      "stem": "What does the passage say about the statement \"beauty is in the eye of the beholder\"?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It has hardly ever been disputed."
+        },
+        {
+          "optionId": "o2",
+          "text": "It can be interpreted aesthetically."
+        },
+        {
+          "optionId": "o3",
+          "text": "Many people have found it absurd."
+        },
+        {
+          "optionId": "o4",
+          "text": "People have long been misled by it."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q52",
+      "materialId": "mat-2024-12-R4",
+      "part": "reading.p3",
+      "paperNo": 52,
+      "type": "single_choice",
+      "stem": "What does a recent study exploring aesthetic taste show?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "Aesthetic tastes tend to differ from person to person."
+        },
+        {
+          "optionId": "o2",
+          "text": "Natural beauty is rarely surpassed by artificial beauty."
+        },
+        {
+          "optionId": "o3",
+          "text": "There is less consensus on objects shaped by human craft."
+        },
+        {
+          "optionId": "o4",
+          "text": "There is general agreement on what is pleasing to the eye."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q53",
+      "materialId": "mat-2024-12-R4",
+      "part": "reading.p3",
+      "paperNo": 53,
+      "type": "single_choice",
+      "stem": "Why do people differ in their aesthetic appraisal of artifacts?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "They come out in a great variety of designs."
+        },
+        {
+          "optionId": "o2",
+          "text": "They lead to varying behavioral consequences."
+        },
+        {
+          "optionId": "o3",
+          "text": "They take up much less natural space than landscapes."
+        },
+        {
+          "optionId": "o4",
+          "text": "They come into people's view less often than natural spaces."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q54",
+      "materialId": "mat-2024-12-R4",
+      "part": "reading.p3",
+      "paperNo": 54,
+      "type": "single_choice",
+      "stem": "What does the example of sunset tell about nature?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "It creates a powerful appeal through its brilliant radiance."
+        },
+        {
+          "optionId": "o2",
+          "text": "It displays aesthetic traits in a similar way the world over."
+        },
+        {
+          "optionId": "o3",
+          "text": "It embodies beauty with a wide array of aesthetic features."
+        },
+        {
+          "optionId": "o4",
+          "text": "It establishes the principles of beauty in a number of ways."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q55",
+      "materialId": "mat-2024-12-R4",
+      "part": "reading.p3",
+      "paperNo": 55,
+      "type": "single_choice",
+      "stem": "Why do artifacts not always hold universal appeal?",
+      "options": [
+        {
+          "optionId": "o1",
+          "text": "The appreciation of their beauty is not subject to objective standards."
+        },
+        {
+          "optionId": "o2",
+          "text": "The universal principle of beauty prevents a wide array of embodiments."
+        },
+        {
+          "optionId": "o3",
+          "text": "The way their creators apply the principle of beauty may not be pleasing to everybody."
+        },
+        {
+          "optionId": "o4",
+          "text": "Their creators interpret the universal principle of beauty each in their preferred way."
+        }
+      ],
+      "evidence": [],
+      "evidenceStatus": "pending",
+      "skills": [],
+      "difficulty": 3
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q56",
+      "materialId": "mat-2024-12-T",
+      "part": "translation",
+      "paperNo": 56,
+      "type": "free_text",
+      "stem": "将下面的中文段落译成英文。",
+      "options": [],
+      "evidence": [
+        {
+          "kind": "reference_translation",
+          "segmentIndex": 1,
+          "infoPoint": "北斗系统的研制意义"
+        }
+      ],
+      "evidenceStatus": "verified",
+      "skills": [],
+      "difficulty": 3
+    }
+  ],
+  "answers": [
+    {
+      "questionId": "cet6.2024-12.v2.q1",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-001"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q2",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-002"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q3",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-003"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q4",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-004"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q5",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-005"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q6",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-006"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q7",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-007"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q8",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-008"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q9",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-009"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q10",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-010"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q11",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-011"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q12",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-012"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q13",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-013"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q14",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-014"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q15",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-015"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q16",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-016"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q17",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-017"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q18",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-018"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q19",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-019"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q20",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-020"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q21",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-021"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q22",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-022"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q23",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-023"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q24",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-024"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q25",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-025"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q26",
+      "optionId": "word:shadow",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-26"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q27",
+      "optionId": "word:affectionate",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-27"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q28",
+      "optionId": "word:flips",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-28"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q29",
+      "optionId": "word:halt",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-29"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q30",
+      "optionId": "word:typically",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-30"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q31",
+      "optionId": "word:overburdened",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-31"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q32",
+      "optionId": "word:erode",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-32"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q33",
+      "optionId": "word:vigorous",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-33"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q34",
+      "optionId": "word:tentatively",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-34"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q35",
+      "optionId": "word:predominates",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-35"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q36",
+      "optionId": "para:E",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-36"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q37",
+      "optionId": "para:K",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-37"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q38",
+      "optionId": "para:G",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-38"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q39",
+      "optionId": "para:B",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-39"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q40",
+      "optionId": "para:H",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-40"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q41",
+      "optionId": "para:M",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-41"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q42",
+      "optionId": "para:F",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-42"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q43",
+      "optionId": "para:N",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-43"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q44",
+      "optionId": "para:D",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-44"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q45",
+      "optionId": "para:J",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-45"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q46",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-046"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q47",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-047"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q48",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-048"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q49",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-049"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q50",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-050"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q51",
+      "optionId": "o1",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-051"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q52",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-052"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q53",
+      "optionId": "o4",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-053"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q54",
+      "optionId": "o2",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-054"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    },
+    {
+      "questionId": "cet6.2024-12.v2.q55",
+      "optionId": "o3",
+      "basis": "third_party_single",
+      "derivedFrom": [
+        "akr-2024-12-v2-055"
+      ],
+      "conflicts": [],
+      "review": {
+        "status": "verified",
+        "by": [
+          "import-2024-12-14"
+        ],
+        "at": "2026-11-12"
+      }
+    }
+  ],
+  "answerKeyRecords": [
+    {
+      "recordId": "akr-2024-12-v2-001",
+      "variantId": "v2",
+      "paperNo": 1,
+      "letter": "A",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-002",
+      "variantId": "v2",
+      "paperNo": 2,
+      "letter": "C",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-003",
+      "variantId": "v2",
+      "paperNo": 3,
+      "letter": "A",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-004",
+      "variantId": "v2",
+      "paperNo": 4,
+      "letter": "B",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-005",
+      "variantId": "v2",
+      "paperNo": 5,
+      "letter": "D",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-006",
+      "variantId": "v2",
+      "paperNo": 6,
+      "letter": "C",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-007",
+      "variantId": "v2",
+      "paperNo": 7,
+      "letter": "D",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-008",
+      "variantId": "v2",
+      "paperNo": 8,
+      "letter": "B",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-009",
+      "variantId": "v2",
+      "paperNo": 9,
+      "letter": "A",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-010",
+      "variantId": "v2",
+      "paperNo": 10,
+      "letter": "B",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-011",
+      "variantId": "v2",
+      "paperNo": 11,
+      "letter": "B",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-012",
+      "variantId": "v2",
+      "paperNo": 12,
+      "letter": "D",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-013",
+      "variantId": "v2",
+      "paperNo": 13,
+      "letter": "C",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-014",
+      "variantId": "v2",
+      "paperNo": 14,
+      "letter": "C",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-015",
+      "variantId": "v2",
+      "paperNo": 15,
+      "letter": "A",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-016",
+      "variantId": "v2",
+      "paperNo": 16,
+      "letter": "D",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-017",
+      "variantId": "v2",
+      "paperNo": 17,
+      "letter": "B",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-018",
+      "variantId": "v2",
+      "paperNo": 18,
+      "letter": "B",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-019",
+      "variantId": "v2",
+      "paperNo": 19,
+      "letter": "A",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-020",
+      "variantId": "v2",
+      "paperNo": 20,
+      "letter": "C",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-021",
+      "variantId": "v2",
+      "paperNo": 21,
+      "letter": "B",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-022",
+      "variantId": "v2",
+      "paperNo": 22,
+      "letter": "A",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-023",
+      "variantId": "v2",
+      "paperNo": 23,
+      "letter": "D",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-024",
+      "variantId": "v2",
+      "paperNo": 24,
+      "letter": "D",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-025",
+      "variantId": "v2",
+      "paperNo": 25,
+      "letter": "A",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-26",
+      "variantId": "v2",
+      "paperNo": 26,
+      "mode": "word",
+      "value": "shadow",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-27",
+      "variantId": "v2",
+      "paperNo": 27,
+      "mode": "word",
+      "value": "affectionate",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-28",
+      "variantId": "v2",
+      "paperNo": 28,
+      "mode": "word",
+      "value": "flips",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-29",
+      "variantId": "v2",
+      "paperNo": 29,
+      "mode": "word",
+      "value": "halt",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-30",
+      "variantId": "v2",
+      "paperNo": 30,
+      "mode": "word",
+      "value": "typically",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-31",
+      "variantId": "v2",
+      "paperNo": 31,
+      "mode": "word",
+      "value": "overburdened",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-32",
+      "variantId": "v2",
+      "paperNo": 32,
+      "mode": "word",
+      "value": "erode",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-33",
+      "variantId": "v2",
+      "paperNo": 33,
+      "mode": "word",
+      "value": "vigorous",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-34",
+      "variantId": "v2",
+      "paperNo": 34,
+      "mode": "word",
+      "value": "tentatively",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-35",
+      "variantId": "v2",
+      "paperNo": 35,
+      "mode": "word",
+      "value": "predominates",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-36",
+      "variantId": "v2",
+      "paperNo": 36,
+      "mode": "paragraph",
+      "value": "E",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-37",
+      "variantId": "v2",
+      "paperNo": 37,
+      "mode": "paragraph",
+      "value": "K",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-38",
+      "variantId": "v2",
+      "paperNo": 38,
+      "mode": "paragraph",
+      "value": "G",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-39",
+      "variantId": "v2",
+      "paperNo": 39,
+      "mode": "paragraph",
+      "value": "B",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-40",
+      "variantId": "v2",
+      "paperNo": 40,
+      "mode": "paragraph",
+      "value": "H",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-41",
+      "variantId": "v2",
+      "paperNo": 41,
+      "mode": "paragraph",
+      "value": "M",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-42",
+      "variantId": "v2",
+      "paperNo": 42,
+      "mode": "paragraph",
+      "value": "F",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-43",
+      "variantId": "v2",
+      "paperNo": 43,
+      "mode": "paragraph",
+      "value": "N",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-44",
+      "variantId": "v2",
+      "paperNo": 44,
+      "mode": "paragraph",
+      "value": "D",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-45",
+      "variantId": "v2",
+      "paperNo": 45,
+      "mode": "paragraph",
+      "value": "J",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-046",
+      "variantId": "v2",
+      "paperNo": 46,
+      "letter": "A",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-047",
+      "variantId": "v2",
+      "paperNo": 47,
+      "letter": "B",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-048",
+      "variantId": "v2",
+      "paperNo": 48,
+      "letter": "D",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-049",
+      "variantId": "v2",
+      "paperNo": 49,
+      "letter": "A",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-050",
+      "variantId": "v2",
+      "paperNo": 50,
+      "letter": "D",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-051",
+      "variantId": "v2",
+      "paperNo": 51,
+      "letter": "A",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-052",
+      "variantId": "v2",
+      "paperNo": 52,
+      "letter": "C",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-053",
+      "variantId": "v2",
+      "paperNo": 53,
+      "letter": "D",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-054",
+      "variantId": "v2",
+      "paperNo": 54,
+      "letter": "B",
+      "sourceId": "koolearn-v2"
+    },
+    {
+      "recordId": "akr-2024-12-v2-055",
+      "variantId": "v2",
+      "paperNo": 55,
+      "letter": "C",
+      "sourceId": "koolearn-v2"
+    }
+  ],
+  "variants": [
+    {
+      "variantId": "v2",
+      "label": {
+        "zh": "第 2 套"
+      },
+      "questionSet": [
+        "cet6.2024-12.v2.q1",
+        "cet6.2024-12.v2.q2",
+        "cet6.2024-12.v2.q3",
+        "cet6.2024-12.v2.q4",
+        "cet6.2024-12.v2.q5",
+        "cet6.2024-12.v2.q6",
+        "cet6.2024-12.v2.q7",
+        "cet6.2024-12.v2.q8",
+        "cet6.2024-12.v2.q9",
+        "cet6.2024-12.v2.q10",
+        "cet6.2024-12.v2.q11",
+        "cet6.2024-12.v2.q12",
+        "cet6.2024-12.v2.q13",
+        "cet6.2024-12.v2.q14",
+        "cet6.2024-12.v2.q15",
+        "cet6.2024-12.v2.q16",
+        "cet6.2024-12.v2.q17",
+        "cet6.2024-12.v2.q18",
+        "cet6.2024-12.v2.q19",
+        "cet6.2024-12.v2.q20",
+        "cet6.2024-12.v2.q21",
+        "cet6.2024-12.v2.q22",
+        "cet6.2024-12.v2.q23",
+        "cet6.2024-12.v2.q24",
+        "cet6.2024-12.v2.q25",
+        "cet6.2024-12.v2.q26",
+        "cet6.2024-12.v2.q27",
+        "cet6.2024-12.v2.q28",
+        "cet6.2024-12.v2.q29",
+        "cet6.2024-12.v2.q30",
+        "cet6.2024-12.v2.q31",
+        "cet6.2024-12.v2.q32",
+        "cet6.2024-12.v2.q33",
+        "cet6.2024-12.v2.q34",
+        "cet6.2024-12.v2.q35",
+        "cet6.2024-12.v2.q36",
+        "cet6.2024-12.v2.q37",
+        "cet6.2024-12.v2.q38",
+        "cet6.2024-12.v2.q39",
+        "cet6.2024-12.v2.q40",
+        "cet6.2024-12.v2.q41",
+        "cet6.2024-12.v2.q42",
+        "cet6.2024-12.v2.q43",
+        "cet6.2024-12.v2.q44",
+        "cet6.2024-12.v2.q45",
+        "cet6.2024-12.v2.q46",
+        "cet6.2024-12.v2.q47",
+        "cet6.2024-12.v2.q48",
+        "cet6.2024-12.v2.q49",
+        "cet6.2024-12.v2.q50",
+        "cet6.2024-12.v2.q51",
+        "cet6.2024-12.v2.q52",
+        "cet6.2024-12.v2.q53",
+        "cet6.2024-12.v2.q54",
+        "cet6.2024-12.v2.q55",
+        "cet6.2024-12.v2.q56"
+      ],
+      "writingTaskId": "wt-2024-12-v1",
+      "translationQuestionId": "cet6.2024-12.v2.q56"
+    }
+  ],
+  "writingTasks": [
+    {
+      "writingTaskId": "wt-2024-12-v1",
+      "paperNo": null,
+      "prompt": "For this part, you are allowed 30 minutes to write an essay that begins with the sentence \"Nowadays, more and more students have realized the importance of self-discipline in their personal growth.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words. You should copy the sentence given in quotes at the beginning of your essay.",
+      "requirements": [
+        "150–200 words",
+        "以给定的句子开头",
+        "不要照抄题目"
+      ],
+      "referenceEssays": []
+    }
+  ],
+  "integrity": {}
+}

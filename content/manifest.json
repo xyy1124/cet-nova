@@ -1,0 +1,183 @@
+{
+  "schemaVersion": "1.0.0",
+  "updatedAt": "2026-11-12",
+  "exams": ["cet6"],
+  "packs": [
+    {
+      "packId": "cet6-2022-12-v1",
+      "examId": "cet6",
+      "sessionId": "2022-12",
+      "kind": "exam",
+      "title": { "zh": "2022 年 12 月 六级真题（第 1 套）", "en": "CET-6 2022-12 set 1" },
+      "path": "sessions/2022-12-v1/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "卷面 OCR 缺听力 9–15 与选词填空，已按页面图人工补齐；音频 19.9 MB 外部"
+      }
+    },
+    {
+      "packId": "cet6-2023-06-v2",
+      "examId": "cet6",
+      "sessionId": "2023-06",
+      "kind": "exam",
+      "title": { "zh": "2023 年 6 月 六级真题（第 2 套）", "en": "CET-6 2023-06 set 2" },
+      "path": "sessions/2023-06-v2/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "解析 OCR 缺选词填空答案，26/27 已按页面识图补齐；音频 20.1 MB 外部"
+      }
+    },
+    {
+      "packId": "cet6-2022-12-v2",
+      "examId": "cet6",
+      "sessionId": "2022-12",
+      "kind": "exam",
+      "title": { "zh": "2022 年 12 月 六级真题（第 2 套）", "en": "CET-6 2022-12 set 2" },
+      "path": "sessions/2022-12-v2/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "卷面 OCR 缺选词填空页，已按页面图人工转录补齐；音频 19.3 MB 外部"
+      }
+    },
+    {
+      "packId": "cet6-2015-12-v2",
+      "examId": "cet6",
+      "sessionId": "2015-12",
+      "kind": "exam",
+      "title": { "zh": "2015 年 12 月 六级真题（第 2 套 · 无听力）", "en": "CET-6 2015-12 set 2 (no listening)" },
+      "path": "sessions/2015-12-v2/pack.json",
+      "questionCount": 31,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": false,
+        "audioCompleteness": "none",
+        "note": "仓库无该考次音频，仅阅读 30 题 + 写作 + 翻译"
+      }
+    },
+    {
+      "packId": "cet6-2023-06-v1",
+      "examId": "cet6",
+      "sessionId": "2023-06",
+      "kind": "exam",
+      "title": { "zh": "2023 年 6 月 六级真题（第 1 套）", "en": "CET-6 2023-06 set 1" },
+      "path": "sessions/2023-06-v1/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "卷面与解析由 OCR 识别；音频 20.1 MB 外部来源"
+      }
+    },
+    {
+      "packId": "cet6-2025-06-v1",
+      "examId": "cet6",
+      "sessionId": "2025-06",
+      "kind": "exam",
+      "title": { "zh": "2025 年 6 月 六级真题（第 1 套）", "en": "CET-6 2025-06 set 1" },
+      "path": "sessions/2025-06-v1/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "卷面与解析由 OCR 识别；音频 17.6 MB 外部来源；答案单一来源"
+      }
+    },
+    {
+      "packId": "cet6-2025-06-v2",
+      "examId": "cet6",
+      "sessionId": "2025-06",
+      "kind": "exam",
+      "title": { "zh": "2025 年 6 月 六级真题（第 2 套 · 无听力）", "en": "CET-6 2025-06 set 2 (no listening)" },
+      "path": "sessions/2025-06-v2/pack.json",
+      "questionCount": 31,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": false,
+        "audioCompleteness": "none",
+        "note": "本卷卷面未含听力，仅阅读 30 题 + 写作 + 翻译"
+      }
+    },
+    {
+      "packId": "cet6-2025-06-v3",
+      "examId": "cet6",
+      "sessionId": "2025-06",
+      "kind": "exam",
+      "title": { "zh": "2025 年 6 月 六级真题（第 3 套 · 无听力）", "en": "CET-6 2025-06 set 3 (no listening)" },
+      "path": "sessions/2025-06-v3/pack.json",
+      "questionCount": 31,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": false,
+        "audioCompleteness": "none",
+        "note": "本卷卷面未含听力，仅阅读 30 题 + 写作 + 翻译"
+      }
+    },
+    {
+      "packId": "cet6-2024-12-v1",
+      "examId": "cet6",
+      "sessionId": "2024-12",
+      "kind": "exam",
+      "title": { "zh": "2024 年 12 月 六级真题（第 1 套）", "en": "CET-6 2024-12 set 1" },
+      "path": "sessions/2024-12-v1/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "音频 70.8 MB，外部来源需手动获取；答案为单一来源（新东方在线）"
+      }
+    },
+    {
+      "packId": "cet6-2024-12-v2",
+      "examId": "cet6",
+      "sessionId": "2024-12",
+      "kind": "exam",
+      "title": { "zh": "2024 年 12 月 六级真题（第 2 套）", "en": "CET-6 2024-12 set 2" },
+      "path": "sessions/2024-12-v2/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "音频 27.9 MB，外部来源需手动获取；答案为单一来源（新东方在线）"
+      }
+    },
+    {
+      "packId": "cet6-demo-2026",
+      "examId": "cet6",
+      "sessionId": "demo-2026",
+      "kind": "demo",
+      "title": { "zh": "演示卷 · 题量删减", "en": "Demo paper" },
+      "path": "sessions/demo-2026/pack.json",
+      "questionCount": 11,
+      "completeness": {
+        "hasPaperPdf": false,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "partial",
+        "note": "本项目原创演示内容；听力为 Windows TTS 合成，非真题录音"
+      }
+    }
+  ]
+}
