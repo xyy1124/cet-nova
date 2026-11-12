@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0.0",
+  "updatedAt": "2026-11-12",
+  "exams": ["cet6"],
+  "packs": [
+    {
+      "packId": "cet6-2024-12-v1",
+      "examId": "cet6",
+      "sessionId": "2024-12",
+      "kind": "exam",
+      "title": { "zh": "2024 年 12 月 六级真题（第 1 套）", "en": "CET-6 2024-12 set 1" },
+      "path": "sessions/2024-12-v1/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "音频 70.8 MB，外部来源需手动获取；答案为单一来源（新东方在线）"
+      }
+    },
+    {
+      "packId": "cet6-2024-12-v2",
+      "examId": "cet6",
+      "sessionId": "2024-12",
+      "kind": "exam",
+      "title": { "zh": "2024 年 12 月 六级真题（第 2 套）", "en": "CET-6 2024-12 set 2" },
+      "path": "sessions/2024-12-v2/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "音频 27.9 MB，外部来源需手动获取；答案为单一来源（新东方在线）"
+      }
+    },
+    {
+      "packId": "cet6-demo-2026",
+      "examId": "cet6",
+      "sessionId": "demo-2026",
+      "kind": "demo",
+      "title": { "zh": "演示卷 · 题量删减", "en": "Demo paper" },
+      "path": "sessions/demo-2026/pack.json",
+      "questionCount": 11,
+      "completeness": {
+        "hasPaperPdf": false,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "partial",
+        "note": "本项目原创演示内容；听力为 Windows TTS 合成，非真题录音"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cet-nova",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "node scripts/sync-content.mjs && npm run dev -w @cetnova/web",
+    "build": "node scripts/sync-content.mjs && npm run validate && npm run build -w @cetnova/web",
+    "validate": "tsx scripts/validate-content.ts",
+    "preview": "npm run preview -w @cetnova/web",
+    "typecheck": "tsc --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

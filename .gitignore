@@ -1,0 +1,7 @@
+node_modules/
+dist/
+apps/web/public/content/
+*.local
+.DS_Store
+work/
+raw/
