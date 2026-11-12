@@ -4,6 +4,54 @@
   "exams": ["cet6"],
   "packs": [
     {
+      "packId": "cet6-2023-06-v2",
+      "examId": "cet6",
+      "sessionId": "2023-06",
+      "kind": "exam",
+      "title": { "zh": "2023 年 6 月 六级真题（第 2 套）", "en": "CET-6 2023-06 set 2" },
+      "path": "sessions/2023-06-v2/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "解析 OCR 缺选词填空答案，26/27 已按页面识图补齐；音频 20.1 MB 外部"
+      }
+    },
+    {
+      "packId": "cet6-2022-12-v2",
+      "examId": "cet6",
+      "sessionId": "2022-12",
+      "kind": "exam",
+      "title": { "zh": "2022 年 12 月 六级真题（第 2 套）", "en": "CET-6 2022-12 set 2" },
+      "path": "sessions/2022-12-v2/pack.json",
+      "questionCount": 56,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": true,
+        "audioCompleteness": "full",
+        "note": "卷面 OCR 缺选词填空页，已按页面图人工转录补齐；音频 19.3 MB 外部"
+      }
+    },
+    {
+      "packId": "cet6-2015-12-v2",
+      "examId": "cet6",
+      "sessionId": "2015-12",
+      "kind": "exam",
+      "title": { "zh": "2015 年 12 月 六级真题（第 2 套 · 无听力）", "en": "CET-6 2015-12 set 2 (no listening)" },
+      "path": "sessions/2015-12-v2/pack.json",
+      "questionCount": 31,
+      "completeness": {
+        "hasPaperPdf": true,
+        "hasAnswerKey": true,
+        "hasAudio": false,
+        "audioCompleteness": "none",
+        "note": "仓库无该考次音频，仅阅读 30 题 + 写作 + 翻译"
+      }
+    },
+    {
       "packId": "cet6-2023-06-v1",
       "examId": "cet6",
       "sessionId": "2023-06",

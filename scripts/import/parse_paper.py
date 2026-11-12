@@ -82,7 +82,7 @@ def parse_options(block: str) -> dict[str, str]:
     marks = list(re.finditer(r"([A-D])\)\s*", block))
     options: dict[str, str] = {}
     for idx, m in enumerate(marks):
-        letter = m.group(1)
+        letter = m.group(1) or m.group(2)
         start = m.end()
         end = marks[idx + 1].start() if idx + 1 < len(marks) else len(block)
         text = squeeze(block[start:end])
@@ -170,13 +170,13 @@ def parse_matching(part: str):
     if dir_end >= 0:
         block = block[dir_end + len("Answer Sheet 2.") :]
     paragraphs = []
-    marks = list(re.finditer(r"(?m)^\s*([A-P])\)\s+", block))
+    marks = list(re.finditer(r"(?m)^\s*(?:\[([A-P])\]|([A-P])\))\s+", block))
     stmt_start = re.search(r"(?m)^\s*36\.\s", block)
     title = ""
     if marks:
         title = squeeze(block[: marks[0].start()])
     for idx, m in enumerate(marks):
-        letter = m.group(1)
+        letter = m.group(1) or m.group(2)
         start = m.end()
         if idx + 1 < len(marks):
             end = marks[idx + 1].start()

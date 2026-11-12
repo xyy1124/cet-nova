@@ -93,7 +93,7 @@ def parse_matching_md(block: str):
     d = body.find("Answer Sheet 2.")
     if d >= 0:
         body = body[d + len("Answer Sheet 2.") :]
-    marks = list(re.finditer(r"(?m)^\s*([A-P])\)\s+", body))
+    marks = list(re.finditer(r"(?m)^\s*(?:\[([A-P])\]|([A-P])\))\s+", body))
     title = squeeze(body[: marks[0].start()]) if marks else ""
     paragraphs = []
     stmt_start = re.search(r"(?m)^\s*36\.\s", body)
